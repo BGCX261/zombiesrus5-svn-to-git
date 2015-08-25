@@ -1,0 +1,37 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_ARTIFACT_PIRATE"
+smallHudIcon "HUDICONSMALL_RESEARCHSUBJECT_ARTIFACT_PIRATE"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_ARTIFACT_PIRATE_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_ARTIFACT_PIRATE_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 1 , 4 ]
+ResearchField "Artifact"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel 2
+BaseUpgradeTime 75.000000
+PerLevelUpgradeTime 15.000000
+BaseCost
+	credits 1200.000000
+	metal 250.000000
+	crystal 250.000000
+PerLevelCostIncrease
+	credits 300.000000
+	metal 100.000000
+	crystal 100.000000
+Tier 0
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 1
+researchModifier
+	modifierType "PirateRaidsOneLevelLower"
+researchFloatModifiers 0
+artifactPicture "ArtifactPictureResearchPirate"
+uniqueOverlayBrush ""
+dlcId 204880

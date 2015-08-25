@@ -1,0 +1,47 @@
+c﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffColonialTitanLoadNuclearOrdinanceSelf"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 4
+levelSourceType "TitanUpgradeLevel"
+sourcePropertyType "AbilityALevel"
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 120.000000
+	Level:1 110.000000
+	Level:2 100.000000
+	Level:3 90.000000
+cooldownTime
+	Level:0 135.000000
+	Level:1 135.000000
+	Level:2 135.000000
+	Level:3 135.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_COLONIAL_TITAN_LOADNUCLEARORDINANCE_NAME"
+descStringID "IDS_ABILITY_COLONIAL_TITAN_LOADNUCLEARORDINANCE_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_COLONIAL_LOADNUCLEARORDINANCE"
+smallHudIcon "HUDICON_ABILITY_COLONIAL_LOADNUCLEARORDINANCE"
+infoCardIcon ""

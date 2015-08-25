@@ -1,0 +1,462 @@
+Stargate Races by dolynick
+version d1.06
+Compatible with SoaSE Diplomacy v1.34
+
+Credits:
+--------
+
+Dewing12 - Modelling: Ancients Corsair, Puddlejumper, Invictus Juggernaut (base model), Stargate.  Asgard Tyr, Mjolnir.  Wraith Hive, Dart. Goa'uld Al'kesh, Ra, Apophis, Anubis, Star base.  HUD Icons, pictures and MainView icons.
+Thoumsin - Modelling:  Base models for Wraith cruiser, Asgard Beliskner and O'Neill.
+Davide Sandona - Modelling:  Ancients Aurora and Battlecruiser high poly base models and Ancients base textures.
+SGA-3D - Modelling:  Ancients Atlantis high poly base model.
+Animaniac - Modelling:  Original high poly base model blueprint used for reconstruction of Goa'uld Annubis.
+Theascended121 - HUD Icons
+Danman - Modelling:  Anubis.mesh and textures
+HammerSun - Modelling:  CapitalShip_Assassin.mesh and textures
+Zake/Grzegorz Wereszko (SketchUp) - Modelling:  Base model Goa'uld Hatak, Ancient Destroyer
+Prometheus (SketchUp) - Modelling:  Base model Asgard Gungnir
+Colonel Mcoy (SketchUp) - Modelling:  Base model for Goa'uld Jan'tak
+Bailknight - Effects:  Base effects for various explosions and weapon effects
+EOmega - Base texture for Goa'uld Plasma weapon effects.
+SGI Team - Modelling:  Ancients Anteus (Ultionis), Wraith Hive
+ZeroGuardian - For hours and hours of playtesting over the various versions of the mod.
+Dunkelzahn63 - For finding and pointing out corrections to numerous non-critical errors in entities.
+
+Special Thanks:
+-----------------
+
+EOmega - For tons of help while I was learning to do basic modelling.
+Akkan117 - For model submissions that haven't been included yet.
+The SoaSE Community  - For the support and encouragement.
+
+
+Installation Instructions:
+--------------------------
+-Extract to your mods directory.  Example C:\Users\username\AppData\Local\Ironclad Games\Sins of a Solar Empire\Mods-Entrenchment v#\
+
+Known Issues:
+=============
+-The mod may crash if all ship and building quality settings are set to 'Highest'.  High will work without issue.  This is due to system and/or gpu memory limits being breached.
+-A few models have some minor polygon glitching issues and could use some fixing.
+-Some custom models could use some texture work.  Unfortunately I am not a particularly good artist.
+
+d1.06 Changes:
+==============
+
+-Compatibility update for SoaSE Diplomacy v1.34.
+-Corrected a texturing issue that was causing incorrect/dark lighting on custom ship models.
+
+Ancients
+--------
+-New model for Ultionis Dreadnaught.
+-Slight adjustment to weapons/damage of Ultionis Dreadnaught to better match new model.
+-New model for Adamas Heavy Cruiser.
+-New model for Invictus Juggernaut.
+
+Asgard
+------
+-New model for Kvasir Battlecruiser.
+
+Wraith
+------
+-New model for Spire Battleship.
+-Removed Antimodule role from Spire entity.  Still has antimodule damage but the role assignment was preventing targetting of non-structures.
+-New model for Hive Ship.
+
+d1.05 Changes:
+==============
+
+-Compatibility update for SoaSE Diplomacy v1.32.
+-Fixed ommission of intial racial diplomatic modifiers between several races.
+-Implemented Dunkelzahn63's list of error correction changes across mod entities.
+
+Ancients
+--------
+-Revised Pacts:  Trade, Metal/Crystal, Research, Phase Jump, Mass Reduction, Supply.
+-Excalibur Battlecruiser Ion Blast can no longer affect capital ships.  Increased antimatter cost, cooldown and duration.
+
+Asgard
+------
+-Revised Pacts:  Efficiency, Armor, Antimatter, Beam, Shield, Weapon Cooldown.
+-Reduced range of Loki Trickster Usurpation ability from 5000 to 2500.
+-Added 2 new research entries:  Structural Refinement and Ultra-Light Materials, which reduce mass of Asgard ships.
+-Fixed incorrect price on Advanced Inter-Species Affinity research entry.
+-Added capital ship acceleration buff to Maneuvering Thrusters research.
+-Tweaked capital ship experience gain research entry gain rate and increased gain level cap to 5th.
+
+Wraith
+------
+-Revised Pacts:  Metal/Crystal, Armor, Antimatter, Tactical Slots, Thrusters, Weapon Cooldown.
+-Hive Ship:  Increased hull points gained per level.
+-Hive Ship Malevolent Aura:  Stackabled to 3.  Halved miss chance and damage debuff but added ability cooldown debuff.
+-Added new Multi-Targetting research:  Allows Hives to fire at 2 targets per bank.
+-Doubled size of Hive ship model.
+-Spire Battleship:  Increased base hull points.
+-Spire Battleship:  Added AntiModule role.  Changed secondary weapon to forward firing anti-module damage.
+-Spire Battleship:  Added left and right banks to primary weapon.
+-Spire Bolster Fleet:  Stackable to 4.  Halved Miss chance buff.
+-Defiler Siege Frigate:  Removed AntiModule role.  Changed weapons to anti-heavy damage.
+-Added Psycho Metamorphosis ability to Mindshredder Cruiser:  Stackable to 5, grants bonus armor and damage reduction.
+-Added ability access research for Psycho Metamorphosis.
+-Added Psychic Rejuvenation ability to Marshall Support Cruiser:  Stackable to 5, grants antimatter restore and ability cooldown
+-Added ability access research for Psychic Rejuvenation.
+-Fixed incorrect price on Advanced Voice of Unity research entry.
+
+Goa'uld
+-------
+-Revised Pacts:  Trade, Metal/Crystal, Market, Tactical Slots, Energy Weapon Cooldown, Weapon Cooldown.
+-Jan'Tak Ion Blast antimatter cost increased, duration decreased.
+
+Ori
+---
+-Revised Pacts:  Culture, Market, Metal/Crystal, Phase Jump, Tactical Slots, Supply
+
+d1.04 Changes:
+==============
+
+-Compatibility update for SoaSE Diplomacy v1.21.
+
+d1.03 Changes:
+==============
+
+-Tweaked AI usage conditions on numerous abilities for better autocast behavior.
+
+Asgard
+------
+-Fixed a bug with Impenetrability ability that prevented access until the wrong research was completed.
+-fixed and retextured Thor class capital ship model.
+-Increased hull points on Valhalla Station star base through various hull upgrade stages.
+
+Goa'uld
+-------
+-New model for Anubis class capital ship.
+-New model for Jan'tak cruiser.
+-Resolved Jan'taks not firing after reloading a saved game.
+-Reduced damage on Jan'tak cruisers for balance.
+
+Ori
+---
+-New model for Ori Champion heavy cruiser/warship.
+-Fixed shields not regenerating on Ori planetary structures when under the influence of shield point granting buffs.
+
+d1.02 Changes:
+==============
+-Fixed a few bugs in custom HUD icons.
+-Fixed/improved normal maps for several custom models.
+
+Ancients
+--------
+-Slight rebalance of Ancient capital ship attributes.
+-Allowed Atlantis City Ship to fire at two targets a side.
+-Increased speed of Atlantis to match that of regular capships.
+-Reduced speed of Invictus Juggernaut to match that of regular capships.
+-Increased speed of Episcor Corvette.
+-Adjusted Power Surge ability on Aurora, Invictus and Ultionis.
+
+Asgard
+------
+-Slight rebalance of Asgard capital ship attributes.
+-Added Planetary Shield Generator tactical structures.
+-Increased hull points on Valhalla Station star base.
+-Redid and improved custom model and textures for Asgard Gungnir frigate.
+
+Wraith
+------
+-Slight adjustment of certain attributes of the Wraith Hive Ship.
+
+Goauld
+------
+-Slight rebalance of Aphophis and Annubis capital ship attributes.
+-Fixed Envoy ability prerequisites so that they are useable in game.
+-Attempted fix of Jan'tak weapons/abilities to solve not firing bug.
+
+Ori
+---
+-Added the Ori as a playable race
+-7 capital ships, 15 frigate/cruisers, 2 star bases, 151 research entries, 2 new custom model, custom weapon and ability effects.
+
+
+d1.01 Changes:
+==============
+-Compatibility update for SoaSE Diplomacy v1.011.
+-Added custom pictures, MainView icons and HUDIcons for most custom models in the mod. (Thanks Dewing12!)
+
+Goa'uld:
+--------
+-Added the Goa'uld as a playable race.
+-5 Capital ships, 7 frigates, 117 research entries, preliminary custom models and custom effects.
+
+d1.00 Changes:
+==============
+-Compatibility update for SoaSE Diplomacy v1.01.
+
+e1.02.05 Changes:
+=================
+-Fixed bug where ship names were not being displayed on capital ships and star bases.
+
+Ancients:
+---------
+-Increased research prerequisites for Nanite Cloning on Tantillus Cruiser.
+
+Asgard:
+-------
+-Increased research prerequisites for Ragnarok Collossus access.
+-Adjusted Phase Missile block abilities to reflect intended blocking percentages.
+
+Wraith:
+-------
+-Increased research prerequisites for Orbital Cloning Facilities access.
+-Fixed a bug where Overlord star base Reaping ability would not be useable until Plasma Focus had been purchased.
+
+e1.02 Changes:
+==============
+-Compatibility update for SoaSE Entrenchment v1.04.
+-Fixed Quick Start spawn for Wraith Scouts.
+
+e1.01 Changes:
+==============
+-Compatibility update for Entrenchment version 1.03.
+
+Asgard:
+-------
+-Corrected issue with Eir Restorer shield restore so that it now restores shields on the targetted vessel.
+
+e1.00 Changes:
+===============
+-Redid shield meshes for custom ships for proper visuals and possibly improve performance.
+
+Ancients:
+---------
+-Corrected issue with 2nd level of Space Gate Trade research/ability.
+
+Wraith:
+-------
+-Fixed research for Resilience to have the proper 2 levels.
+-Fixed research for Plasma Blast to have the proper 3 levels.
+-Fixed 2nd level of Overlord star base's Incineration ability.
+-Adjusted visual and damage area of effect of Overloard star base Incineration ability.
+-Fixed pre-requisite for Wraith culture resist research entry.
+-Reversed Mass Reduction property of Carapace 2 and Chitin 1 armor upgrades to properly apply mass increases (penalties).
+-Removed bombing damage from Spire Battleship.  This will help with AI fleet behavior.
+
+e0.93b Changes:
+===============
+
+Ancients:
+---------
+-Fixed antimatter regeneration (or lack thereof) on Avalon class star bases.
+
+Wraith:
+-------
+-Corrected shield point gain from upgrades on Overlord star base.
+-Added Resilience upgrade for Plasma Defense turrets.
+-Added Plasma Blast upgrade for Plasma Defense turrets.
+
+Asgard:
+-------
+-Added Defense Purview upgrade for Beam Defense turrets.
+-Capital ships now all have a base 15% resistance to phase missiles bypassing their shields.
+-Valhalla Station now benefites from Impenetrability research.
+-Reduced population and allegiance gain on Valhalla Station Megalopolis upgrades.
+-Revised Asgard Defense research tree.
+-Made timing adjustments to Ragnarok Colossus' Decimate Fleet attack.
+-Reduced base armor on Ragnarok Colossus but slightly increased shield point gain per level.
+-Revised Tyr Dreadnaught's Attenuation ability to add a small amount of damage directly to hull per firing.
+-Corrected Ion Burst ability on Freyja mothership to only have 1 level.
+
+e0.92b Changes:
+===============
+-Compatiblity update for Entrenchment 1.02.
+
+Ancients:
+---------
+-Added Interceptor and Light Bomber type squads.
+-Restored proper (desired) squad command points on various Ancient ships/structures.
+
+Wraith:
+-------
+-Added Interceptor and Light Bomber type squads.
+-Restored proper (desired) squad command points on various Wraith ships/structures.
+
+e0.91b Changes:
+===============
+
+Ancients:
+---------
+-Enabled fighter movement on Puddlejumper frigate.
+-Increased travel speed of Ancient Drones and adjusted movement physics.
+-String work on strikecraft squadrons to help differentiate them in game.
+
+Wraith:
+-------
+-String work on strikecraft squadrons to help differentiate them in game.
+
+Asgard:
+-------
+-New custom beam effect for Asgard planet bombing.
+
+e0.90b Changes:
+===============
+
+General:
+--------
+-Compatiblity update for Sins Entrenchment 1.01
+-Fixed various small issues with a number of custom models.
+-Resolved all known crash issues.
+-Implemented preliminary custom HUD Icons for all three active races.
+
+Ancients:
+---------
+-Significant reworking and rebalancing of the Ancient fleet.
+-Battlecruisers, Warships and Adamas cruisers increase in substantially in power and cost.
+-Drone damage reduced to 48 damage per drone from 60.
+-Increased speed and turning rate of most Ancient cruisers, decreased speed of Adamas cruiser.
+-Added Avalon star base (Deployed by Munio Cruiser).
+-Added Nanite Bomb mines (Depolyed by Tantillus Cruisers).
+-Secondary weapon upgrade added to Drone Defense Platforms.
+-Squad upgrade available for Hangar Defense.
+-Jumper squadrons now vary in jumper numbers to compensate for Entrenchment issue concerning squads and command points on frigates.
+-Hangar Defense squad numbers reduced to 2 but squad size increased, overall increase 25% pre-upgrade.
+-Revised weapon classifications on various Ancient ships.
+-Revised armor classifications on various Ancient ships.
+-Revised weapons selection for range on various Ancient ships.
+-New custom beam weapon effects for the Ancient Fleet.
+-Increased cost of Nanotech Clone Frigate ability to 1000 credits, 150 metal, 100 crystal.
+
+Wraith:
+-------
+-Added Overlord star base (Deployed by Warmonger Cruisers).
+-Revised old Stun Mines to use new Entrenchment style mines (Deployed by Warmonger Cruisers).
+-Dart squadrons now vary in dart numbers to compensate for Entrenchment issue concerning squads and command points on frigates.
+-Hangar Defense squad numbers unchanged but squad size doubled.
+-Revised weapons selection for range on various Wraith ships.
+
+Asgard:
+-------
+-Added Valhalla Station star base (Deployed by Freyr Cruisers).
+-Added Beam Pod mines (Deployed by Freyr Cruisers).
+-Redid texture for Thor class capital ship.
+-Revised weapons selection for range on various Asgard ships.
+
+1.15 Changes:
+=============
+
+General:
+--------
+-Compatibility update for Sins v1.15.
+-Updated textures for annubis.mesh and capitalship_assassin.mesh for SoaSE v1.1 compatibility.
+
+Ancients:
+---------
+-Added custom models for some ships.
+-Rebalanced Ancients capital ship stats and costs.
+-All Ancient capital ships now have some anti-strikecraft weaponry.
+
+Wraith:
+-------
+-Added custom models for some ships.
+-Autocast enabled by default on Hive Dart Frenzy ability.
+-Autocast enabled by default on Hive Harvest Planet ability.
+
+Asgard:
+-------
+-Added custom models for some ships.
+-Fixed Formulized Processes research entry to properly reduce research costs instead of increasing them.
+-Autocast disabled by default on Thor and Freyja Shield Regeneration ability.
+-Autocast enabled by default on Thor Deconstruction ability.
+-Autocast enabled by default on Ragnarok Consume Planet ability.
+
+
+1.11 Changes:
+=============
+
+Ancients:
+---------
+-Made changes to prevent frigate factories building frigate versions of tactical structures.
+-Fixed role classification of frigate version of Drone Defense Platform.
+-Reduced Ancient Drone damage by 25%.
+-Reblananced Ancient fleet by lowering overall stats, damage, costs or fleet supply requirements on most ships.
+-Adjusted stat count types on capital ships.
+-Reduced cooldown on Imperium Revenant Shield Restore ability to 15 seconds.
+-Removed the ability to clone itself from Tantillus Clone Frigate ability.
+-Tantillus Clone Frigate ability now takes 15 seconds to complete.
+
+Wraith:
+-------
+-Made changes to prevent frigate factories building frigate versions of tactical structures.
+-Increased Hull points and gain per level on Hive Ship, increased fleet suppy cost, increased price.
+-Adjusted damage on Spire battleship.
+-Spire Battleship Plasma Burst ability now affects strikecraft as well.
+
+Asgard:
+-------
+-Made changes to prevent frigate factories building frigate versions of tactical structures.
+-Fixed an emitter problem with Asgard beam weapon hit effects.
+-Fixed an emitter problem with Siphon Antimatter visual effect.
+-Fixed an emmitter problem with EMP Pulse visual effect.
+-Tweaked Chrono Blast visual effect and made it a bit larger as to better cover the in game area of effect.
+-Lowered default shield mitigation by 5% on Asgard capital ships.
+-Adjusted Thor and Freyja capital ship Shield Regeneration ability to not increase in antimatter drain as ability improves.
+
+1.10 Changes:
+=============
+
+Ancients:
+---------
+-Increased cooldown of Imperium Revenants Restore Shields ability to 20 seconds.
+-Clone Frigate now requires 8 labs in order to be used even after research has been done.
+-Ancients now use the TEC theme and pictures.
+-Added Episcor Corvette scout type capital ship - smaller and less powerful that previous Ancient capital ships.
+-Added research requirements and entries for Ancients battleship, carrier, support and siege capital ships.
+-Moved Atlantis access research entry to tier 5.
+
+Wraith:
+-------
+-Fixed mass increase modifier on armor upgrades to apply increases instead of reductions.
+-Moved Anti-Fighter and Seige ships to light frigate construction menu.
+-Fixed a bug in Plasma Burst ability that caused it to not work.
+-Improved custom visual effect for Plasma Burst ability.
+-Fixed Name display on Warmonger spawned Stun Mines.
+-Replace old Caretaker and Marauder frigates with more traditional light (Marauder) and long range (Scourge) frigates.
+-Rebalanced hull point and armor ratings and costs on Wraith ships to better balance the lack of shields.
+-Modified Wraith hyperspace speeds and charge-up times to make them slower than other races.
+
+Asgard:
+-------
+-Added Asgard race.
+-7 Capital ships, 4 cruisers, 6 frigates, 9 logistic structures, 7 tactical structures.
+-106 research entries.
+-Custom particle effects for several Asgard weapons and abilities.
+
+1.0 Changes:
+============
+
+Ancients:
+---------
+-Some minor revisions of weapon effects (burst counts, synchronization, etc).
+-Modified drone stats on Fighter tasked Puddlejumper strikecraft as a concession for targetting preference purposes.
+-Lowered planet bombing damage of Ultionis Dreadnaught.
+-Changed visual effect of Ancient planet bombing attacks.
+-Improved custom visual effect of Ancient Drone explosions.
+-Reduced hull points on Drone Defense structure but added some shield points.
+-Reduce shield restore ability of Imperium Revenant to 500, 750 and 1000 shield points.
+-Added Munio Cruiser (builds tactical structures remotely) and requisite research entry.
+
+Wraith:
+-------
+-General rebalancing of many Wraith ships (damage, slot count, cost)
+-Changed Spire and Hoard ships to heavy frigate build types.  This leaves the Hive ship as their sole capital ship.
+-Added Entrenchment colony frigate (concession to AI viability).
+-Added Stun Mine tactical structures.
+-Added research entries for Spire and Hoard ships (and abilities) as well as Stun Mines.
+-Boarding Party and Capture Structure abilities now require that the target have hull damage before they can be used.
+-Changed Boarding Party ability to apply a long term damage penalty to Heavy Cruisers after use (balance).
+-Adjusted stats of Battle Frenzy ability.
+-Adjusted stats of Emergency Repair ability.
+-Added research entries and requirements for Battle Frenzy, Emergency Repairs, Infiltration tactics, Telekinetic Blast and Detect Incoming Jump abilities.
+-Added research entry for Capital Ship Crew training levels.
+-Added Warmonger Cruiser capable of spawning tactical structures at remote locations and research entry.
+-Added custom visual effects for Plasma Burst and Stun Mine abilities.
+-Increased hull points, armor, command points and damage of Hive Ships.  Increased fleet supply and resource cost to build.
+-Changed Hive Ship Malevolent Prescense ability to be passive.
+-Some custom string work to polish things up.

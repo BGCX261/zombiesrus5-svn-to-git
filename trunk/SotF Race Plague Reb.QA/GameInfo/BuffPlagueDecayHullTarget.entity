@@ -1,0 +1,41 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 3
+allowFirstSpawnerToStack TRUE
+buffExclusivityForAIType "NotExclusive"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 0
+numPeriodicActions 0
+numOverTimeActions 1
+overTimeAction
+	buffOverTimeActionType "DoDamage"
+	damageRate
+		Level:0 3.000000
+		Level:1 4.500000
+		Level:2 6.000000
+		Level:3 7.500000
+	damageAffectType "AFFECTS_SHIELDS_AND_HULL"
+	damageType "PHYSICAL"
+	isDamageShared FALSE
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "ArmorAsDamageTarget"
+	value
+		Level:0 -1.00000
+		Level:1 -1.00000
+		Level:2 -1.00000
+		Level:3 -1.000000
+numEntityBoolModifiers 0
+numFinishConditions 2
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 15.000000
+		Level:1 15.000000
+		Level:2 15.000000
+		Level:3 15.000000
+finishCondition
+	finishConditionType "OwnerChanged"

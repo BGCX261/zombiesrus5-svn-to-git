@@ -1,0 +1,78 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 15
+brush
+	name "PLANETMODULEPICTURE_ARCHAIORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 512 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ARCHAIORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 682 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ARCHAIORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1022 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ARCHAIORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 172 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ARCHAIORBITALBEAMDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 2 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ARCHAIORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 852 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ARCHAIORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1192 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ARCHAIORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1192 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ARCHAIORBITALANTIMATTERRECHARGER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 682 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ARCHAIORBITALTRADEPORT"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1362 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ARCHAIORBITALREFINERY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 172 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ARCHAIORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 342 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ARCHAIORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 512 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ARCHAIORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 342 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ARCHAIORBITALCANNON"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1532 , 158 , 167 , 75 ]

@@ -1,0 +1,394 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 34
+brush
+	name "HUDICON_PLANETMODULE_HYPORBITALTITANFACTORY"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_HYPORBITALFRIGATEFACTORY"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_HYPORBITALCAPITALSHIPFACTORY"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_HYPORBITALCULTURECENTER"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_HYPORBITALHANGARDEFENSE"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_HYPORBITALGAUSSDEFENSE"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_HYPORBITALREPAIRPLATFORM"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_HYPORBITALCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_HYPORBITALNONCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_HYPORBITALPHASEGATE"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_HYPORBITALNANOWEAPONJAMMER"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_HYPORBITALTRADEPORT"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_HYPORBITALREFINERY"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_HYPORBITALMETALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_HYPORBITALCRYSTALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_HYPORBITALJUMPBLOCKER"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_HYPORBITALCANNON"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_HYPORBITALTITANFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 305 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_HYPORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 91 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_HYPORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 121 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_HYPORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 181 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_HYPORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 31 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_HYPORBITALMISSILEDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 1 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_HYPORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 151 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_HYPORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 211 , 151 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_HYPORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 211 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_HYPORBITALPHASEGATE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 421 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_HYPORBITALNANOWEAPONJAMMER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 451 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_HYPORBITALTRADEPORT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 241 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_HYPORBITALREFINERY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_HYPORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_HYPORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 391 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_HYPORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 61 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_HYPORBITALCANNON"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 271 , 61 , 28 , 28 ]

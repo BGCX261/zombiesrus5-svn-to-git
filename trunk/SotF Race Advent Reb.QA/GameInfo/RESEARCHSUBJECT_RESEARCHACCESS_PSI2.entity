@@ -1,0 +1,41 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_SIEGETECH"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_SIEGETECH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_SIEGETECH_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_SIEGETECH_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 5 , 17 ]
+ResearchField "Fleet"
+Prerequisites
+	NumResearchPrerequisites 2
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_WEAPONDAMAGE_BEAM2"
+		Level 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ANTIMATTERPSI2"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 1.000000
+PerLevelUpgradeTime 1.000000
+BaseCost
+	credits 1.000000
+	metal 1.000000
+	crystal 1.000000
+PerLevelCostIncrease
+	credits 1.000000
+	metal 1.000000
+	crystal 1.000000
+Tier 5
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

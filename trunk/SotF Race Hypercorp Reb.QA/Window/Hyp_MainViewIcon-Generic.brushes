@@ -1,0 +1,78 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 15
+brush
+	name "MainViewIconFleetHyp0"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 661 , 32 , 31 ]
+brush
+	name "MainViewIconFleetHyp1"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 694 , 32 , 31 ]
+brush
+	name "MainViewIconFleetHyp2"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 727 , 32 , 31 ]
+brush
+	name "MainViewIconFleetHyp3"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 760 , 32 , 31 ]
+brush
+	name "MainViewIconFleetHyp4"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 793 , 32 , 31 ]
+brush
+	name "MainViewIconFleetHyp5"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 826 , 32 , 31 ]
+brush
+	name "MainViewIconFleetHyp6"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 859 , 32 , 31 ]
+brush
+	name "MainViewIconFleetHyp7"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 892 , 32 , 31 ]
+brush
+	name "MainViewIconFleetHyp8"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 925 , 32 , 31 ]
+brush
+	name "MainViewIconFleetHyp9"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 958 , 32 , 31 ]
+brush
+	name "MainViewIconCannonShellHyp"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 481 , 61 , 28 , 28 ]
+brush
+	name "MainViewIconStarBaseHyp"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 83 , 871 , 39 , 39 ]
+brush
+	name "MainViewIconStarBaseHypPsiOps"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 125 , 871 , 39 , 39 ]
+brush
+	name "MainViewIconSpaceMineHypExplosive"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 301 , 61 , 28 , 28 ]
+brush
+	name "MainViewIconSpaceMineHypGravity"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 451 , 241 , 28 , 28 ]

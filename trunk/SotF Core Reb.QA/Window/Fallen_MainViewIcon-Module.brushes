@@ -1,0 +1,170 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 33
+brush
+	name "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALTITANFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 463 , 801 , 40 , 42 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PIRATEORBITALGAUSSDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 1 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_NEPHILIMORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 91 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_NEPHILIMORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 121 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_NEPHILIMORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 181 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_NEPHILIMORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 31 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_NEPHILIMORBITALBEAMDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 1 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_NEPHILIMORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 151 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_NEPHILIMORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 211 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_NEPHILIMORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 211 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_NEPHILIMORBITALPOWERRELAY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 211 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_NEPHILIMORBITALANTIMATTERRECHARGER"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 421 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_NEPHILIMORBITALREFINERY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 241 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_NEPHILIMORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 361 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_NEPHILIMORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 391 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_NEPHILIMORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 61 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_NEPHILIMORBITALCANNON"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 271 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 91 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 121 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 181 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 31 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALMISSILEDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 1 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 151 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 211 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 211 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALPHASEGATE"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 421 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALNANOWEAPONJAMMER"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 451 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALTRADEPORT"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 241 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALREFINERY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 331 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 391 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 61 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALCANNON"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 271 , 61 , 28 , 28 ]
+
+	

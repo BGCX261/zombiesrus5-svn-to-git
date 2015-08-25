@@ -1,0 +1,75 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName "Buff_DamageOverTimeAuraSpawner"
+		mediumEffectName "Buff_DamageOverTimeAuraSpawner"
+		largeEffectName "Buff_DamageOverTimeAuraSpawner"
+		soundID ""
+numPeriodicActions 1
+periodicAction
+	actionCountType "Infinite"
+	actionIntervalTime
+		Level:0 2.500000
+		Level:1 2.500000
+		Level:2 2.500000
+		Level:3 2.500000
+	buffInstantActionType "ApplyBuffToTargetsInRadius"
+	instantActionTriggerType "AlwaysPerform"
+	buffType "BuffRogueJadedTarget"
+	targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+numObjects 6
+		object "CapitalShip"
+		object "Frigate"
+		object "PlanetModule"
+		object "StarBase"
+	object "Corvette"
+	object "Titan"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	range
+		Level:0 3500.000000
+		Level:1 4500.000000
+		Level:2 5500.000000
+		Level:3 6500.000000
+	maxTargetCount
+		Level:0 -1.000000
+		Level:1 -1.000000
+		Level:2 -1.000000
+		Level:3 -1.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+numOverTimeActions 0
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "ArmorAsDamageTarget"
+	value
+		Level:0 -1.000000
+		Level:1 -2.000000
+		Level:2 -3.000000
+		Level:3 -4.000000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "OwnerChanged"

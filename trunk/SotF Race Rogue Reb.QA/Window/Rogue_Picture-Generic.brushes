@@ -1,0 +1,18 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 3
+brush
+	name "PictureCannonShellRogue"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1702 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASEROGUE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1362 , 80 , 167 , 75 ]
+brush
+	name "PictureSpaceMineRogue"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 2 , 80 , 167 , 75 ]

@@ -1,0 +1,55 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffCylonSystemCrashSelf"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID "EFFECT_CYLON_VIRUS"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 2
+levelSourceType "ResearchWithoutBase"
+improveSourceResearchSubject "RESEARCHSUBJECT_CYLON_HANDOFGOD_SYSTEMCRASH"
+aiUseTime "OnlyWhenManyTargetsInRange"
+onlyAutoCastWhenTargetCountExceedsAmount
+	Level:0 5.000000
+	Level:1 5.000000
+	Level:2 5.000000
+	Level:3 5.000000
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 100.000000
+	Level:1 100.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 90.000000
+	Level:1 105.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_CYLON_HANDOFGOD_SYSTEMCRASH"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_CYLON_SYSTEMCRASH_NAME"
+descStringID "IDS_ABILITY_CYLON_SYSTEMCRASH_DESCRIPTION"
+hudIcon "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_SYSTEMCRASH"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_SYSTEMCRASH"
+infoCardIcon ""

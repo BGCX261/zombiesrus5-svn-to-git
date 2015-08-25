@@ -1,0 +1,335 @@
+﻿TXT
+entityType "Cosmetic"
+ability:0 "AbilityColonialTitanSheWontFailUs"
+ability:1 "AbilityColonialTitanFlakShield"
+ability:2 "AbilityColonialTitanMaisonRadiationSweeps"
+ability:3 "AbilityColonialTitanNuclearBarrage"
+ability:4 "AbilityColonialTitanBlazeOfGlory"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+mainViewIcon "MAINVIEWICON_BATTLESTAR_COLONIALCETUS"
+basePrice
+	credits 9500.000000
+	metal 1200.000000
+	crystal 750.000000
+slotCount 150.000000
+BuildTime 450.000000
+MaxHullPoints
+	StartValue 5400.000000
+	ValueIncreasePerLevel 504.000000
+MaxShieldPoints
+	StartValue 2250.000000
+	ValueIncreasePerLevel 567.000000
+HullPointRestoreRate
+	StartValue 3.100000
+	ValueIncreasePerLevel 0.700000
+ShieldPointRestoreRate
+	StartValue 4.500000
+	ValueIncreasePerLevel 0.700000
+ArmorPointsFromExperience
+	StartValue 11.000000
+	ValueIncreasePerLevel 0.918000
+maxMitigation
+	StartValue 0.650000
+	ValueIncreasePerLevel 0.011110
+MaxAntiMatter
+	StartValue 275.000000
+	ValueIncreasePerLevel 45.000000
+AntiMatterRestoreRate
+	StartValue 0.850000
+	ValueIncreasePerLevel 0.120000
+CultureProtectRate
+	StartValue 0.300000
+	ValueIncreasePerLevel 0.050000
+NameStringID "IDS_TITAN_COLONIAL_REBEL_NAME"
+DescriptionStringID "IDS_TITAN_COLONIAL_REBEL_DESCRIPTION"
+picture "PICTURE_BATTLESTAR_COLONIALCETUS"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+statCountType "Titan"
+UpgradeTypeCount 8
+UpgradeType "TitanUpgrade_ColonialRebel_AbilityA"
+UpgradeType "TitanUpgrade_ColonialRebel_AbilityB"
+UpgradeType "TitanUpgrade_ColonialRebel_AbilityC"
+UpgradeType "TitanUpgrade_ColonialRebel_AbilityD"
+UpgradeType "TitanUpgrade_ColonialRebel_Durability"
+UpgradeType "TitanUpgrade_ColonialRebel_Weapons"
+UpgradeType "TitanUpgrade_ColonialRebel_Abilities"
+UpgradeType "TitanUpgrade_ColonialRebel_AbilityE"
+numRandomDebrisLarge 80
+numRandomDebrisSmall 30
+numSpecificDebris 1
+specificDebrisMeshName "DebrisTechLarge"
+armorType "Titan"
+hudIcon "HUDICON_BATTLESTAR_COLONIALCETUS"
+smallHudIcon "HUDICONSMALL_BATTLESTAR_COLONIALCETUS"
+infoCardIcon "INFOCARDICON_BATTLESTAR_COLONIALCETUS"
+minZoomDistanceMult 1.250000
+NumWeapons 5
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "TITAN"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 110.500000
+	DamagePerBank:BACK 110.500000
+	DamagePerBank:LEFT 110.500000
+	DamagePerBank:RIGHT 110.500000
+	Range 10000.000000
+	PreBuffCooldownTime 4.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.300000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 8
+		burstDelay 0.100000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Tech_AutoCannonTitan_Muzzle"
+		muzzleSoundMinRespawnTime 10.000000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_TECHCAPITALAUTOCANNONMEDIUM_MUZZLE"
+			sound "WEAPON_TECHCAPITALAUTOCANNONMEDIUM_MUZZLE_ALT1"
+			sound "WEAPON_TECHCAPITALAUTOCANNONMEDIUM_MUZZLE_ALT2"
+		hitEffectName "Weapon_Tech_AutoCannonTitan_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALMEDIUM_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICMEDIUM_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Tech_AutoCannonTitan_Travel"
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "TITAN"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 110.500000
+	DamagePerBank:BACK 110.500000
+	DamagePerBank:LEFT 110.500000
+	DamagePerBank:RIGHT 110.500000
+	Range 10000.000000
+	PreBuffCooldownTime 4.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.300000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 8
+		burstDelay 0.100000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Tech_AutoCannonTitan_Muzzle"
+		muzzleSoundMinRespawnTime 10.000000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_TECHCAPITALAUTOCANNONMEDIUM_MUZZLE"
+			sound "WEAPON_TECHCAPITALAUTOCANNONMEDIUM_MUZZLE_ALT1"
+			sound "WEAPON_TECHCAPITALAUTOCANNONMEDIUM_MUZZLE_ALT2"
+		hitEffectName "Weapon_Tech_AutoCannonTitan_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALMEDIUM_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICMEDIUM_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Tech_AutoCannonTitan_Travel"
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "TITAN"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 127.500000
+	DamagePerBank:BACK 127.500000
+	DamagePerBank:LEFT 127.500000
+	DamagePerBank:RIGHT 127.500000
+	Range 8000.000000
+	PreBuffCooldownTime 10.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.100000
+	TravelSpeed 1000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 3
+		burstDelay 0.600000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Tech_MissileCapShip_Muzzle"
+		muzzleSoundMinRespawnTime 0.500000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
+		hitEffectName "Weapon_Tech_MissileCapShip_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_Tech_MissileCapShip_Travel"
+		missileStartTurningDistance 250.000000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 6.000000
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTILIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "FLAK"
+	DamagePerBank:FRONT 30.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 30.000000
+	DamagePerBank:RIGHT 30.000000
+	Range 4500.000000
+	PreBuffCooldownTime 7.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.100000
+	TravelSpeed 3500.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Tech_TitanFlakBurst_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_TECHFLAKBURST_MUZZLE"
+		hitEffectName "Weapon_Tech_TitanFlakBurst_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Tech_TitanFlakBurst_Travel"
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "TITAN"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 127.500000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 8000.000000
+	PreBuffCooldownTime 10.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.100000
+	TravelSpeed 1000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 3
+		burstDelay 0.600000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Tech_MissileCapShip_Muzzle"
+		muzzleSoundMinRespawnTime 0.500000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
+		hitEffectName "Weapon_Tech_MissileCapShip_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_Tech_MissileCapShip_Travel"
+		missileStartTurningDistance 250.000000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 6.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 4
+TargetCountPerBank:BACK 4
+TargetCountPerBank:LEFT 4
+TargetCountPerBank:RIGHT 4
+canOnlyTargetStructures FALSE
+mass 100000.000000
+ShieldMeshName ""
+renderShield FALSE
+maxAccelerationLinear 80.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 0.900000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 450.000000
+maxRollRate 1.650000
+maxRollAngle 20.000000
+NumSoundsFor:ONATTACKORDERISSUED 4
+SoundID "TITAN_TECHREBEL_ONATTACKORDERISSUED_0"
+SoundID "TITAN_TECHREBEL_ONATTACKORDERISSUED_1"
+SoundID "TITAN_TECHREBEL_ONATTACKORDERISSUED_2"
+SoundID "TITAN_TECHREBEL_ONATTACKORDERISSUED_3"
+NumSoundsFor:ONCREATION 1
+SoundID "TITAN_TECHREBEL_ONCREATION_0"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "TITAN_TECHREBEL_ONGENERALORDERISSUED_0"
+SoundID "TITAN_TECHREBEL_ONGENERALORDERISSUED_1"
+SoundID "TITAN_TECHREBEL_ONGENERALORDERISSUED_2"
+NumSoundsFor:ONSELECTED 3
+SoundID "TITAN_TECHREBEL_ONSELECTED_0"
+SoundID "TITAN_TECHREBEL_ONSELECTED_1"
+SoundID "TITAN_TECHREBEL_ONSELECTED_2"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "TITAN_TECHREBEL_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Titan_ColonialCetus"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_TechTitanRebel"
+ExplosionName "StarBase1"
+CommandPoints
+	StartValue 4.600000
+	ValueIncreasePerLevel 1.200000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.030000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.050000
+HyperspaceChargingSoundID "COLONIAL_HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "COLONIAL_HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_COLONIALCAPITALSHIP"
+formationRank 0
+minShadow 0.200000
+maxShadow 0.200000

@@ -1,0 +1,52 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 0
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 5
+entityModifier
+	buffEntityModifierType "ArmorAsDamageTarget"
+	value
+		Level:0 0.5
+		Level:1 0.75
+		Level:2 1.0
+		Level:3 1.250000
+entityModifier
+	buffEntityModifierType "MaxHullPoints"
+	value
+		Level:0 100
+		Level:1 125
+		Level:2 150
+		Level:3 175.000000
+entityModifier
+	buffEntityModifierType "HullPointRestoreRate"
+	value
+		Level:0 .025
+		Level:1 .050
+		Level:2 .100
+		Level:3 0.150000
+entityModifier
+	buffEntityModifierType "WeaponCooldown"
+	value
+		Level:0 -0.05
+		Level:1 -0.1
+		Level:2 -0.15
+		Level:3 -0.200000
+entityModifier
+	buffEntityModifierType "WeaponRange"
+	value
+		Level:0 -0.05
+		Level:1 -0.1
+		Level:2 -0.15
+		Level:3 -0.200000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "OwnerChanged"

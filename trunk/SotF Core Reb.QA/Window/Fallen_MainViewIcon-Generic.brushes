@@ -1,0 +1,138 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 27
+brush
+	name "MainViewIconFleetNephilim0"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 365 , 661 , 32 , 31 ]
+brush
+	name "MainViewIconFleetNephilim1"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 365 , 694 , 32 , 31 ]
+brush
+	name "MainViewIconFleetNephilim2"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 365 , 727 , 32 , 31 ]
+brush
+	name "MainViewIconFleetNephilim3"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 365 , 760 , 32 , 31 ]
+brush
+	name "MainViewIconFleetNephilim4"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 365 , 793 , 32 , 31 ]
+brush
+	name "MainViewIconFleetNephilim5"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 365 , 826 , 32 , 31 ]
+brush
+	name "MainViewIconFleetNephilim6"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 365 , 859 , 32 , 31 ]
+brush
+	name "MainViewIconFleetNephilim7"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 365 , 892 , 32 , 31 ]
+brush
+	name "MainViewIconFleetNephilim8"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 365 , 925 , 32 , 31 ]
+brush
+	name "MainViewIconFleetNephilim9"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 365 , 958 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPlague0"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 331 , 661 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPlague1"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 331 , 694 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPlague2"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 331 , 727 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPlague3"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 331 , 760 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPlague4"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 331 , 793 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPlague5"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 331 , 826 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPlague6"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 331 , 859 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPlague7"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 331 , 892 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPlague8"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 331 , 925 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPlague9"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 331 , 958 , 32 , 31 ]
+brush
+	name "MainViewIconCannonShellNephilim"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 481 , 31 , 28 , 28 ]
+brush
+	name "MainViewIconCannonShellPlague"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 481 , 61 , 28 , 28 ]
+brush
+	name "MainViewIconStarBaseNephilim"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 42 , 871 , 39 , 39 ]
+brush
+	name "MainViewIconStarBasePlague"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 83 , 871 , 39 , 39 ]
+brush
+	name "MainViewIconSpaceMineNephilim"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 301 , 31 , 28 , 28 ]
+brush
+	name "MainViewIconSpaceMinePlagueExplosive"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 301 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CORVETTE_PLAGUE"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 451 , 241 , 28 , 28 ]

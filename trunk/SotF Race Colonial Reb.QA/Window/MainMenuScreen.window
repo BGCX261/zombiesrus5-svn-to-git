@@ -1,0 +1,55 @@
+TXT
+backdrop "MainMenuScreenBackdrop"
+logoIconRefArea [305, 537, 414 , 187]
+logoIcon "MainMenuScreenLogo"
+titleRefArea [402, 118,  220, 46 ]
+titleStringId "IDSMainMenuScreenTitle"
+titleFont "TabbedScreenTitle"
+titleOverlayRefArea [304, 84,  414 , 90 ]
+titleOverlay "MainMenuScreenTitleOverlay"
+hasUpdateButton FALSE
+singlePlayerButton
+	area [475, 201,  220, 46 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 32
+	textOffsetFromLeft 60
+	underlay "ScreenButtonUnderlayLarge"
+	overlay "ScreenButtonOverlayLarge"			
+	icon "MainMenuScreenSinglePlayerButton"
+	text "IDSMainMenuScreenSinglePlayerButton"
+multiPlayerButton
+	area [475, 253,  220, 46 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 32
+	textOffsetFromLeft 60
+	underlay "ScreenButtonUnderlayLarge"
+	overlay "ScreenButtonOverlayLarge"		
+	icon "MainMenuScreenMultiPlayerButton"
+	text "IDSMainMenuScreenMultiPlayerButton"	
+icoButton
+	area [475, 305,  220, 46 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 32
+	textOffsetFromLeft 60
+	underlay "ScreenButtonUnderlayLarge"
+	overlay "ScreenButtonOverlayLarge"		
+	icon "MainMenuScreenIcoButton"
+	text "IDSMainMenuScreenIcoButton"	
+optionsButton
+	area [475, 357,  220, 46 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 32
+	textOffsetFromLeft 60
+	underlay "ScreenButtonUnderlayLarge"
+	overlay "ScreenButtonOverlayLarge"		
+	icon "MainMenuScreenOptionsButton"
+	text "IDSMainMenuScreenOptionsButton"
+quitButton
+	area [475, 513,  220, 46 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 32
+	textOffsetFromLeft 60
+	underlay "ScreenButtonUnderlayLarge"
+	overlay "ScreenButtonOverlayLarge"			
+	icon "MainMenuScreenQuitButton"
+	text "IDSMainMenuScreenQuitButton"

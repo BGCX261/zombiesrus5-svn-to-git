@@ -1,0 +1,694 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 48
+brush
+	name "BottomWindowBackdropHyp"
+	content "Simple"
+	fileName "Skin_Hyp"
+	pixelBox [ 0 , 384 , 1024 , 128 ]
+brush
+	name "BottomWindowBackdropArchai"
+	content "Simple"
+	fileName "Skin_Archai"
+	pixelBox [ 0 , 384 , 1024 , 128 ]
+brush
+	name "BottomWindowBackdropRogue"
+	content "Simple"
+	fileName "Skin_Rogue"
+	pixelBox [ 0 , 384 , 1024 , 128 ]
+brush
+	name "BottomWindowOverlayHyp"
+	content "Simple"
+	fileName "Skin_Hyp"
+	pixelBox [ 0 , 255 , 1024 , 128 ]
+brush
+	name "BottomWindowOverlayArchai"
+	content "Simple"
+	fileName "Skin_Archai"
+	pixelBox [ 0 , 255 , 1024 , 128 ]
+brush
+	name "BottomWindowOverlayRogue"
+	content "Simple"
+	fileName "Skin_Rogue"
+	pixelBox [ 0 , 255 , 1024 , 128 ]
+brush
+	name "InfoCardAttachedToBottomBackdropHyp"
+	content "Margins"
+	stretchMargins
+		left 0
+		right 0
+		top 20
+		bottom 10
+	contentMargins
+		left 32
+		right 32
+		top 14
+		bottom 14
+	fileName "Skin_Hyp"
+	pixelBox [ 716 , 225 , 297 , 29 ]
+brush
+	name "InfoCardAttachedToScreenEdgeBackdropHyp"
+	content "Margins"
+	stretchMargins
+		left 10
+		right 20
+		top 20
+		bottom 20
+	contentMargins
+		left 32
+		right 32
+		top 14
+		bottom 22
+	fileName "BackdropInGame"
+	pixelBox [ 2016 , 11 , 29 , 295 ]
+brush
+	name "InfoCardAttachedToBottomBackdropArchai"
+	content "Margins"
+	stretchMargins
+		left 0
+		right 0
+		top 20
+		bottom 10
+	contentMargins
+		left 32
+		right 32
+		top 14
+		bottom 14
+	fileName "Skin_Archai"
+	pixelBox [ 716 , 225 , 297 , 29 ]
+brush
+	name "InfoCardAttachedToScreenEdgeBackdropArchai"
+	content "Margins"
+	stretchMargins
+		left 10
+		right 20
+		top 20
+		bottom 20
+	contentMargins
+		left 32
+		right 32
+		top 14
+		bottom 22
+	fileName "BackdropInGame"
+	pixelBox [ 2016 , 11 , 29 , 295 ]
+brush
+	name "InfoCardAttachedToBottomBackdropRogue"
+	content "Margins"
+	stretchMargins
+		left 0
+		right 0
+		top 20
+		bottom 10
+	contentMargins
+		left 32
+		right 32
+		top 14
+		bottom 14
+	fileName "Skin_Rogue"
+	pixelBox [ 716 , 225 , 297 , 29 ]
+brush
+	name "InfoCardAttachedToScreenEdgeBackdropRogue"
+	content "Margins"
+	stretchMargins
+		left 10
+		right 20
+		top 20
+		bottom 20
+	contentMargins
+		left 32
+		right 32
+		top 14
+		bottom 22
+	fileName "BackdropInGame"
+	pixelBox [ 2016 , 11 , 29 , 295 ]
+brush
+	name "EmpireWindowFindIconOwnedColonyShipsHyp"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 618 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 618 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 618 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 618 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 618 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedScoutShipsHyp"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 659 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 659 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 659 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 659 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 659 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedCapitalShipsHyp"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 700 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 700 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 700 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 700 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 700 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedStarbasesHyp"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens2_Disabled"
+		pixelBox [ 180 , 331 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 180 , 331 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens2_CursorOver"
+		pixelBox [ 180 , 331 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 180 , 331 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 180 , 331 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedEnvoysHyp"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens2_Disabled"
+		pixelBox [ 447 , 185 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 447 , 185 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens2_CursorOver"
+		pixelBox [ 447 , 185 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 447 , 185 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 447 , 185 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithResourceAsteroidsHyp"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithFactoriesHyp"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 741 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 741 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 741 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 741 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 741 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithUpgradesHyp"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithCivilianSlotsHyp"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconPlanetsWithArtifactsHyp"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedColonyShipsArchai"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 782 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 782 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 782 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 782 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 782 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedScoutShipsArchai"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 823 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 823 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 823 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 823 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 823 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedCapitalShipsArchai"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 864 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 864 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 864 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 864 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 864 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedStarbasesArchai"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens2_Disabled"
+		pixelBox [ 180 , 290 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 180 , 290 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens2_CursorOver"
+		pixelBox [ 180 , 290 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 180 , 290 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 180 , 290 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedEnvoysArchai"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens2_Disabled"
+		pixelBox [ 447 , 103 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 447 , 103 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens2_CursorOver"
+		pixelBox [ 447 , 103 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 447 , 103 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 447 , 103 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithResourceAsteroidsArchai"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithFactoriesArchai"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 905 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 905 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 905 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 905 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 905 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithUpgradesArchai"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithCivilianSlotsArchai"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconPlanetsWithArtifactsArchai"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedColonyShipsRogue"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 92 , 618 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 92 , 618 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 92 , 618 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 92 , 618 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 92 , 618 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedScoutShipsRogue"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 92 , 659 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 92 , 659 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 92 , 659 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 92 , 659 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 92 , 659 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedCapitalShipsRogue"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 92 , 700 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 92 , 700 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 92 , 700 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 92 , 700 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 92 , 700 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedStarbasesRogue"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens2_Disabled"
+		pixelBox [ 180 , 249 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 180 , 249 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens2_CursorOver"
+		pixelBox [ 180 , 249 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 180 , 249 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 180 , 249 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedEnvoysRogue"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens2_Disabled"
+		pixelBox [ 445 , 144 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 445 , 144 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens2_CursorOver"
+		pixelBox [ 445 , 144 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 445 , 144 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 445 , 144 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithResourceAsteroidsRogue"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithFactoriesRogue"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 92 , 741 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 92 , 741 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 92 , 741 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 92 , 741 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 92 , 741 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithUpgradesRogue"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithCivilianSlotsRogue"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconPlanetsWithArtifactsRogue"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+brush
+	name "TopWindowBackdropHyp"
+	content "Simple"
+	fileName "Skin_Hyp"
+	pixelBox [ 0 , 0 , 1024 , 50 ]
+brush
+	name "TopWindowBackdropArchai"
+	content "Simple"
+	fileName "Skin_Archai"
+	pixelBox [ 0 , 0 , 1024 , 50 ]
+brush
+	name "TopWindowBackdropRogue"
+	content "Simple"
+	fileName "Skin_Rogue"
+	pixelBox [ 0 , 0 , 1024 , 50 ]
+brush
+	name "TopWindowOverlayHyp"
+	content "Simple"
+	fileName "Skin_Hyp"
+	pixelBox [ 0 , 51 , 1024 , 50 ]
+brush
+	name "TopWindowOverlayArchai"
+	content "Simple"
+	fileName "Skin_Archai"
+	pixelBox [ 0 , 51 , 1024 , 50 ]
+brush
+	name "TopWindowOverlayRogue"
+	content "Simple"
+	fileName "Skin_Rogue"
+	pixelBox [ 0 , 51 , 1024 , 50 ]
+

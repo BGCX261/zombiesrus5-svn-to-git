@@ -1,0 +1,709 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 102
+brush
+	name "ResearchScreenTabButtonCombatHyp"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 741 , 85 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 741 , 85 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 741 , 85 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 741 , 85 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 741 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonDefenseHyp"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens2_Disabled"
+		pixelBox [ 4 , 331 , 85 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 331 , 85 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens2_CursorOver"
+		pixelBox [ 4 , 331 , 85 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 331 , 85 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 331 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonNonCombatHyp"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 700 , 85 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 700 , 85 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 700 , 85 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 700 , 85 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 700 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonDiplomacyHyp"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens2_Disabled"
+		pixelBox [ 4 , 372 , 85 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 372 , 85 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens2_CursorOver"
+		pixelBox [ 4 , 372 , 85 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 372 , 85 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 372 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonFleetHyp"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 864 , 85 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 864 , 85 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 864 , 85 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 864 , 85 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 864 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonCombatArchai"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 536 , 85 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 536 , 85 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 536 , 85 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 536 , 85 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 536 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonDefenseArchai"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens2_Disabled"
+		pixelBox [ 4 , 290 , 85 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 290 , 85 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens2_CursorOver"
+		pixelBox [ 4 , 290 , 85 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 290 , 85 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 290 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonNonCombatArchai"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 577 , 85 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 577 , 85 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 577 , 85 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 577 , 85 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 577 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonDiplomacyArchai"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens2_Disabled"
+		pixelBox [ 530 , 4 , 85 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 530 , 4 , 85 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens2_CursorOver"
+		pixelBox [ 530 , 4 , 85 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 530 , 4 , 85 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 530 , 4 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonFleetArchai"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 946 , 85 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 946 , 85 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 946 , 85 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 946 , 85 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 946 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonCombatRogue"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 782 , 85 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 782 , 85 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 782 , 85 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 782 , 85 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 782 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonDefenseRogue"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens2_Disabled"
+		pixelBox [ 4 , 249 , 85 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 249 , 85 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens2_CursorOver"
+		pixelBox [ 4 , 249 , 85 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 249 , 85 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 249 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonNonCombatRogue"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 823 , 85 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 823 , 85 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 823 , 85 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 823 , 85 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 268 , 823 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonDiplomacyRogue"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens2_Disabled"
+		pixelBox [ 530 , 44 , 85 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 530 , 44 , 85 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens2_CursorOver"
+		pixelBox [ 530 , 44 , 85 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 530 , 44 , 85 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens2_Normal"
+		pixelBox [ 530 , 44 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonFleetRogue"
+	content "States"
+	Disabled
+		fileName "Transhuman_Buttons_Screens_Disabled"
+		pixelBox [ 92 , 413 , 85 , 38 ]
+	Pressed
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 92 , 413 , 85 , 38 ]
+	CursorOver
+		fileName "Transhuman_Buttons_Screens_CursorOver"
+		pixelBox [ 92 , 413 , 85 , 38 ]
+	Focused
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 92 , 413 , 85 , 38 ]
+	Normal
+		fileName "Transhuman_Buttons_Screens_Normal"
+		pixelBox [ 92 , 413 , 85 , 38 ]
+brush
+	name "ResearchScreenBlockBackdropArtifact0Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 471 , 0 , 776 , 631 ]
+brush
+	name "ResearchScreenBlockBackdropFleet0Hyp"
+	content "Simple"
+	fileName "BackdropInGame"
+	pixelBox [ 1068 , 510 , 784 , 308 ]
+brush
+	name "ResearchScreenBlockBackdropFleet1Hyp"
+	content "Simple"
+	fileName "BackdropInGame"
+	pixelBox [ 1068 , 510 , 784 , 308 ]
+brush
+	name "ResearchScreenBlockBackdropArtifact0Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 471 , 0 , 776 , 631 ]
+brush
+	name "ResearchScreenBlockBackdropFleet0Archai"
+	content "Simple"
+	fileName "BackdropInGame"
+	pixelBox [ 1068 , 510 , 784 , 308 ]
+brush
+	name "ResearchScreenBlockBackdropFleet1Archai"
+	content "Simple"
+	fileName "BackdropInGame"
+	pixelBox [ 1068 , 510 , 784 , 308 ]
+brush
+	name "ResearchScreenBlockBackdropArtifact0Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 471 , 0 , 776 , 631 ]
+brush
+	name "ResearchScreenBlockBackdropFleet0Rogue"
+	content "Simple"
+	fileName "BackdropInGame"
+	pixelBox [ 1068 , 510 , 784 , 308 ]
+brush
+	name "ResearchScreenBlockBackdropFleet1Rogue"
+	content "Simple"
+	fileName "BackdropInGame"
+	pixelBox [ 1068 , 510 , 784 , 308 ]
+brush
+	name "ResearchScreenBlockPictureCombat0Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 3 , 3 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureCombat1Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 3 , 135 , 153 , 81 ]
+brush
+	name "ResearchScreenBlockPictureCombat2Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 3 , 219 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureDefense0Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 784 , 636 , 153 , 172 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat0Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 3 , 351 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat1Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 3 , 567 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat2Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 3 , 483 , 153 , 81 ]
+brush
+	name "ResearchScreenBlockPictureDiplomacyHyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 629 , 636 , 153 , 172 ]
+brush
+	name "ResearchScreenBlockPictureDiplomacyArchai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 629 , 810 , 153 , 172 ]
+brush
+	name "ResearchScreenBlockPictureDiplomacyRogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 784 , 810 , 153 , 172 ]
+brush
+	name "ResearchScreenBlockPictureCombat0Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 159 , 3 , 153 , 172 ]
+brush
+	name "ResearchScreenBlockPictureCombat1Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 159 , 178 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureCombat2Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 159 , 310 , 153 , 36 ]
+brush
+	name "ResearchScreenBlockPictureDefense0Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 939 , 636 , 153 , 172 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat0Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 159 , 349 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat1Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 159 , 481 , 153 , 81 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat2Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 159 , 565 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureCombat0Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 315 , 3 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureCombat1Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 315 , 135 , 153 , 81 ]
+brush
+	name "ResearchScreenBlockPictureCombat2Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 315 , 219 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureDefense0Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1094 , 636 , 153 , 172 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat0Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 315 , 351 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat1Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 315 , 615 , 153 , 81 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat2Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 315 , 483 , 153 , 129 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture0Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture1Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1417 , 1024 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture2Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1215 , 1024 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture3Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1013 , 1024 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture4Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 811 , 1024 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture5Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 609 , 1024 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture6Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 407 , 1024 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture7Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 205 , 1024 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture8Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 3 , 1024 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture0Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture1Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1417 , 1175 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture2Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1215 , 1175 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture3Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1013 , 1175 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture4Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 811 , 1175 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture5Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 609 , 1175 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture6Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 407 , 1175 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture7Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 205 , 1175 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture8Hyp"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 3 , 1175 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture0Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture1Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1417 , 1326 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture2Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1215 , 1326 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture3Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1013 , 1326 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture4Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 811 , 1326 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture5Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 609 , 1326 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture6Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 407 , 1326 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture7Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 205 , 1326 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture8Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 3 , 1326 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture0Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture1Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1417 , 1477 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture2Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1215 , 1477 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture3Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1013 , 1477 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture4Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 811 , 1477 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture5Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 609 , 1477 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture6Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 407 , 1477 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture7Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 205 , 1477 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture8Archai"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 3 , 1477 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture0Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture1Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1417 , 1628 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture2Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1215 , 1628 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture3Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1013 , 1628 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture4Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 811 , 1628 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture5Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 609 , 1628 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture6Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 407 , 1628 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture7Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 205 , 1628 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture8Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 3 , 1628 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture0Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture1Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1417 , 1779 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture2Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1215 , 1779 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture3Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 1013 , 1779 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture4Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 811 , 1779 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture5Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 609 , 1779 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture6Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 407 , 1779 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture7Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 205 , 1779 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture8Rogue"
+	content "Simple"
+	fileName "Transhuman_Research"
+	pixelBox [ 3 , 1779 , 199 , 148 ]
+

@@ -1,0 +1,297 @@
+﻿TXT
+entityType "Titan"
+ability:0 "AbilityCylonSuperVirus"
+ability:1 "AbilityCylonTitanOrganicArmor"
+ability:2 "AbilityCylonNuclearBarrage"
+ability:3 "AbilityCylonSpawnRaiders"
+ability:4 ""
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb TRUE
+hasBombingLevels FALSE
+baseDamage 90.000000
+basePopulationKilled 2.000000
+bombingFreqTime 10.000000
+baseRange 3000.000000
+bombTransitTime 4.000000
+bombEffectCount 2
+bombEffectAngleVariance 2.500000
+bombEffectsDef
+	weaponType "Beam"
+	burstCount 1
+	burstDelay 0.000000
+	fireDelay 0.000000
+	muzzleEffectName "Weapon_PhaseCapitalPlanetBombing_Muzzle"
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds
+		soundCount 1
+		sound ""
+	hitEffectName "Weapon_PhaseCapitalPlanetBombing_Hit"
+	hitHullEffectSounds
+		soundCount 1
+		sound ""
+	hitShieldsEffectSounds
+		soundCount 1
+		sound ""
+	beamEffectSounds
+		soundCount 1
+		sound "WEAPON_PHASEPLANETBOMB_LOOP"
+	beamGlowTextureName "PhaseCapitalBombingBeam_Glow"
+	beamCoreTextureName "PhaseCapitalBombingBeam_Core"
+	beamWidth 30.000000
+	beamGlowColor ffffffff
+	beamCoreColor ffffffff
+	beamTilingRate 3.000000
+mainViewIcon "MAINVIEWICON_TITAN_CYLONREBEL"
+basePrice
+	credits 9500.000000
+	metal 1200.000000
+	crystal 750.000000
+slotCount 150.000000
+BuildTime 450.000000
+MaxHullPoints
+	StartValue 7000.000000
+	ValueIncreasePerLevel 900.000000
+MaxShieldPoints
+	StartValue 0.000005
+	ValueIncreasePerLevel 0.000000
+HullPointRestoreRate
+	StartValue 2.700000
+	ValueIncreasePerLevel 0.330000
+ShieldPointRestoreRate
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.000000
+ArmorPointsFromExperience
+	StartValue 9.500000
+	ValueIncreasePerLevel 0.600000
+maxMitigation
+	StartValue 0.650000
+	ValueIncreasePerLevel 0.011110
+MaxAntiMatter
+	StartValue 285.000000
+	ValueIncreasePerLevel 40.000000
+AntiMatterRestoreRate
+	StartValue 0.750000
+	ValueIncreasePerLevel 0.100000
+CultureProtectRate
+	StartValue 0.300000
+	ValueIncreasePerLevel 0.050000
+NameStringID "IDS_TITAN_CYLONREBEL_NAME"
+DescriptionStringID "IDS_TITAN_CYLONREBEL_DESCRIPTION"
+picture "CAPITALSHIPPICTURE_CYLONBATTLESHIP"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_CYLON_TITANACCESS_1"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+statCountType "Titan"
+UpgradeTypeCount 7
+UpgradeType "TitanUpgrade_CylonRebel_AbilityA"
+UpgradeType "TitanUpgrade_CylonRebel_AbilityB"
+UpgradeType "TitanUpgrade_CylonRebel_AbilityC"
+UpgradeType "TitanUpgrade_CylonRebel_AbilityD"
+UpgradeType "TitanUpgrade_CylonRebel_Durability"
+UpgradeType "TitanUpgrade_CylonRebel_Weapons"
+UpgradeType "TitanUpgrade_CylonRebel_Abilities"
+numRandomDebrisLarge 80
+numRandomDebrisSmall 30
+numSpecificDebris 1
+specificDebrisMeshName "DebrisPhaseCapitalShipBattleship"
+armorType "Titan"
+hudIcon "HUDICON_TITAN_CYLONREBEL"
+smallHudIcon "HUDICONSMALL_TITAN_CYLONREBEL"
+infoCardIcon "HUDICONSMALL_TITAN_CYLONREBEL"
+minZoomDistanceMult 1.050000
+NumWeapons 3
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 194.500000
+	DamagePerBank:BACK 194.500000
+	DamagePerBank:LEFT 194.500000
+	DamagePerBank:RIGHT 194.500000
+	Range 5000.000000
+	PreBuffCooldownTime 9.500000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.300000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 6
+		burstDelay 0.120000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CylonCapitalAutoCannonMedium_Muzzle"
+		muzzleSoundMinRespawnTime 10.000000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_CYLONCAPITALAUTOCANNONLIGHT_MUZZLE"
+			sound "WEAPON_CYLONCAPITALAUTOCANNONLIGHT_MUZZLE_ALT1"
+		hitEffectName "Weapon_CylonCapitalAutoCannonMedium_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		projectileTravelEffectName "Weapon_CylonCapitalAutoCannonMedium_Travel"
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 300.599998
+	DamagePerBank:BACK 300.599998
+	DamagePerBank:LEFT 300.599998
+	DamagePerBank:RIGHT 300.599998
+	Range 5500.000000
+	PreBuffCooldownTime 18.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.080000
+	TravelSpeed 1000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 1
+		burstDelay 0.200000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CylonCapitalMissileHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_CYLONCAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_CYLONCAPITALMISSILEHEAVY_MUZZLE_ALT1"
+		hitEffectName "Weapon_PhaseCapitalMissileHeavy_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_CylonCapitalMissileHeavy_Travel"
+		missileStartTurningDistance 100.000000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 3.000000
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 200.599998
+	DamagePerBank:BACK 200.599998
+	DamagePerBank:LEFT 200.599998
+	DamagePerBank:RIGHT 200.599998
+	Range 5500.000000
+	PreBuffCooldownTime 14.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.080000
+	TravelSpeed 1000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 1
+		burstDelay 0.200000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CylonCapitalMissileHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_CYLONCAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_CYLONCAPITALMISSILEHEAVY_MUZZLE_ALT1"
+		hitEffectName "Weapon_PhaseCapitalMissileHeavy_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_CylonCapitalMissileHeavy_Travel"
+		missileStartTurningDistance 100.000000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 3.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 4
+TargetCountPerBank:BACK 4
+TargetCountPerBank:LEFT 4
+TargetCountPerBank:RIGHT 4
+canOnlyTargetStructures FALSE
+mass 100000.000000
+ShieldMeshName ""
+renderShield FALSE
+maxAccelerationLinear 80.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 0.900000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 450.000000
+maxRollRate 1.650000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 "SquadCylonCombat"
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 "SquadCylonBomber"
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumSoundsFor:ONATTACKORDERISSUED 2
+SoundID "TITAN_CYLONREBEL_ONATTACKORDERISSUED_0"
+SoundID "TITAN_CYLONREBEL_ONATTACKORDERISSUED_1"
+NumSoundsFor:ONCREATION 1
+SoundID "TITAN_CYLONREBEL_ONCREATION_0"
+NumSoundsFor:ONGENERALORDERISSUED 2
+SoundID "TITAN_CYLONREBEL_ONGENERALORDERISSUED_0"
+SoundID "TITAN_CYLONREBEL_ONGENERALORDERISSUED_1"
+NumSoundsFor:ONSELECTED 2
+SoundID "TITAN_CYLONREBEL_ONSELECTED_0"
+SoundID "TITAN_CYLONREBEL_ONSELECTED_1"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSTARTPHASEJUMP_0"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSTARTPHASEJUMP_1"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSTARTPHASEJUMP_2"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Titan_CylonBoomer"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_CylonBattleship"
+ExplosionName "StarBase1"
+CommandPoints
+	StartValue 2.600000
+	ValueIncreasePerLevel 0.200000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.030000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.050000
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_CYLONCAPITALSHIP"
+formationRank 0
+minShadow 0.400000
+maxShadow 0.400000

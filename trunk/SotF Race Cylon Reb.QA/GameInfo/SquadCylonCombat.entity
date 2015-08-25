@@ -1,0 +1,51 @@
+﻿TXT
+entityType "Squad"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+hudIcon "HUDICON_SQUADCYLONCOMBAT"
+smallHudIcon "HUDICONSMALL_SQUADCYLONCOMBAT"
+infoCardIcon "INFOCARDICON_SQUADCYLONCOMBAT"
+fighterEntityDef "FighterCylonCombat"
+fighterIllusionEntityDef ""
+scuttleTime 12.000000
+fighterConstructionTime 26.400000
+decayWithoutOwnerRate 0.010000
+baseMaxNumFighters 4
+role "Combat"
+statCountType "SquadCombat"
+mainViewIcon "MAINVIEWICON_SQUADCYLONCOMBAT"
+picture "PICTURE_SQUADCYLONCOMBAT"
+launchIcon "HUDICONLAUNCH_SQUADCYLONCOMBAT"
+dockIcon "HUDICONDOCK_SQUADCYLONCOMBAT"
+nameStringID "IDS_SQUADCYLONCOMBAT_NAME"
+descriptionStringID "IDS_SQUADCYLONCOMBAT_DESC"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+NumSoundsFor:ONATTACKORDERISSUED 4
+SoundID "SQUAD_CYLONEYE_0"
+SoundID "SQUAD_CYLONEYE_1"
+SoundID "SQUAD_CYLONEYE_2"
+SoundID "SQUAD_CYLONEYE_3"
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 4
+SoundID "SQUAD_CYLONEYE_0"
+SoundID "SQUAD_CYLONEYE_1"
+SoundID "SQUAD_CYLONEYE_2"
+SoundID "SQUAD_CYLONEYE_3"
+NumSoundsFor:ONSELECTED 4
+SoundID "SQUAD_CYLONEYE_0"
+SoundID "SQUAD_CYLONEYE_1"
+SoundID "SQUAD_CYLONEYE_2"
+SoundID "SQUAD_CYLONEYE_3"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+minShadow 0.200000
+maxShadow 0.000000
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

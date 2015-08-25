@@ -1,0 +1,6 @@
+﻿TXT
+Version 0
+enabledModNameCount 3
+enabledModName "SotF Race Plague Reb.QA"
+enabledModName "SotF Race Nephilim Reb.QA"
+enabledModName "SotF Core Reb.QA"

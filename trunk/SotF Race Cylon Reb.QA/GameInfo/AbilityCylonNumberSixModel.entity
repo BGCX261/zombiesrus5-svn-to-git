@@ -1,0 +1,45 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffCylonNumberSixModelSelf"
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "MutualThreat"
+	mediumEffectName "MutualThreat"
+	largeEffectName "MutualThreat"
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithoutBase"
+improveSourceResearchSubject "RESEARCHSUBJECT_CYLON_ABILITYACCESS_NUMBERSIXMODEL"
+aiUseTime "OnlyWhenOrbitingEnemyOrAlliedPlanet"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 120.000000
+	Level:1 120.000000
+	Level:2 120.000000
+	Level:3 120.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_CYLON_ABILITYACCESS_NUMBERSIXMODEL"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_CYLON_THEPLAN_NUMBERSIXMODEL_NAME"
+descStringID "IDS_ABILITY_CYLON_THEPLAN_NUMBERSIXMODEL_DESCRIPTION"
+hudIcon "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_NUMBERSIXMODEL"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_NUMBERSIXMODEL"
+infoCardIcon ""

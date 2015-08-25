@@ -1,0 +1,248 @@
+﻿TXT
+entityType "CapitalShip"
+ability:0 "AbilityCylonBoardingTroops"
+ability:1 "AbilityCylonOrganicArmor"
+ability:2 "AbilityCylonExpandedHangars"
+ability:3 "AbilityCylonInfiltration"
+ability:4 "AbilityCylonResurrectionWorldstar"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb TRUE
+hasBombingLevels FALSE
+baseDamage 35.000000
+basePopulationKilled 1.350000
+bombingFreqTime 10.000000
+baseRange 3000.000000
+bombTransitTime 12.000000
+bombEffectCount 3
+bombEffectAngleVariance 15.000000
+bombEffectsDef
+	weaponType "Projectile"
+	burstCount 1
+	burstDelay 0.000000
+	fireDelay 0.000000
+	muzzleEffectName "Weapon_TechCapitalPlanetBombing_Muzzle"
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds
+		soundCount 1
+		sound "WEAPON_TECH_PLANETBOMB_MUZZLE"
+	hitEffectName "Weapon_TechCapitalPlanetBombing_Hit"
+	hitHullEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	hitShieldsEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	projectileTravelEffectName "Weapon_TechCapitalPlanetBombing_Travel"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_CYLONCARRIER"
+basePrice
+	credits 3000.000000
+	metal 400.000000
+	crystal 250.000000
+slotCount 0.000000
+BuildTime 75.000000
+MaxHullPoints
+	StartValue 5335.00012
+	ValueIncreasePerLevel 400.00000
+MaxShieldPoints
+	StartValue 0.00055
+	ValueIncreasePerLevel 0.00000
+HullPointRestoreRate
+	StartValue 1.65000
+	ValueIncreasePerLevel 0.20000
+ShieldPointRestoreRate
+	StartValue 0.00000
+	ValueIncreasePerLevel 0.00000
+ArmorPointsFromExperience
+	StartValue 4.40000
+	ValueIncreasePerLevel 0.66667
+maxMitigation
+	StartValue 0.650000
+	ValueIncreasePerLevel 0.011110
+MaxAntiMatter
+	StartValue 275.00001
+	ValueIncreasePerLevel 50.00000
+AntiMatterRestoreRate
+	StartValue 0.93500
+	ValueIncreasePerLevel 0.18000
+CultureProtectRate
+	StartValue 0.33000
+	ValueIncreasePerLevel 0.10000
+NameStringID "IDS_FLAGSHIP_CYLONCARRIER_NAME"
+DescriptionStringID "IDS_FLAGSHIP_CYLONCARRIER_DESCRIPTION"
+picture "CAPITALSHIPPICTURE_CYLONCARRIER"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+roleType "Invalid"
+statCountType "CapitalShipCarrier"
+numRandomDebrisLarge 4
+numRandomDebrisSmall 12
+numSpecificDebris 0
+armorType "CapitalShip"
+hudIcon "HUDICON_CAPITALSHIP_CYLONCARRIER"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_CYLONCARRIER"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_CYLONCARRIER"
+minZoomDistanceMult 1.000000
+NumWeapons 2
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 167.20000
+	DamagePerBank:BACK 167.20000
+	DamagePerBank:LEFT 167.20000
+	DamagePerBank:RIGHT 167.20000
+	Range 5500.000000
+	PreBuffCooldownTime 20.00000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.080000
+	TravelSpeed 1000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CylonCapitalMissileHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_CYLONCAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_CYLONCAPITALMISSILEHEAVY_MUZZLE_ALT1"
+		hitEffectName "Weapon_PhaseCapitalMissileHeavy_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_CylonCapitalMissileHeavy_Travel"
+		missileStartTurningDistance 100.000000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 3.000000
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 172.599998
+	DamagePerBank:BACK 172.599998
+	DamagePerBank:LEFT 172.599998
+	DamagePerBank:RIGHT 172.599998
+	Range 5500.000000
+	PreBuffCooldownTime 16.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.080000
+	TravelSpeed 1000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CylonCapitalMissileHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_CYLONCAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_CYLONCAPITALMISSILEHEAVY_MUZZLE_ALT1"
+		hitEffectName "Weapon_PhaseCapitalMissileHeavy_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_CylonCapitalMissileHeavy_Travel"
+		missileStartTurningDistance 100.000000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 3.000000
+m_weaponIndexForRange 1
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 4.0
+TargetCountPerBank:BACK 4.0
+TargetCountPerBank:LEFT 4.0
+TargetCountPerBank:RIGHT 4.0
+canOnlyTargetStructures FALSE
+mass 10000.000000
+ShieldMeshName ""
+renderShield TRUE
+maxAccelerationLinear 100.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 1.000000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 525.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 "SquadCylonCombat"
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 "SquadCylonBomber"
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumSoundsFor:ONATTACKORDERISSUED 2
+SoundID "CAPITALSHIP_CYLONHYBRID_ONATTACKORDERISSUED_0"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONATTACKORDERISSUED_1"
+NumSoundsFor:ONCREATION 2
+SoundID "CAPITALSHIP_CYLONHYBRID_ONCREATION_0"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONCREATION_0"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "CAPITALSHIP_CYLONHYBRID_ONGENERALORDERISSUED_0"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONGENERALORDERISSUED_1"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONGENERALORDERISSUED_1"
+NumSoundsFor:ONSELECTED 5
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSELECTED_0"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSELECTED_1"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSELECTED_2"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSELECTED_3"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSELECTED_4"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSTARTPHASEJUMP_0"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSTARTPHASEJUMP_1"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSTARTPHASEJUMP_2"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "CapitalShip_CylonWorldstar"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_CylonCarrier"
+ExplosionName "CapitalShip0"
+CommandPoints
+	StartValue 4.250000
+	ValueIncreasePerLevel 1.10000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.04000
+weaponDamageIncreasePerc
+	StartValue 0.1
+	ValueIncreasePerLevel 0.12000
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_CYLONCAPITALSHIP"
+formationRank 2
+minShadow 0.400000
+maxShadow 0.400000

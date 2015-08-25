@@ -1,0 +1,50 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCH_COLONIAL_IMPROVEDRADIATIONSHIELDING"
+smallHudIcon "HUDICON_RESEARCH_COLONIAL_IMPROVEDRADIATIONSHIELDING"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_COLONIAL_ARMOR3_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_COLONIAL_ARMOR3_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 7 , 2 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_COLONIAL_ARMOR2"
+		Level 2
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 120.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1800.000000
+	metal 350.000000
+	crystal 550.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 7
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 2
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 3
+researchModifier
+	modifierType "ArmorBaseAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.750000
+researchModifier
+	modifierType "HullPointsMaxBonusPerArmorPoint"
+	baseValue 0.000000
+	perLevelValue 10.000000
+researchModifier
+	modifierType "HullPointsMaxBonusPerArmorPointMax"
+	baseValue 0.000000
+	perLevelValue 250.000000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

@@ -1,0 +1,61 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyTargettedBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffPlagueHungerSelf"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 1
+	object "Frigate"
+	numSpaces 1
+	space "Normal"
+	numConstraints 1
+	constraint "NotIsBoarded"
+range
+	Level:0 3500.000000
+	Level:1 4000.000000
+	Level:2 4500.000000
+	Level:3 5000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "TitanAbility_Cherubim_Purification_Activate"
+	mediumEffectName "TitanAbility_Cherubim_Purification_Activate"
+	largeEffectName "TitanAbility_Cherubim_Purification_Activate"
+	soundID "EFFECT_PURIFICATION"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 4
+levelSourceType "TitanUpgradeLevel"
+sourcePropertyType "AbilityALevel"
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 95.000000
+	Level:1 90.000000
+	Level:2 85.000000
+	Level:3 80.000000
+cooldownTime
+	Level:0 90.000000
+	Level:1 80.000000
+	Level:2 70.000000
+	Level:3 60.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_PLAGUE_HUNGER_NAME"
+descStringID "IDS_ABILITY_PLAGUE_HUNGER_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_PLAGUE_HUNGER"
+smallHudIcon "HUDICON_ABILITY_PLAGUE_HUNGER"
+infoCardIcon ""

@@ -1,0 +1,261 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 17
+brush
+	name "ActionGridSlotBackdropCylon"
+	content "MarginsAndStates"
+	stretchMargins
+		left 5
+		right 8
+		top 4
+		bottom 8
+	contentMargins
+		left 2
+		right 2
+		top 2
+		bottom 2
+	Disabled
+		fileName "BSG_Buttons_Backgrounds"
+		pixelBox [ 474 , 584 , 54 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Backgrounds"
+		pixelBox [ 474 , 674 , 54 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Backgrounds"
+		pixelBox [ 474 , 629 , 54 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Backgrounds"
+		pixelBox [ 474 , 539 , 54 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Backgrounds"
+		pixelBox [ 474 , 494 , 54 , 38 ]
+brush
+	name "BottomWindowBackdropCylon"
+	content "Simple"
+	fileName "Skin_Cylon"
+	pixelBox [ 0 , 384 , 1024 , 128 ]
+brush
+	name "BottomWindowOverlayCylon"
+	content "Simple"
+	fileName "Skin_Cylon"
+	pixelBox [ 0 , 255 , 1024 , 128 ]
+brush
+	name "InfoCardAttachedToBottomBackdropCylon"
+	content "Margins"
+	stretchMargins
+		left 0
+		right 0
+		top 20
+		bottom 10
+	contentMargins
+		left 32
+		right 32
+		top 14
+		bottom 14
+	fileName "Skin_Cylon"
+	pixelBox [ 716 , 225 , 297 , 29 ]
+brush
+	name "InfoCardAttachedToScreenEdgeBackdropCylon"
+	content "Margins"
+	stretchMargins
+		left 10
+		right 20
+		top 20
+		bottom 20
+	contentMargins
+		left 32
+		right 32
+		top 14
+		bottom 22
+	fileName "BSG_BackdropInGame"
+	pixelBox [ 2016 , 11 , 29 , 295 ]
+brush
+	name "EmpireWindowFindIconOwnedColonyShipsCylon"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens_Disabled"
+		pixelBox [ 92 , 618 , 65 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 92 , 618 , 65 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens_CursorOver"
+		pixelBox [ 92 , 618 , 65 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 92 , 618 , 65 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 92 , 618 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedScoutShipsCylon"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens_Disabled"
+		pixelBox [ 92 , 659 , 65 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 92 , 659 , 65 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens_CursorOver"
+		pixelBox [ 92 , 659 , 65 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 92 , 659 , 65 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 92 , 659 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedCapitalShipsCylon"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens_Disabled"
+		pixelBox [ 92 , 700 , 65 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 92 , 700 , 65 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens_CursorOver"
+		pixelBox [ 92 , 700 , 65 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 92 , 700 , 65 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 92 , 700 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedStarbasesCylon"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens2_Disabled"
+		pixelBox [ 180 , 249 , 65 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 180 , 249 , 65 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens2_CursorOver"
+		pixelBox [ 180 , 249 , 65 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 180 , 249 , 65 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 180 , 249 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedEnvoysCylon"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens2_Disabled"
+		pixelBox [ 445 , 144 , 65 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 445 , 144 , 65 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens2_CursorOver"
+		pixelBox [ 445 , 144 , 65 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 445 , 144 , 65 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 445 , 144 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithResourceAsteroidsCylon"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithFactoriesCylon"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens_Disabled"
+		pixelBox [ 92 , 741 , 65 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 92 , 741 , 65 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens_CursorOver"
+		pixelBox [ 92 , 741 , 65 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 92 , 741 , 65 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 92 , 741 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithUpgradesCylon"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithCivilianSlotsCylon"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconPlanetsWithArtifactsCylon"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+brush
+	name "TopWindowBackdropCylon"
+	content "Simple"
+	fileName "Skin_Cylon"
+	pixelBox [ 0 , 0 , 1024 , 50 ]
+brush
+	name "TopWindowOverlayCylon"
+	content "Simple"
+	fileName "Skin_Cylon"
+	pixelBox [ 0 , 51 , 1024 , 50 ]

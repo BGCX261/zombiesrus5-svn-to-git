@@ -1,0 +1,75 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 14
+brush
+	name "HUDICONSMALL_PLANET_SINSPLUSCITY01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 224 , 79 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SINSPLUSCITY02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 224 , 207 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SINSPLUSVOLCANICDARKSIDE"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 224 , 335 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SINSPLUSTERRANEARTH"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 224 , 463 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SINSPLUSFOREST"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 224 , 591 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SINSPLUSFOREST02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 224 , 719 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SINSPLUSGRASS"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 224 , 847 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SINSPLUSINDUSTRIAL01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 224 , 975 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SINSPLUSINDUSTRIAL02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 731 , 79 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SINSPLUSPARADISE01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 731 , 207 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SINSPLUSPARADISE02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 731 , 335 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SINSPLUSPARADISE03"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 731 , 463 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SINSPLUSRELIC01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 731 , 591 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SINSPLUSWATER01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 731 , 719 , 23 , 28 ]
+
+

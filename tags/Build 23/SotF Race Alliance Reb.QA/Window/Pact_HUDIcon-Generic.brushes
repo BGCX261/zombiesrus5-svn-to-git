@@ -1,0 +1,49 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 4
+brush
+	name "HUDIconCannonShellPact"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 447 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 447 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 224 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 447 , 224 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 447 , 224 , 47 , 33 ]
+brush
+	name "HUDIconSmallCannonShellPact"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 481 , 1 , 28 , 28 ]
+brush
+	name "HUDIconSpaceMinePact"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 153 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 153 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 14 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 153 , 14 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 153 , 14 , 47 , 33 ]
+brush
+	name "HUDIconSmallSpaceMinePact"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 301 , 1 , 28 , 28 ]

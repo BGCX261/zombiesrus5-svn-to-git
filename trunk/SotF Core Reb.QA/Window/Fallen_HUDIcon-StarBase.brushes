@@ -1,0 +1,49 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 4
+brush
+	name "HUDICON_STARBASE_NEPHILIM"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASE_PLAGUE"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 349 , 294 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 349 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 294 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 349 , 294 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 349 , 294 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_NEPHILIM"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 271 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_STARBASE_PLAGUE"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 271 , 151 , 28 , 28 ]

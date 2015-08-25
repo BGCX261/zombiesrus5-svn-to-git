@@ -1,0 +1,75 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 14
+brush
+	name "PICTURE_DWARF_TENORIAS_DESERT_BENDARO"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 2 , 1 , 167 , 75 ]
+brush
+	name "PICTURE_DWARF_TENORIAS_DUST_A"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 2 , 129 , 167 , 75 ]
+brush
+	name "PICTURE_DWARF_TENORIAS_GAS_NEPTUNIAN2"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 2 , 257 , 167 , 75 ]
+brush
+	name "PICTURE_DWARF_TENORIAS_GAS1"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 2 , 385 , 167 , 75 ]
+brush
+	name "PICTURE_DWARF_TENORIAS_METAL_PAYNE"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 2 , 513 , 167 , 75 ]
+brush
+	name "PICTURE_DWARF_TENORIAS_TERRAN_PORILAD"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 2 , 641 , 167 , 75 ]
+brush
+	name "PICTURE_DWARF_TENORIAS_VOLCANIC_PYRUS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 2 , 769 , 167 , 75 ]
+brush
+	name "PICTURE_DWARF_TENORIAS_DESERT_CRYOS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 509 , 1 , 167 , 75 ]
+brush
+	name "PICTURE_DWARF_TENORIAS_GAS_FENDAREA"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 509 , 129 , 167 , 75 ]
+brush
+	name "PICTURE_DWARF_TENORIAS_GAS0"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 509 , 257 , 167 , 75 ]
+brush
+	name "PICTURE_DWARF_TENORIAS_ICE_JETORION"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 509 , 385 , 167 , 75 ]
+brush
+	name "PICTURE_DWARF_TENORIAS_TERRAN_LIKE"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 509 , 513 , 167 , 75 ]
+brush
+	name "PICTURE_DWARF_TENORIAS_VOLCANIC_KRAAHKAN"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 509 , 641 , 167 , 75 ]
+brush
+	name "PICTURE_DWARF_TENORIAS_WATER_AQUAS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 509 , 769 , 167 , 75 ]
+
+

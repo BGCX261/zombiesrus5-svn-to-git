@@ -1,0 +1,82 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 8
+brush
+	name "HUDIconCannonShellHyp"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+brush
+	name "HUDIconSmallCannonShellHyp"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 481 , 61 , 28 , 28 ]
+brush
+	name "HUDIconSpaceMineHypExplosive"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+brush
+	name "HUDIconSpaceMineHypGravity"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+brush
+	name "HUDIconSmallSpaceMineHypExplosive"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 301 , 61 , 28 , 28 ]
+brush
+	name "HUDIconSmallSpaceMineHypGravity"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 451 , 241 , 28 , 28 ]
+brush
+	name "HUDIconOverlayPlanetBuildShipNotEnoughShipSlotsHyp"
+	content "Simple"
+	fileName "Interface0"
+	pixelBox [ 965 , 351 , 50 , 36 ]
+brush
+	name "HUDIconOverlayPlanetBuildShipNotEnoughCapitalShipSlotsHyp"
+	content "Simple"
+	fileName "Interface0"
+	pixelBox [ 965 , 388 , 50 , 36 ]

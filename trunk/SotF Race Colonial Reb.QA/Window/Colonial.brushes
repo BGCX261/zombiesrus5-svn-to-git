@@ -1,0 +1,2309 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 128
+brush
+	name "HUDICON_ABILITY_COLONIAL_FLAKSHIELD"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_AUTHORIZELOWYIELD"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_ENHANCEDARMOR"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_SCRAMBLEBOMBER"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_AUTHORIZEMEDIUMYIELD"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_DEPLOYREPAIRTEAMS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_EXPANDEDFLIGHTPODS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_COLONIZE"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_NONINTEGRATEDSYSTEMS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_NUCLEARDEFENSE"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_EMPBLAST"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_INCENDIARYROUNDS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_HIGHEXPLOSIVEWARHEADS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_MICROJUMP"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_AUTHORIZEHIGHYIELD"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_VIRTUALINTELLIGENCE"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_RAPIDMANUFACTURING"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_EMP"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_STEALTHRECON"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_SCRAMBLEVIPERS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_SHEWONTFAILUS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_MAISONRADIATIONSWEEPS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_AUTHORIZENUCLEARBARRAGE"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_BLAZEOFGLORY"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_LOADNUCLEARORDINANCE"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_INSTANTBUILDFIGHTERS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_VETERNPILOTS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_COLONIAL_FLEETCIC"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_BLOCKCOLONIZE"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_STARBASEHANGAR"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_BSG75"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_FLEETACADEMYTRAINING"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_COLONIALTAX"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CULTUREAFTERLIFE"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CULTURELORDSOFKOBOL"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_SUPPLIERCONTRACTS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_MEASUREOFSALVATION"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_POINTDEFENSE0"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_POINTDEFENSE2"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 923 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 923 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 38 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 923 , 38 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 923 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_GASCOLONIZATION"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_DISRUPTORMISSILES"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_DEFENDERPURSUIT"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_SCORTCHEARTHPOLICY"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_PROBE"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_REPAIRTEAMS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_DAMAGECONTROL"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CULTUREARROWOFATHENA"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_FULLCOLORS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_TWELVECOLONIES"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_METAL0"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_METAL1"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_METAL2"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CULTUREINCREASETRADE"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_TIESTHATBIND"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CULTUREEYEOFJUPITER"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_HIGHYIELDWARHEADS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_POINTDEFENSE1"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_SALVAGE0"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_ANTIMATTER1"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_REPAIRPLATFORM"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_REBELLION"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_TACTICAL0"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_TACTICAL1"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_DRADIS0"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_DRADIS1"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_OATH"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_PENDANT"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_VIPERTAGS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_FLEETEXPERIENCE"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CRYSTAL0"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CRYSTAL1"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CRYSTAL2"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_MISSILE1"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_DEMOLITIONTEAMS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 719 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 719 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 719 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 719 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_MISSILE2"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 770 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 770 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 770 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 770 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_KEW1"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_KEW2"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_KEW0"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_ANTIMATTER0"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_BASICRADIATIONSHIELDING"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_AUTOCANNON2"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_AUTOCANNON1"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_AUTOCANNON0"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_FRAK"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_FOCUSEDEMP"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_POPULATIONTERRANT1"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CULTURESANCTITYOFLIFE"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_WORMHOLETRAVEL"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CULTURECYCLEOFTIME"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_UNSTOPPABLEPHASEJUMP"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_MISSILE0"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_SOSAYWEALL"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_FTLSTABILIZATION"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CAPTURENEUTRAL"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_HULLPLATING"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_IMPROVEDSMOOTHARMOR"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_IMPROVEDRADIATIONSHIELDING"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_COLONIALARMOR"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_RESUPPLY0"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CUBITS0"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CUBITS1"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CUBITS2"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_GLORYOFCAPRICA"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_EXPANDEDFLIGHTPODS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_POPULATIONTERRANT0"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CULTURETEMPLEOFTHEGODS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_STARTRAVEL"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CULTUREPATHOFOLYMPUS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CULTUREBLOODONTHESCALES"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_ORDINANCE"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CULTUREOPERAHOUSE"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_FTLCALCULATIONS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 974 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 974 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 186 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 974 , 186 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 974 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_COLONIZEICE"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_COLONIZEVOLCANIC"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CARGO0"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_PLANETIMPROVEMENT0"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_SHIPCONSTRUCTIONRATE"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_RESUPPLY1"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_RAGNAROKMOBILIZATION"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_ENHANCEDTARGETTING"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 566 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 566 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 223 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 566 , 223 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 566 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_DESTABILIZATION"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 617 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 617 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 223 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 617 , 223 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 617 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_STARBASEARMOR"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 668 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 668 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 223 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 668 , 223 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 668 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_STARBASETRADE"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 719 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 719 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 223 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 719 , 223 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 719 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_CULTUREREVELATIONS"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 770 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 770 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 223 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 770 , 223 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 770 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_HANGAR"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 821 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 821 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 223 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 821 , 223 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 821 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_VIPERCOMBAT"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 872 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 872 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 223 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 872 , 223 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 872 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_SUBLIGHTMANEUVERING"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 923 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 923 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 223 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 923 , 223 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 923 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCH_COLONIAL_STARBASEFACTORY"
+	content "States"
+	Disabled
+		fileName "Colonial_Buttons_Research_Disabled"
+		pixelBox [ 974 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Buttons_Research_Pressed"
+		pixelBox [ 974 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 223 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 974 , 223 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Buttons_Research_Normal"
+		pixelBox [ 974 , 223 , 47 , 33 ]
+
+

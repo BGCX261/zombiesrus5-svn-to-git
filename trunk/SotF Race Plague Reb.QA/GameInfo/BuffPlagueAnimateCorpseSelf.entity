@@ -1,0 +1,69 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "NotExclusive"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Ability"
+			abilityIndex 0
+		smallEffectName "TitanAbility_Psi_SubjugatingAssault"
+		mediumEffectName "TitanAbility_Psi_SubjugatingAssault"
+		largeEffectName "TitanAbility_Psi_SubjugatingAssault"
+		soundID "EFFECT_SUBJUGATION"
+numPeriodicActions 1
+periodicAction
+	actionCountType "Infinite"
+	actionIntervalTime
+		Level:0 0.500000
+		Level:1 0.500000
+		Level:2 0.500000
+		Level:3 0.500000
+	buffInstantActionType "ApplyBuffToTargetsInRadius"
+	instantActionTriggerType "AlwaysPerform"
+	buffType "BuffPlagueAnimateCorpseTarget"
+	targetFilter
+		numOwnerships 1
+		ownership "Player"
+		numObjects 2
+		object "Frigate"
+		object "Corvette"
+		numSpaces 1
+		space "Normal"
+		numConstraints 4
+		constraint "IsControllable"
+		constraint "NotFlagship"
+		constraint "NotInvulnerable"
+		constraint "NotIsBoarded"
+	range
+		Level:0 7500.000000
+		Level:1 7500.000000
+		Level:2 7500.000000
+		Level:3 7500.000000
+	maxTargetCount
+		Level:0 -1.000000
+		Level:1 -1.000000
+		Level:2 -1.000000
+		Level:3 -1.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "AntiMatterDepleted"

@@ -1,0 +1,463 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 51
+brush
+	name "ResearchScreenTabButtonCombatColonial"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 741 , 85 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 268 , 741 , 85 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 741 , 85 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 268 , 741 , 85 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 268 , 741 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonDefenseColonial"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens2_Disabled"
+		pixelBox [ 4 , 331 , 85 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 331 , 85 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens2_CursorOver"
+		pixelBox [ 4 , 331 , 85 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 331 , 85 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 331 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonNonCombatColonial"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 700 , 85 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 268 , 700 , 85 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 700 , 85 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 268 , 700 , 85 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 268 , 700 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonDiplomacyColonial"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens2_Disabled"
+		pixelBox [ 4 , 372 , 85 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 372 , 85 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens2_CursorOver"
+		pixelBox [ 4 , 372 , 85 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 372 , 85 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 372 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonFleetColonial"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 864 , 85 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 268 , 864 , 85 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 864 , 85 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 268 , 864 , 85 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 268 , 864 , 85 , 38 ]
+brush
+	name "ResearchScreenBlockBackdropCombat0Colonial"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 809 , 815 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockBackdropCombat1Colonial"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 809 , 838 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockBackdropCombat2Colonial"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 809 , 861 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockBackdropDefense0Colonial"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 809 , 953 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockBackdropNonCombat0Colonial"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 809 , 884 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockBackdropNonCombat1Colonial"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 809 , 907 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockBackdropNonCombat2Colonial"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 809 , 815 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockTierIndicatorCombat0Colonial"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 832 , 815 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockTierIndicatorCombat1Colonial"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 832 , 838 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockTierIndicatorCombat2Colonial"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 832 , 861 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockTierIndicatorDefense0Colonial"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 832 , 953 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockTierIndicatorNonCombat0Colonial"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 832 , 884 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockTierIndicatorNonCombat1Colonial"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 832 , 907 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockTierIndicatorNonCombat2Colonial"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 832 , 930 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockBackdropArtifact0Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 471 , 0 , 776 , 631 ]
+brush
+	name "ResearchScreenBlockBackdropFleet0Colonial"
+	content "Simple"
+	fileName "BackdropInGame"
+	pixelBox [ 1068 , 510 , 784 , 308 ]
+brush
+	name "ResearchScreenBlockBackdropFleet1Colonial"
+	content "Simple"
+	fileName "BackdropInGame"
+	pixelBox [ 1068 , 510 , 784 , 308 ]
+brush
+	name "ResearchScreenBlockPictureCombat0Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 3 , 3 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureCombat1Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 3 , 135 , 153 , 81 ]
+brush
+	name "ResearchScreenBlockPictureCombat2Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 3 , 219 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureDefense0Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 784 , 636 , 153 , 172 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat0Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 3 , 351 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat1Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 3 , 567 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat2Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 3 , 483 , 153 , 81 ]
+brush
+	name "ResearchScreenBlockPictureDiplomacyColonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 629 , 636 , 153 , 172 ]
+brush
+	name "BSG_ResearchScreenCapitalShipSlotLevelPicture0Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "BSG_ResearchScreenCapitalShipSlotLevelPicture1Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 1417 , 1024 , 199 , 148 ]
+brush
+	name "BSG_ResearchScreenCapitalShipSlotLevelPicture2Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 1215 , 1024 , 199 , 148 ]
+brush
+	name "BSG_ResearchScreenCapitalShipSlotLevelPicture3Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 1013 , 1024 , 199 , 148 ]
+brush
+	name "BSG_ResearchScreenCapitalShipSlotLevelPicture4Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 811 , 1024 , 199 , 148 ]
+brush
+	name "BSG_ResearchScreenCapitalShipSlotLevelPicture5Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 609 , 1024 , 199 , 148 ]
+brush
+	name "BSG_ResearchScreenCapitalShipSlotLevelPicture6Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 407 , 1024 , 199 , 148 ]
+brush
+	name "BSG_ResearchScreenCapitalShipSlotLevelPicture7Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 205 , 1024 , 199 , 148 ]
+brush
+	name "BSG_ResearchScreenCapitalShipSlotLevelPicture8Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 3 , 1024 , 199 , 148 ]
+brush
+	name "BSG_ResearchScreenShipSlotLevelPicture0Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "BSG_ResearchScreenShipSlotLevelPicture1Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 1417 , 1175 , 199 , 148 ]
+brush
+	name "BSG_ResearchScreenShipSlotLevelPicture2Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 1215 , 1175 , 199 , 148 ]
+brush
+	name "BSG_ResearchScreenShipSlotLevelPicture3Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 1013 , 1175 , 199 , 148 ]
+brush
+	name "BSG_ResearchScreenShipSlotLevelPicture4Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 811 , 1175 , 199 , 148 ]
+brush
+	name "BSG_ResearchScreenShipSlotLevelPicture5Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 609 , 1175 , 199 , 148 ]
+brush
+	name "BSG_ResearchScreenShipSlotLevelPicture6Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 407 , 1175 , 199 , 148 ]
+brush
+	name "BSG_ResearchScreenShipSlotLevelPicture7Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 205 , 1175 , 199 , 148 ]
+brush
+	name "BSG_ResearchScreenShipSlotLevelPicture8Colonial"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 3 , 1175 , 199 , 148 ]
+brush
+	name "HUDIconOverlayPlanetBuildShipNotEnoughShipSlotsColonial"
+	content "Simple"
+	fileName "Interface0"
+	pixelBox [ 914 , 314 , 50 , 36 ]
+brush
+	name "HUDIconOverlayPlanetBuildShipNotEnoughCapitalShipSlotsColonial"
+	content "Simple"
+	fileName "Interface0"
+	pixelBox [ 863 , 388 , 50 , 36 ]
+brush
+	name "InfoCardIconFleetUpkeepColonial"
+	content "Simple"
+	fileName "smallicons"
+	pixelBox [ 167 , 121 , 16 , 16 ]

@@ -1,0 +1,2129 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 118
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_ADVANCEDHYBRID0"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_REGENERATION"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_ADVANCEDHYBRID1"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_HEAVYFALLOUT"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_BYYOURCOMMAND"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_AUTHORIZELOWYIELD"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_DISRUPTDRADIS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_ACTIVATESLEEPERAGENTS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_ADVANCEDFIREWALLS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_CYLONAGENTINFILTRATION"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_HEAVYNUCLEARMISSILES"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_CPMISSILES"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_HYBRIDCORE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_TWINFTLENGINES"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_BIOENHANCEDSTRUCTURE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_BIOMECHANICALRESIN"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_MIRVMISSLES"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_HEAVYMISSILETURRETS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_HIGHEFFICIENCYJUMPS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_DEFENSESYSTEMS_ENDOFLINE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_DEFENSESYSTEMS_SYSTEMOVERRIDE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_DEFENSESYSTEMS_PULSARCANNONS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_DEFENSESYSTEMS_ORGANICELECTROPLATING"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_RESURRECTION"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_OPTIMIZEDASSEMBLY"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_PROPULSIONBUG"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_SUBVERSIONSUPERVIRUS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_DEFENSESYSTEMS_CENTURIONRESILIENCE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_DEFENSESYSTEMS_SIPHONCREDITS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_BOXEDMODELS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_HEAVYCPMISSILES"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_HYBRIDCOREUPGRADE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_DEFENSESYSTEMS_RAIDERREINFORCEMENT"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_BIOINTEGRATEDSTRUCTURE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_COMPRESSEDRESIN"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_MEGALUMINALFTL"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 974 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 974 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 38 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 974 , 38 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 974 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_POLICEFORCES"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_REPRODUCTIVEFARMS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_THECOLONY"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_ACTIVATEHYBRIDGRID"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_ADVANCEDROBOTICS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_SENTIENTROBOTICS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_HYBRIDHACKINGPROGRAMS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_SYSTEMICHACKING"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_FIREWALLHACKING"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_VIRTUALIMMORTALITY"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_LOBOTOMISERAIDERS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_TELENCEPHALICINHIBITOR"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_TACTICALNUCLEARMISSILES"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_ORBITALSUPPRESSION"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_BIOENGINEEREDSTRUCTURE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_REACTIVERESIN"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_NUMBERONEMODEL"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_NUMBERFIVEMODEL"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_NUMBERFOURMODEL"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_SHARONBOOMERVALERII"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_NUMBEREIGHTMODEL"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_DANNABIERS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_FINALFIVE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_NUMBERTWOMODEL"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_NUMBERSIXMODEL"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_ADVANCEDTACTICALNUKE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_DEFENSESYSTEMS_ASSAULTSYSTEMS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_DEFENSESYSTEMS_RAIDERFACILITIES"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_DEFENSESYSTEMS_COLONYPODS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_DEFENSESYSTEMS_DEFENSIVEENHANCEMENTS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_CYLONDIPLOMATS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_EFFICIENCYPROGRAMS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_ENEMYRELATIONS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_FEARLESSNESS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_HANDSHAKESOFTWARE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_HUNTERALGORITHM"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_INFLUENCE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_JUMPSTABILIZATION"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_LOBOTOMY"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_MANIPULATION"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_PERSUASION"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_ORGANICRESIN"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_PIRATERELATIONS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_PROJECTION"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 668 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 668 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 668 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 668 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_FTLDRIVE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_AREYOUALIVE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_HYBRIDREVELATIONS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_GODSPROTECTION"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_NANOROBOTICS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_PROCREATION"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_ORGANICARMOR"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_BOARDINGPARTY"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_COLONIZE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_DISORIENTATIONVIRUS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_EXPANDEDHANGARS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_LOGICBOMB"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_FTLVIRUS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_HIGHYIELDNUKES"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_INFILTRATION"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_INFILTRATOR"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_LOCKDOWN"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_REGENERATION"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_RESURRECTBASESTAR"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_RESURRECTSTRIKECRAFT"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_SUBVERSION"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_TOTALATMOSPHERICEXPULSION"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_WEAPONVIRUS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 821 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 821 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 821 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 821 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_NUCLEARBARRAGE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_CYLON_SUPERVIRUS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_LONGRANGEMISSILES"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_BOARDINGTROOPS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_EXPANDEDRAIDERSLOTS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_LAUNCHBEACON"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_FTLSIGNATURE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_FTLINTERFERENCE"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_RECURSIVEHEALING"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_OVERLOADSYSTEMS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_DISRUPTCOMBATSYSTEMS"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_FTLLOGICBOMB"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_SYSTEMCRASH"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 515 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 515 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 223 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 515 , 223 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 515 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_RECURSIVEUPGRADES"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 566 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 566 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 223 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 566 , 223 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 566 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CYLON_APOTHEOSIS_PURGEPLANET"
+	content "States"
+	Disabled
+		fileName "Cylon_Buttons_Research_Disabled"
+		pixelBox [ 617 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Buttons_Research_Pressed"
+		pixelBox [ 617 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 223 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 617 , 223 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Buttons_Research_Normal"
+		pixelBox [ 617 , 223 , 47 , 33 ]
+
+

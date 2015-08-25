@@ -1,0 +1,51 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffPlagueSpawnCarrierFrigate"
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "ResearchWithBase"
+baseSourceResearchSubject "RESEARCHSUBJECT_PLAGUE_FRIGATEACCESS_CARRIER"
+improveSourceResearchSubject "RESEARCHSUBJECT_PLAGUE_IMPROVESPAWN_CARRIER"
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 0.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 25.000000
+	Level:1 25.000000
+	Level:2 25.000000
+	Level:3 25.000000
+orderAcknowledgementType "Invalid"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_PLAGUE_FRIGATEACCESS_CARRIER"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_FRIGATE_PLAGUE_SPAWNCARRIER_NAME"
+descStringID "IDS_FRIGATE_PLAGUE_SPAWNCARRIER_DESCRIPTION"
+hudIcon "HUDICON_FRIGATE_PLAGUECARRIER"
+smallHudIcon "HUDICON_FRIGATE_PLAGUECARRIER"
+infoCardIcon ""

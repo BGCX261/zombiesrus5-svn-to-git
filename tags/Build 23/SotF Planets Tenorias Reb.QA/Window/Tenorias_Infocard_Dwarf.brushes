@@ -1,0 +1,75 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 14
+brush
+	name "INFOCARDICON_DWARF_TENORIAS_DESERT_BENDARO"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 89 , 79 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_TENORIAS_DUST_A"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 89 , 207 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_TENORIAS_GAS_NEPTUNIAN2"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 89 , 335 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_TENORIAS_GAS1"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 89 , 463 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_TENORIAS_METAL_PAYNE"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 89 , 591 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_TENORIAS_TERRAN_PORILAD"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 89 , 719 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_TENORIAS_VOLCANIC_PYRUS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 89 , 847 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_TENORIAS_DESERT_CRYOS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 596 , 79 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_TENORIAS_GAS_FENDAREA"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 596 , 207 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_TENORIAS_GAS0"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 596 , 335 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_TENORIAS_ICE_JETORION"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 596 , 463 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_TENORIAS_TERRAN_LIKE"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 596 , 591 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_TENORIAS_VOLCANIC_KRAAHKAN"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 596 , 719 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_TENORIAS_WATER_AQUAS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 596 , 847 , 22 , 22 ]
+
+

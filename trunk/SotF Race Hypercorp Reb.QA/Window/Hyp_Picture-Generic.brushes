@@ -1,0 +1,28 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 5
+brush
+	name "PictureCannonShellHyp"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1702 , 314 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASEHYP"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1362 , 392 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASEHYP_PSIOPS"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1362 , 392 , 167 , 75 ]
+brush
+	name "PictureSpaceMineHypExplosive"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 2 , 392 , 167 , 75 ]
+brush
+	name "PictureSpaceMineHypGravity"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1022 , 392 , 167 , 75 ]

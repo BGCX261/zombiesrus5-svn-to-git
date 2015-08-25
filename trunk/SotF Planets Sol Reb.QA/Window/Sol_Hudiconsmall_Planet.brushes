@@ -1,0 +1,85 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 16
+brush
+	name "HUDICONSMALL_PLANET_SOL_TERRAN_EARTH"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 224 , 79 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SOL_PELLUCID_PLUTO"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 224 , 207 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SOL_GAS_SATURN"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 224 , 335 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SOL_GAS_JUPITER1"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 224 , 463 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SOL_GAS_JUPITER2"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 224 , 591 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SOL_ICE01"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 224 , 719 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SOL_TERRAN_EARTH02"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 224 , 847 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SOL_DESERT01"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 224 , 975 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SOL_PRIMORDIAL_VENUS"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 731 , 79 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SOL_METAL_MERCURY"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 731 , 207 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SOL_GAS_URANUS"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 731 , 335 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SOL_GAS_NEPTUNE"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 731 , 463 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SOL_DUST_MARS"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 731 , 591 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SOL_ICE02"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 731 , 719 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SOL_TERRAN01"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 731 , 847 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_PLANET_SOL_TERRAN_EARTH03"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 731 , 975 , 23 , 28 ]
+
+

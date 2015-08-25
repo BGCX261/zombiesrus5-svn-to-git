@@ -1,0 +1,88 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 17
+brush
+	name "INFOCARDICON_PLANETMODULE_HYPORBITALTITANFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 232 , 95 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_HYPORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 70 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_HYPORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 93 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_HYPORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 139 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_HYPORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 24 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_HYPORBITALGAUSSDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 1 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_HYPORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 116 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_HYPORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 162 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_HYPORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 162 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_HYPORBITALPHASEGATE"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 323 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_HYPORBITALNANOWEAPONJAMMER"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 346 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_HYPORBITALTRADEPORT"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 185 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_HYPORBITALREFINERY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 254 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_HYPORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 277 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_HYPORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 300 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_HYPORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 47 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_HYPORBITALCANNON"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 208 , 47 , 22 , 22 ]

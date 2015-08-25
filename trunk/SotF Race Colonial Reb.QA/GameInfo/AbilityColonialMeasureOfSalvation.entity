@@ -1,0 +1,45 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffColonialSettlersSelf"
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "Settlers"
+	mediumEffectName "Settlers"
+	largeEffectName "Settlers"
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithoutBase"
+improveSourceResearchSubject "RESEARCHSUBJECT_COLONIAL_ABILITYACCESS_MEASUREOFSALVATION"
+aiUseTime "OnlyWhenOrbitingEnemyOrAlliedPlanet"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 180.000000
+	Level:1 180.000000
+	Level:2 180.000000
+	Level:3 180.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_COLONIAL_ABILITYACCESS_MEASUREOFSALVATION"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_COLONIAL_MEASUREOFSALVATION_NAME"
+descStringID "IDS_ABILITY_COLONIAL_MEASUREOFSALVATION_DESCRIPTION"
+hudIcon "HUDICON_RESEARCH_COLONIAL_MEASUREOFSALVATION"
+smallHudIcon "HUDICON_RESEARCH_COLONIAL_MEASUREOFSALVATION"
+infoCardIcon ""

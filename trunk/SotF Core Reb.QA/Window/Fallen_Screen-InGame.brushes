@@ -1,0 +1,293 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 32
+brush
+	name "ResearchScreenBlockPictureFleet0Phase"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 315 , 615 , 153 , 81 ]
+brush
+	name "ResearchScreenBlockPictureFleet1Phase"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 472 , 636 , 153 , 369 ]
+brush
+	name "ResearchScreenBlockPictureFleet0Tech"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 3 , 3 , 153 , 81 ]
+brush
+	name "ResearchScreenBlockPictureFleet1Tech"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 628 , 636 , 153 , 369 ]
+brush
+	name "ResearchScreenBlockPictureFleet0Psi"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 3 , 135 , 153 , 81 ]
+brush
+	name "ResearchScreenBlockPictureFleet1Psi"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 784 , 636 , 153 , 369 ]
+brush
+	name "ResearchScreenBlockPictureCombat0Plague"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 315 , 3 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureCombat1Plague"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 315 , 135 , 153 , 81 ]
+brush
+	name "ResearchScreenBlockPictureCombat2Plague"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 315 , 219 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureDefense0Plague"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 1094 , 636 , 153 , 172 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat0Plague"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 315 , 351 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat1Plague"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 315 , 615 , 153 , 81 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat2Plague"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 315 , 483 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureDiplomacyPlague"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 784 , 636 , 153 , 172 ]
+brush
+	name "ResearchScreenBlockPictureDiplomacyNephilim"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 629 , 636 , 153 , 172 ]
+brush
+	name "ResearchScreenBlockPictureCombat0Nephilim"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 3 , 351 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureCombat1Nephilim"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 3 , 483 , 153 , 81 ]
+brush
+	name "ResearchScreenBlockPictureCombat2Nephilim"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 3 , 567 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureDefense0Nephilim"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 939 , 636 , 153 , 172 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat0Nephilim"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 159 , 349 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat1Nephilim"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 159 , 481 , 153 , 81 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat2Nephilim"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 159 , 565 , 153 , 129 ]
+brush
+	name "ResearchScreenTabButtonCombatNephilim"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 126 , 85 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 126 , 85 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 126 , 85 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 126 , 85 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 126 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonDefenseNephilim"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 44 , 85 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 44 , 85 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 44 , 85 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 44 , 85 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 44 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonNonCombatNephilim"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 85 , 85 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 85 , 85 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 85 , 85 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 85 , 85 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 85 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonDiplomacyNephilim"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 4 , 85 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 4 , 85 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 4 , 85 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 4 , 85 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 4 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonFleetNephilim"
+	content "States"
+	Disabled
+		fileName "Buttons_Screens_Disabled"
+		pixelBox [ 268 , 946 , 85 , 38 ]
+	Pressed
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 268 , 946 , 85 , 38 ]
+	CursorOver
+		fileName "Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 946 , 85 , 38 ]
+	Focused
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 268 , 946 , 85 , 38 ]
+	Normal
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 268 , 946 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonCombatPlague"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 210 , 85 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 210 , 85 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 210 , 85 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 210 , 85 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 210 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonDefensePlague"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 250 , 85 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 250 , 85 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 250 , 85 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 250 , 85 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 250 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonNonCombatPlague"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 292 , 85 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 292 , 85 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 292 , 85 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 292 , 85 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 292 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonDiplomacyPlague"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 332 , 85 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 332 , 85 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 332 , 85 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 332 , 85 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 332 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonFleetPlague"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 374 , 85 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 374 , 85 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 374 , 85 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 374 , 85 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 268 , 374 , 85 , 38 ]

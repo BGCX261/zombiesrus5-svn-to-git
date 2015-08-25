@@ -1,0 +1,75 @@
+﻿TXT
+entityType "PlanetModuleStandard"
+minZoomDistanceMult 0.750000
+ability:0 "AbilityPlagueOrbitalCannon"
+ability:1 "AbilityPlagueModuleGrowthStage0"
+ability:2 "AbilityPlagueModuleGrowthStage1"
+ability:3 "AbilityPlagueModuleGrowthStage2"
+ability:4 "AbilityPlagueModuleGrowthStage3"
+MaxAntiMatter 300.000000
+AntiMatterRestoreRate 0.500000
+numRandomDebrisLarge 3
+numRandomDebrisSmall 18
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_PLANETMODULE_PLAGUEORBITALCANNON"
+smallHudIcon "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALCANNON"
+infoCardIcon "INFOCARDICON_PLANETMODULE_PLAGUEORBITALCANNON"
+planetUpgradeSlotType "Tactical"
+planetUpgradeSlotCount 18.000000
+basePrice
+	credits 8000.000000
+	metal 600.000000
+	crystal 500.000000
+NameStringID "IDS_PLANETMODULE_PLAGUE_ORBITAL_CANNON_NAME"
+DescriptionStringID "IDS_PLANETMODULE_PLAGUE_ORBITAL_CANNON_DESCRIPTION"
+planetModuleRoleType "CANNON"
+statCountType "ModuleCannon"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_PLAGUE_PLANETMODULEACCESS_CANNON"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MaxHullPoints 4000.000000
+HullPointRestoreRate 2.000000
+BaseArmorPoints 5.000000
+MaxShieldPoints 50.000000
+ShieldPointRestoreRate 1.000000
+maxShieldMitigation 0.600000
+ExperiencePointsForDestroying 150.000000
+resourceExtractionType "Invalid"
+cultureSpreadRate 0.000000
+isAffectedBySimilarModuleCostResearch FALSE
+placementRadius 2350.000000
+nearPlacementDistOffset 0.000000
+farPlacementDistOffset 9000.000000
+spawnCount 1
+swapMineType ""
+angularSpeed 0.750000
+rotateSoundName "WEAPON_PHASEORBITALCANNONROTATE_LOOP"
+rotateFacingType "None"
+rotateConstantly FALSE
+ShieldMeshName ""
+renderShield TRUE
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "PLANETMODULE_PHASEORBITALCANNON_ONSELECTION_0"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "PlanetModule_PlagueOrbitalCannon"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExplosionName "PlanetModuleLarge"
+mainViewIcon "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALCANNON"
+picture "PLANETMODULEPICTURE_PLAGUEORBITALCANNON"
+minShadow 0.500000
+maxShadow 1.000000
+formationRank 3
+baseBuildTime 150.000000
+buildEffectName ""

@@ -1,0 +1,78 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 15
+brush
+	name "INFOCARDICON_PLANETMODULE_PACTORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 70 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PACTORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 93 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PACTORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 139 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PACTORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 24 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PACTORBITALGAUSSDEFENSE"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 1 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PACTORBITALSHIELDGENERATOR"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 323 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PACTORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 116 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PACTORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 162 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PACTORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 162 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PACTORBITALTRADEPORT"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 185 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PACTORBITALREFINERY"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 254 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PACTORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 277 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PACTORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 300 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PACTORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 47 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PACTORBITALCANNON"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 208 , 1 , 22 , 22 ]

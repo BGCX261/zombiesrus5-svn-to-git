@@ -1,0 +1,75 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 14
+brush
+	name "INFOCARDICON_DWARF_SINSPLUSCITY01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 89 , 79 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_SINSPLUSCITY02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 89 , 207 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_SINSPLUSVOLCANICDARKSIDE"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 89 , 335 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_SINSPLUSTERRANEARTH"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 89 , 463 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_SINSPLUSFOREST"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 89 , 591 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_SINSPLUSFOREST02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 89 , 719 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_SINSPLUSGRASS"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 89 , 847 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_SINSPLUSINDUSTRIAL01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 89 , 975 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_SINSPLUSINDUSTRIAL02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 596 , 79 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_SINSPLUSPARADISE01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 596 , 207 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_SINSPLUSPARADISE02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 596 , 335 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_SINSPLUSPARADISE03"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 596 , 463 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_SINSPLUSRELIC01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 596 , 591 , 22 , 22 ]
+brush
+	name "INFOCARDICON_DWARF_SINSPLUSWATER01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 596 , 719 , 22 , 22 ]
+
+

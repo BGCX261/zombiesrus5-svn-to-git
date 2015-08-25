@@ -1,0 +1,38 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_SIEGETECH"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_SIEGETECH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_RESEARCHACCESS_AI_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_RESEARCHACCESS_AI_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 1 , 17 ]
+ResearchField "Fleet"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_NEPHILIM_HULL1"
+		Level 2
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 1.000000
+PerLevelUpgradeTime 1.000000
+BaseCost
+	credits 1.000000
+	metal 1.000000
+	crystal 1.000000
+PerLevelCostIncrease
+	credits 1.000000
+	metal 1.000000
+	crystal 1.000000
+Tier 1
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 0.900000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

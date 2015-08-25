@@ -1,0 +1,833 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 46
+brush
+	name "HUDICON_BATTLESTAR_COLONIALGALACTICA"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 6 , 8 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 6 , 8 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 6 , 8 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 6 , 8 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 6 , 8 , 47 , 33 ]
+brush
+	name "HUDICON_BATTLESTAR_COLONIALTHOR"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 55 , 8 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 55 , 8 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 55 , 8 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 55 , 8 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 55 , 8 , 47 , 33 ]
+brush
+	name "HUDICON_BATTLESTAR_COLONIALPEGASUS"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 104 , 8 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 104 , 8 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 104 , 8 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 104 , 8 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 104 , 8 , 47 , 33 ]
+brush
+	name "HUDICON_BATTLESTAR_COLONIALNOVA"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 153 , 8 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 153 , 8 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 153 , 8 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 153 , 8 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 153 , 8 , 47 , 33 ]
+brush
+	name "HUDICON_BATTLESTAR_COLONIALVALKYRIE"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 202 , 8 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 202 , 8 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 202 , 8 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 202 , 8 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 202 , 8 , 47 , 33 ]
+brush
+	name "HUDICON_BATTLESTAR_COLONIALFREYJA"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 251 , 8 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 251 , 8 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 251 , 8 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 251 , 8 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 251 , 8 , 47 , 33 ]
+brush
+	name "HUDICON_BATTLESTAR_COLONIALASGARD"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 300 , 8 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 300 , 8 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 300 , 8 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 300 , 8 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 300 , 8 , 47 , 33 ]
+brush
+	name "HUDICON_BATTLESTAR_COLONIALFENRIS"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 349 , 8 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 349 , 8 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 349 , 8 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 349 , 8 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 349 , 8 , 47 , 33 ]
+brush
+	name "HUDICON_BATTLESTAR_COLONIALCETUS"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 398 , 8 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 398 , 8 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 398 , 8 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 398 , 8 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 398 , 8 , 47 , 33 ]
+brush
+	name "HUDICON_BATTLESTAR_COLONIALJUPITER"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 447 , 8 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 447 , 8 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 447 , 8 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 447 , 8 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 447 , 8 , 47 , 33 ]
+brush
+	name "HUDICON_GUNSTAR_COLONIALCYGNUS"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 6 , 43 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 6 , 43 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 6 , 43 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 6 , 43 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 6 , 43 , 47 , 33 ]
+brush
+	name "HUDICON_GUNSTAR_COLONIALALBERIO"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 153 , 43 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 153 , 43 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 153 , 43 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 153 , 43 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 153 , 43 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_COLONIALFLATTOP"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 202 , 43 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 202 , 43 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 202 , 43 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 202 , 43 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 202 , 43 , 47 , 33 ]
+brush
+	name "HUDICON_GUNSTAR_COLONIALTIGER"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 251 , 43 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 251 , 43 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 251 , 43 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 251 , 43 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 251 , 43 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_COLONIALCLOUD9"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 6 , 78 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 6 , 78 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 6 , 78 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 6 , 78 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 6 , 78 , 47 , 33 ]
+brush
+	name "HUDICON_STRIKESTAR_COLONIALEURYTION"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 55 , 78 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 55 , 78 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 55 , 78 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 55 , 78 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 55 , 78 , 47 , 33 ]
+brush
+	name "HUDICON_GUNSTAR_COLONIALDEFENDER"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 104 , 78 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 104 , 78 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 104 , 78 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 104 , 78 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 104 , 78 , 47 , 33 ]
+brush
+	name "HUDICON_SKIRMISHSTAR_COLONIALVIGILANT"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 153 , 78 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 153 , 78 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 153 , 78 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 153 , 78 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 153 , 78 , 47 , 33 ]
+brush
+	name "HUDICON_ESCORTSTAR_COLONIALBERZERK"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 202 , 78 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 202 , 78 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 202 , 78 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 202 , 78 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 202 , 78 , 47 , 33 ]
+brush
+	name "HUDICON_GUNSTAR_COLONIALSENTINAL"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 300 , 78 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 300 , 78 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 300 , 78 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 300 , 78 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 300 , 78 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_COLONIALSTARBASECONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 349 , 78 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 349 , 78 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 349 , 78 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 349 , 78 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 349 , 78 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COLONIALORBITALCRYSTALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 6 , 113 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 6 , 113 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 6 , 113 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 6 , 113 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 6 , 113 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COLONIALORBITALMETALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 55 , 113 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 55 , 113 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 55 , 113 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 55 , 113 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 55 , 113 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COLONIALORBITALFRIGATEFACTORY"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 104 , 113 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 104 , 113 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 104 , 113 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 104 , 113 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 104 , 113 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COLONIALORBITALCAPITALSHIPFACTORY"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 153 , 113 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 153 , 113 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 153 , 113 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 153 , 113 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 153 , 113 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COLONIALORBITALNONCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 202 , 113 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 202 , 113 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 202 , 113 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 202 , 113 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 202 , 113 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COLONIALORBITALREFINERY"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 251 , 113 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 251 , 113 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 251 , 113 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 251 , 113 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 251 , 113 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COLONIALORBITALTRADEPORT"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 300 , 113 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 300 , 113 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 300 , 113 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 300 , 113 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 300 , 113 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COLONIALORBITALCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 349 , 113 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 349 , 113 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 349 , 113 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 349 , 113 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 349 , 113 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASE_COLONIAL"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 398 , 113 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 398 , 113 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 398 , 113 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 398 , 113 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 398 , 113 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COLONIALORBITALJUMPBLOCKER"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 447 , 113 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 447 , 113 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 447 , 113 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 447 , 113 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 447 , 113 , 47 , 33 ]
+brush
+	name "HUDICON_SUPPORTSHIP_COLONIALVIPERMKII"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 6 , 148 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 6 , 148 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 6 , 148 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 6 , 148 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 6 , 148 , 47 , 33 ]
+brush
+	name "HUDICON_SUPPORTSHIP_COLONIALVIPERMKVII"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 55 , 148 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 55 , 148 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 55 , 148 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 55 , 148 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 55 , 148 , 47 , 33 ]
+brush
+	name "HUDICON_SUPPORTSHIP_COLONIALRAPTORHEAVY"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 104 , 148 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 104 , 148 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 104 , 148 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 104 , 148 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 104 , 148 , 47 , 33 ]
+brush
+	name "HUDICON_SUPPORTSHIP_COLONIALRAPTORSCOUT"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 153 , 148 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 153 , 148 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 153 , 148 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 153 , 148 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 153 , 148 , 47 , 33 ]
+brush
+	name "HUDICON_SUPPORTSHIP_COLONIALRAPTORBOMBER"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 202 , 148 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 202 , 148 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 202 , 148 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 202 , 148 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 202 , 148 , 47 , 33 ]
+brush
+	name "HUDICON_SUPPORTSHIP_COLONIALSTEALTHBOMBER"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 251 , 148 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 251 , 148 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 251 , 148 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 251 , 148 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 251 , 148 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COLONIALORBITALREPAIRPLATFORM"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 300 , 148 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 300 , 148 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 300 , 148 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 300 , 148 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 300 , 148 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COLONIALORBITALHANGARDEFENSE"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 349 , 148 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 349 , 148 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 349 , 148 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 349 , 148 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 349 , 148 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COLONIALORBITALCULTURECENTER"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 398 , 148 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 398 , 148 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 398 , 148 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 398 , 148 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 398 , 148 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COLONIALORBITALDEFENSETURRET"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 447 , 148 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 447 , 148 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 447 , 148 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 447 , 148 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 447 , 148 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_COLONIALGEMNON"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 6 , 183 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 6 , 183 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 6 , 183 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 6 , 183 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 6 , 183 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_COLONIALLINER"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 55 , 183 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 55 , 183 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 55 , 183 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 55 , 183 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 55 , 183 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_COLONIALMOVERS"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 104 , 183 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 104 , 183 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 104 , 183 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 104 , 183 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 104 , 183 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_COLONIALONE"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 153 , 183 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 153 , 183 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 153 , 183 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 153 , 183 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 153 , 183 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_COLONIALREFINERYSHIP"
+	content "States"
+	Disabled
+		fileName "Colonial_Hudicon_Disabled"
+		pixelBox [ 202 , 183 , 47 , 33 ]
+	Pressed
+		fileName "Colonial_Hudicon_Pressed"
+		pixelBox [ 202 , 183 , 47 , 33 ]
+	CursorOver
+		fileName "Colonial_Hudicon_CursorOver"
+		pixelBox [ 202 , 183 , 47 , 33 ]
+	Focused
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 202 , 183 , 47 , 33 ]
+	Normal
+		fileName "Colonial_Hudicon_Normal"
+		pixelBox [ 202 , 183 , 47 , 33 ]
+
+

@@ -1,0 +1,38 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 7
+brush
+	name "PictureCannonShellNephilim"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1702 , 158 , 167 , 75 ]
+brush
+	name "PictureCannonShellPlague"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1702 , 314 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASENEPHILIM"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1362 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASEPLAGUE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1362 , 392 , 167 , 75 ]
+brush
+	name "PictureSpaceMineNephilim"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 2 , 236 , 167 , 75 ]
+brush
+	name "PictureSpaceMinePlagueExplosive"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 2 , 392 , 167 , 75 ]
+brush
+	name "PictureSpaceMinePlagueGravity"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1022 , 392 , 167 , 75 ]

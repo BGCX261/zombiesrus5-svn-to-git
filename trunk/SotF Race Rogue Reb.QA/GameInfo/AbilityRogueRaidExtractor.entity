@@ -1,0 +1,65 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyTargettedBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffRogueRaidExtractorSelf"	
+targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+		numObjects 1
+		object "PlanetModule"
+		numSpaces 1
+		space "Normal"
+		numConstraints 1
+		constraint "IsResourceExtractor"
+range
+	Level:0 6000.000000
+	Level:1 6000.000000
+	Level:2 6000.000000
+	Level:3 6000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "Buff_EmbargoOnSelf"
+	mediumEffectName "Buff_EmbargoOnSelf"
+	largeEffectName "Buff_EmbargoOnSelf"
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 2.000000
+	Level:2 4.000000
+	Level:3 6.000000
+aiUseTime "OnlyWhenOrbitingEnemyPlanet"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 85.000000
+	Level:1 85.000000
+	Level:2 85.000000
+	Level:3 85.000000
+cooldownTime
+	Level:0 120.000000
+	Level:1 120.000000
+	Level:2 120.000000
+	Level:3 120.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_ROGUE_RAIDEXTRACTOR_NAME"
+descStringID "IDS_ABILITY_ROGUE_RAIDEXTRACTOR_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_ROGUE_RAIDEXTRACTOR"
+smallHudIcon "HUDICON_ABILITY_ROGUE_RAIDEXTRACTOR"
+infoCardIcon ""

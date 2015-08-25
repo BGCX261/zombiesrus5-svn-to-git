@@ -1,0 +1,138 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 27
+brush
+	name "INFOCARDICON_CORVETTE_ROGUEREBEL"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 1 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CORVETTE_ROGUELOYALIST"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 24 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TITAN_ROGUELOYALIST"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 300 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TITAN_ROGUEREBEL"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 322 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_ROGUECOLONY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 1 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_ROGUECARRIER"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 47 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_ROGUEDESTROYER"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 24 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_ROGUESUPPORT"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 93 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_ROGUESIEGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 70 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_ROGUEANTIFIGHTER"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 70 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_ROGUEANTIMODULE"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 323 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_ROGUECARRIER"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 162 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_ROGUECOLONY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 1 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_ROGUEHEAVY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 24 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_ROGUELIGHT"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 185 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_ROGUELONGRANGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 208 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_ROGUESCOUT"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 93 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_ROGUESIEGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 47 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_ROGUEUTILITY0"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 254 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_ROGUEUTILITY1"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 277 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_ROGUEMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 139 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_ROGUESTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 300 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TRADESHIP_ROGUE"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 116 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_ROGUEBATTLESHIP"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 231 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADROGUECOMBAT"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 139 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADROGUEBOMBER"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 116 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_ROGUEENVOY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 277 , 70 , 22 , 22 ]

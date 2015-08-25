@@ -1,0 +1,57 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "CreateSpaceMine"
+instantActionTriggerType "AlwaysPerform"
+spaceMineType "SpaceMineParralize"
+numMines
+	Level:0 10.000000
+	Level:1 10.000000
+	Level:2 10.000000
+	Level:3 10.000000
+impulse 560000.000000
+angleVariance 180.000000
+expiryTime
+	Level:0 -1.000000
+	Level:1 -1.000000
+	Level:2 -1.000000
+	Level:3 -1.000000
+spawnMineSoundID "EFFECT_LAYMINEPHASE"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 2.000000
+	Level:2 4.000000
+	Level:3 6.000000
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 70.000000
+	Level:1 60.000000
+	Level:2 500.000000
+	Level:3 940.000000
+cooldownTime
+	Level:0 135.000000
+	Level:1 120.000000
+	Level:2 100.000000
+	Level:3 80.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_DEPLOYSPACEMINEPARRALIZE_NAME"
+descStringID "IDS_ABILITY_DEPLOYSPACEMINEPARRALIZE_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_DEPLOYSPACEMINEPARRALIZE"
+smallHudIcon "HUDICON_ABILITY_DEPLOYSPACEMINEPARRALIZE"
+infoCardIcon ""

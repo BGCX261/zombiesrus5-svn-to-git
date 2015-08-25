@@ -1,0 +1,2579 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 143
+brush
+	name "HUDICON_NEPHILIM_ARMOR0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ARMOR1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ARMOR2"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_HULL0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_HULL1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ANTIMATTER0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ANTIMATTER1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ANTIMATTER2"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_SHIELDS0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_SHIELDS1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ETERNALBLISS"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_HEALINGTOUCH"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ETERNALPEACE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_WEAPONIGNORESHIELDS_MISSLE0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_WEAPONIGNORESHIELDS_MISSLE1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_WEAPONIGNORESHIELDS_MISSLE2"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_WEAPONCOOLDOWN_PLASMA"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_WEAPONDAMAGE_RAY0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_WEAPONDAMAGE_RAY1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_WEAPONDAMAGE_RAY2"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_WEAPONDAMAGE_FLAME0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_WEAPONDAMAGE_FLAME1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_WEAPONDAMAGE_FLAME2"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_WEAPONDAMAGE_FLAME3"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITALSHIP_MAXBUYLEVEL0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_ANTIMATTERATTACK"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_HEAVYPOWERSYNERGY"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_MASKPRESENCE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_HEALWOUNDSHEAVY"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_ABSORBANTIMATTER"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_TELEPORT"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_PROSELYTIZE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_APOCOLYPSE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_DESTRUCTION"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_SYNGULARITY"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_SHIELDRESTORE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_UNSTOPPABLEJUMP"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_MULTIPLYMISSILES"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_IMMUNITY"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_ORBITALCANNON"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITYACCESS_SYNERGY"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITYACCESS_GIVEMODULESHIELDS"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_STARBASEUPGRADE_BLOCKCOLONIZE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_STARBASEUPGRADE_WEAPONDAMAGE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_STARBASEUPGRADE_TRADE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_STARBASEUPGRADE_HULL"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITYACCESS_DEPLOYSTARBASE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_ATTRACTION"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_MASSREVERENCE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_CULTURE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_MAXPOPULATION"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_PLANETMODULEIMPROVEMENT_HANGARDEFENSE0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_PLANETMODULEIMPROVEMENT_HANGARDEFENSE1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_HOLYLIGHT"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_STRUCTUREWORK_RESOURCEEXTRACT0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_STRUCTUREWORK_RESOURCEEXTRACT1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_STRUCTUREWORK_RESOURCEEXTRACT2"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_TRADESHIPCAPACITY0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_TRADESHIPCAPACITY1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_PLANETACCESS_ICE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_PLANETACCESS_VOLCANIC"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_POPULATIONCAP_TERRAN0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_POPULATIONCAP_DESERT0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_POPULATIONCAP_ICE0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_POPULATIONCAP_VOLCANIC0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_HYPERSPACE_GALAXYTRAVEL"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_HYPERSPACE_WORMHOLETRAVEL"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_HYPERSPACE_DETECTION0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_HYPERSPACE_DETECTION1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_UNIVERS"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_PROSELYTIZE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_CONSTRUCTION"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_DETECTMINES"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_REPAIR"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_POWERUP"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CULTURE0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CULTURE1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CULTURE2"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CULTURE3"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CULTURE4"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CULTURE5"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CULTURE6"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CULTURE7"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CULTURE8"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_ABILITY_HEALING"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_BATTLESHIP_ABILITY0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 5 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 5 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_BATTLESHIP_ABILITY1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 56 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 56 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_BATTLESHIP_ABILITY2"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 107 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 107 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_BATTLESHIP_ABILITY3"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 158 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 158 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_CARRIER_ABILITY0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 209 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 209 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_CARRIER_ABILITY1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 260 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 260 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_CARRIER_ABILITY2"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 311 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 311 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_CARRIER_ABILITY3"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 362 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 362 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_COLONY_ABILITY0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 413 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 413 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_COLONY_ABILITY1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 464 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 464 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_COLONY_ABILITY2"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 515 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 515 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 515 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 515 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_COLONY_ABILITY3"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 566 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 566 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 566 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 566 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_SUPPORT_ABILITY0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 617 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 617 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 617 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 617 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_SUPPORT_ABILITY1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 668 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 668 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 668 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 668 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_SUPPORT_ABILITY2"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 719 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 719 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 719 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 719 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_SUPPORT_ABILITY3"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 770 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 770 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 770 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 770 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_SIEGE_ABILITY0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 821 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 821 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 821 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 821 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_SIEGE_ABILITY1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 872 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 872 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 872 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 872 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_SIEGE_ABILITY2"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 923 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 923 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 923 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 923 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_NEPHILIM_CAPITAL_SIEGE_ABILITY3"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 974 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 974 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 260 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 974 , 260 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 974 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ENVOY_NEPHILIM"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 5 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 5 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_NEPHILIM_BANISHMENTOFSIN"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 56 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 56 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_NEPHILIM_PLANETASSISTANCE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 107 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 107 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_NEPHILIM_CULTURALASSISTANCE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 158 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 158 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_NEPHILIM_ALLOWMISSIONS"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 209 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 209 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_NEPHILIM_ALLOWFEED"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 260 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 260 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_NEPHILIM_RESOURCERELATIONS"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 311 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 311 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_NEPHILIM_PIRATEMISSIONS"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 362 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 362 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_NEPHILIM_RELATIONS0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 413 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 413 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_NEPHILIM_RELATIONS1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 464 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 464 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_NEPHILIM_RELATIONS2"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 515 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 515 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 515 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 515 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_NEPHILIM_RACIALPENALTY"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 566 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 566 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 566 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 566 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_POPULATIONGROWTH"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 617 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 617 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 617 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 617 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_CREDITCOST"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 668 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 668 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 668 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 668 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_HYPERSPACE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 719 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 719 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 719 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 719 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_WEAPONRANGE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 770 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 770 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 770 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 770 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_CAPITALEXP"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 821 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 821 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 821 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 821 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_CAPITALSUPPLY"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 872 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 872 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 872 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 872 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_TBD"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 923 , 630 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 923 , 630 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 630 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 923 , 630 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 923 , 630 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_BLOCKCOLONIZE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 5 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 5 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 5 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_MASSREVERENCE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 56 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 56 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 56 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_CULTURE0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 107 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 107 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 107 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_CULTURE1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 158 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 158 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 158 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_MAXALLEGIANCE"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 209 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 209 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 209 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_HANGAR0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 260 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 260 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 260 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_HANGAR1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 311 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 311 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 311 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_HANGAR2"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 362 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 362 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 362 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_MAXPOPULATION0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 413 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 413 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 413 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_MAXPOPULATION1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 464 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 464 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 464 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_ATTRACTION"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 515 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 515 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 515 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 515 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_TOUGHNESS0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 566 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 566 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 566 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 566 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_TOUGHNESS1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 617 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 617 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 617 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 617 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_TOUGHNESS2"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 668 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 668 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 668 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 668 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_TOUGHNESS3"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 719 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 719 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 719 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 719 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_TRADEPORT0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 770 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 770 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 770 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 770 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_WEAPONS0"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 821 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 821 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 821 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 821 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_WEAPONS1"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 872 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 872 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 872 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 872 , 667 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASEUPGRADE_NEPHILIM_WEAPONS2"
+	content "States"
+	Disabled
+		fileName "Nephilim_Buttons_Research_Disabled"
+		pixelBox [ 923 , 667 , 47 , 33 ]
+	Pressed
+		fileName "Nephilim_Buttons_Research_Pressed"
+		pixelBox [ 923 , 667 , 47 , 33 ]
+	CursorOver
+		fileName "Nephilim_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 667 , 47 , 33 ]
+	Focused
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 923 , 667 , 47 , 33 ]
+	Normal
+		fileName "Nephilim_Buttons_Research_Normal"
+		pixelBox [ 923 , 667 , 47 , 33 ]
+
+

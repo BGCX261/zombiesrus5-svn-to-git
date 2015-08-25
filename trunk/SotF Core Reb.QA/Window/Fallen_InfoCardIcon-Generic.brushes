@@ -1,0 +1,43 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 8
+brush
+	name "InfoCardIconFleetUpkeepNephilim"
+	content "Simple"
+	fileName "smallicons"
+	pixelBox [ 185 , 121 , 16 , 16 ]
+brush
+	name "InfoCardIconFleetUpkeepPlague"
+	content "Simple"
+	fileName "smallicons"
+	pixelBox [ 203 , 121 , 16 , 16 ]
+brush
+	name "INFOCARDICON_STARBASE_NEPHILIM"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 208 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STARBASE_PLAGUE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 208 , 116 , 22 , 22 ]
+brush
+	name "InfoCardIconSpaceMineTech"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 231 , 1 , 22 , 22 ]
+brush
+	name "InfoCardIconSpaceMineNephilim"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 231 , 24 , 22 , 22 ]
+brush
+	name "InfoCardIconSpaceMinePlagueExplosive"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 231 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CORVETTE_PLAGUE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 346 , 185 , 22 , 22 ]

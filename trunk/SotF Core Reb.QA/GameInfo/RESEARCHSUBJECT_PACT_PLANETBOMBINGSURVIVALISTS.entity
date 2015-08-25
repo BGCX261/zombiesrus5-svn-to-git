@@ -1,0 +1,72 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_PLANETBOMBING"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_PLANETBOMBING"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_PACT_PLANETBOMBINGGENERIC_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_PACT_PLANETBOMBINGGENERIC_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 5 , 8 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_PACTBONUS_PLANETBOMBING"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 90.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1400.000000
+	metal 250.000000
+	crystal 400.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 0.000000
+	crystal 25.000000
+Tier 5
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 2
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 7
+researchModifier
+	modifierType "PlanetHealthRegenRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.050000
+	linkedPlanetType "Asteroid"
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.050000
+	linkedPlanetType "Desert"
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.050000
+	linkedPlanetType "Ice"
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.050000
+	linkedPlanetType "Invalid"
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.050000
+	linkedPlanetType "Terran"
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.050000
+	linkedPlanetType "Volcanic"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

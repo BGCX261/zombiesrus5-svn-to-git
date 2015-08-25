@@ -1,0 +1,30 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable TRUE
+isChannelling TRUE
+numInstantActions 1
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnBuffFinish"
+	buffType "BuffNephilimPowerDownTarget"
+	effectInfo
+	effectAttachInfo
+		attachType "Above"
+	smallEffectName "CapitalBuff_TargetingUplink"
+	mediumEffectName "CapitalBuff_TargetingUplink"
+	largeEffectName "CapitalBuff_TargetingUplinkLarge"
+	soundID ""
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 2
+finishCondition
+	finishConditionType "TargetIsConstructed"
+finishCondition
+	finishConditionType "NoTarget"

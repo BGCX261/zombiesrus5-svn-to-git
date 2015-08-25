@@ -1,0 +1,78 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 15
+brush
+	name "INFOCARDICON_PLANETMODULE_ARCHAIORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 70 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ARCHAIORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 93 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ARCHAIORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 139 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ARCHAIORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 24 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ARCHAIORBITALBEAMDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 1 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ARCHAIORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 116 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ARCHAIORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 162 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ARCHAIORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 162 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ARCHAIORBITALANTIMATTERRECHARGER"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 323 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ARCHAIORBITALTRADEPORT"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 185 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ARCHAIORBITALREFINERY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 254 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ARCHAIORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 277 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ARCHAIORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 300 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ARCHAIORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 47 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ARCHAIORBITALCANNON"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 208 , 24 , 22 , 22 ]

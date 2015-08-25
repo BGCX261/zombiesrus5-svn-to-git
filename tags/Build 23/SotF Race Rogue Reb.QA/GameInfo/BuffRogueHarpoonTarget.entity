@@ -1,0 +1,51 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 3
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Above"
+		smallEffectName "Buff_SuppressionTarget"
+		mediumEffectName "Buff_SuppressionTarget"
+		largeEffectName "Buff_SuppressionTarget"
+		soundID ""
+instantAction
+	buffInstantActionType "DoInterrupt"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+instantAction
+	buffInstantActionType "ChangePlayerIndexToFirstSpawner"
+	instantActionTriggerType "OnDelay"
+	delayTime 55.000000
+	isPermanent TRUE
+	failIfNotEnoughShipSlots FALSE
+	experiencePercentageToAward 0.000000
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 8
+entityBoolModifier "DisableAbilities"
+entityBoolModifier "DisablePhaseJump"
+entityBoolModifier "DisableLinearEngines"
+entityBoolModifier "DisableAngularEngines"
+entityBoolModifier "DisableRegeneration"
+entityBoolModifier "DisableWeapons"
+entityBoolModifier "PhaseOut"
+entityBoolModifier "CannotBeDamaged"
+numFinishConditions 2
+finishCondition
+	finishConditionType "FirstSpawnerNoLongerHasBuff"
+	buffTypeToQuery "BuffRogueHarpoonSelf"
+finishCondition
+	finishConditionType "OwnerChanged"
+

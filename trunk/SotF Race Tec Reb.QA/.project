@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SotF Race Tec Reb.QA</name>
+	<comment></comment>
+	<projects>
+		<project>SotF Core Reb.QA</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.zombiesrus5.plugin.sose.entityBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.zombiesrus5.plugin.sose.entityNature</nature>
+	</natures>
+</projectDescription>

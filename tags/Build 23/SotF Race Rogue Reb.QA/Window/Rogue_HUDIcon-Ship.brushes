@@ -1,0 +1,696 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 58
+brush
+	name "HUDICON_CORVETTE_ROGUEREBEL"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 6 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 6 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 364 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 6 , 364 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 6 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_CORVETTE_ROGUELOYALIST"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 55 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 55 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 364 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 55 , 364 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 55 , 364 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_CORVETTE_ROGUEREBEL"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 1 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CORVETTE_ROGUELOYALIST"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 31 , 211 , 28 , 28 ]
+brush
+	name "HUDICON_TITAN_ROGUELOYALIST"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 398 , 434 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 398 , 434 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 434 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 398 , 434 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 398 , 434 , 47 , 33 ]
+brush
+	name "HUDICON_TITAN_ROGUEREBEL"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 348 , 434 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 348 , 434 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 348 , 434 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 348 , 434 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 348 , 434 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_ROGUECOLONY"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 6 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 6 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 224 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 6 , 224 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 6 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_ROGUECARRIER"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 104 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 104 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 224 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 104 , 224 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 104 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_ROGUEDESTROYER"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 55 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 55 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 224 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 55 , 224 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 55 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_ROGUESUPPORT"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_ROGUESIEGE"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 153 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 153 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 224 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 153 , 224 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 153 , 224 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_TITAN_ROGUELOYALIST"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 473 , 115 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_ROGUEREBEL"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 421 , 135 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_ROGUECOLONY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 1 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_ROGUECARRIER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 61 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_ROGUEDESTROYER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 31 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_ROGUESUPPORT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 121 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_ROGUESIEGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 91 , 91 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_ROGUEANTIFIGHTER"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ROGUEANTIMODULE"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 153 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 153 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 469 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 153 , 469 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 153 , 469 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ROGUECARRIER"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 349 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 349 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 329 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 349 , 329 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 349 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ROGUECOLONY"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 6 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 6 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 329 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 6 , 329 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 6 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ROGUEHEAVY"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 55 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 55 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 329 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 55 , 329 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 55 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ROGUELIGHT"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 398 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 398 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 329 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 398 , 329 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 398 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ROGUELONGRANGE"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ROGUESCOUT"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 202 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 202 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 329 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 202 , 329 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 202 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ROGUESIEGE"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 104 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 104 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 329 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 104 , 329 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 104 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ROGUEUTILITY0"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 55 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 55 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 14 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 55 , 14 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 55 , 14 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ROGUEUTILITY1"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 104 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 104 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 14 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 104 , 14 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 104 , 14 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ROGUEMODULECONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ROGUESTARBASECONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ROGUEANTIFIGHTER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 91 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ROGUEANTIMODULE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 421 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ROGUECARRIER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 211 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ROGUECOLONY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 1 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ROGUEHEAVY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 31 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ROGUELIGHT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 241 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ROGUELONGRANGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 271 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ROGUESCOUT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 121 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ROGUESIEGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 61 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ROGUEUTILITY0"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ROGUEUTILITY1"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 361 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ROGUEMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 181 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ROGUESTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 391 , 181 , 28 , 28 ]
+brush
+	name "HUDICON_SQUADROGUECOMBAT"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 300 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 300 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 224 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 300 , 224 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 300 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADROGUEBOMBER"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 251 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 251 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 224 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 251 , 224 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 251 , 224 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADROGUECOMBAT"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled"
+		pixelBox [ 260 , 31 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed"
+		pixelBox [ 260 , 31 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver"
+		pixelBox [ 260 , 31 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 260 , 31 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 260 , 31 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADROGUEBOMBER"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled"
+		pixelBox [ 260 , 68 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed"
+		pixelBox [ 260 , 68 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver"
+		pixelBox [ 260 , 68 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 260 , 68 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 260 , 68 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADROGUECOMBAT"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADROGUEBOMBER"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_SQUADROGUECOMBAT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 181 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUADROGUEBOMBER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 151 , 91 , 28 , 28 ]
+brush
+	name "HUDICON_TRADESHIP_ROGUE"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_TRADESHIP_ROGUE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 151 , 181 , 28 , 28 ]
+brush
+	name "HUDICON_CAPITALSHIP_ROGUEBATTLESHIP"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_ROGUEBATTLESHIP"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 301 , 181 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_ROGUEENVOY"
+	content "States"
+	Disabled
+		fileName "Transhuman_Unit_Hud_Disabled"
+		pixelBox [ 300 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Transhuman_Unit_Hud_Pressed"
+		pixelBox [ 300 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Transhuman_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 469 , 47 , 33 ]
+	Focused
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 300 , 469 , 47 , 33 ]
+	Normal
+		fileName "Transhuman_Unit_Hud_Normal"
+		pixelBox [ 300 , 469 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ROGUEENVOY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 361 , 91 , 28 , 28 ]

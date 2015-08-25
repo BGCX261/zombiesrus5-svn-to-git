@@ -1,0 +1,7 @@
+TXT
+textureFileName "SolarFlair\burst.dds"
+numFrames 20
+numFramesPerRow 5
+startTopLeft [0, 0]
+frameSize [102, 102]
+frameStride [102, 102]

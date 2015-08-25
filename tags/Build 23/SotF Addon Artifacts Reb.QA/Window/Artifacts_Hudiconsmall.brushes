@@ -1,0 +1,20 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 3
+brush
+	name "HUDICONSMALL_CAPITALSHIP_ALIENBATTLESHIP"
+	content "Simple"
+	fileName "Artifacts_Unit_Main"
+	pixelBox [ 1 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_ALIENCARRIER"
+	content "Simple"
+	fileName "Artifacts_Unit_Main"
+	pixelBox [ 31 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_STARBASE_ALIENARTIFACT"
+	content "Simple"
+	fileName "Artifacts_Unit_Main"
+	pixelBox [ 61 , 1 , 28 , 28 ]
+
+

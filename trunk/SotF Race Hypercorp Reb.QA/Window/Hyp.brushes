@@ -1,0 +1,1409 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 78
+brush
+	name "HUDICON_ABILITY_HYP_EVASIVEMANEUVERS"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANOTURRET"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANOSHIELD"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANOUPLINK"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANOFOG"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANOADAPTATION"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_COLONIZE"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANODECAYMODULE"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANOFRENZY"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANODISRUPTION"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANOSIEGE"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANOCLONE"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANOLOCKDOWN"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANOREPAIR"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANOSWARM"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANOBLAST"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANODECAY"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANOCLOAK"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANOWEAPONS"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_HYP_NANOCORE"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_WEAPONDAMAGE_AUTOCANNON0"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_WEAPONDAMAGE_AUTOCANNON1"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_WEAPONDAMAGE_AUTOCANNON2"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_WEAPONDAMAGE_LASER0"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_WEAPONDAMAGE_LASER1"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_WEAPONDAMAGE_MISSILE0"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_WEAPONDAMAGE_MISSILE1"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_WEAPONDAMAGE_MISSILE2"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_ARMOR0"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_ARMOR1"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_ARMOR2"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_ARMOR3"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_HULL0"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_HULL1"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_HULL2"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_SHIELDS0"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_SHIELDS1"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_SHIELDS2"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_ANTIMATTER0"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 923 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 923 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 923 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 923 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_ANTIMATTER1"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 974 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 974 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 38 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 974 , 38 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 974 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_WEAPONDAMAGE_LASER2"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_WEAPONDAMAGE_LASER3"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_WEAPONRANGE_MISSILE"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_ABILITY_NANOWEB"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_ABILITY_SURGE"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_ABILITY_SURGEACTIVE"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_LOYALIST_PREFABCOLONY"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_LOYALIST_HYPERSPACEHEAL"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_LOYALIST_IMPROVEDUPKEEP"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_PSIONICS_TELEKINETICTHRUST"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_PSIONICS_INERTIALBARRIER"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_PSIONICS_DIMENSIONALANCHOR"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_PSIONICS_ETHEREALNESS"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_PSIONICS_MINDLINK"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_PSIONICS_REMOTEVIEWING"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_PSIONICS_TELEPORTATION"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_PSIONICS_TELEPORTATIONNETWORK"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_PSIONICS_ANTIPATHY"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_NANO_CLOAK0"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_NANO_REPAIR"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_LOYALIST_ORBITALREPAIRTEAMS"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_LOYALIST_DEMOLITIONTEAMS"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_LOYALIST_BABYBOOM"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_LOYALIST_REFUGEES"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_LOYALIST_COLONISTS"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_LOYALIST_STARBASEUPGRADE"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_POPULATIONGROWTH0"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_POPULATIONGROWTH1"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_POPULATIONCAPTERRAN0"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_POPULATIONCAPTERRAN1"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_POPULATIONCAPDESERT0"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_POPULATIONCAPDESERT1"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_PLANETACCESS_ICE"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_POPULATIONCAPICE0"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_PLANETACCESS_VOLCANIC"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_POPULATIONCAPVOLCANIC0"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_PLANETACCESS_TOXIC"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYP_REBEL_PSIFOCUS"
+	content "States"
+	Disabled
+		fileName "Hyp_Buttons_Research_Disabled"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Hyp_Buttons_Research_Pressed"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Hyp_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Focused
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Normal
+		fileName "Hyp_Buttons_Research_Normal"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+
+

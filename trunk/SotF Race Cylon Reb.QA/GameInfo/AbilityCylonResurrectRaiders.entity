@@ -1,0 +1,61 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffCylonResurrectRaidersLinked"
+targetFilter
+	numOwnerships 1
+	ownership "Player"
+	numObjects 2
+	object "Frigate"
+	object "CapitalShip"
+	numSpaces 1
+	space "Normal"
+	numConstraints 1
+	constraint "CanHaveFighters"
+range
+	Level:0 6000.000000
+	Level:1 6000.000000
+	Level:2 6000.000000
+	Level:3 6000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "Buff_InstantBuildFighters"
+	mediumEffectName "Buff_InstantBuildFighters"
+	largeEffectName "Buff_InstantBuildFighters"
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 2
+levelSourceType "FixedLevel0"
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 150.000000
+	Level:1 110.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 180.000000
+	Level:1 180.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_CYLON_RESURRECTRAIDERS_NAME"
+descStringID "IDS_ABILITY_CYLON_RESURRECTRAIDERS_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_ILLUSIONSHIPS"
+smallHudIcon "HUDICON_ABILITY_ILLUSIONSHIPS"
+infoCardIcon ""

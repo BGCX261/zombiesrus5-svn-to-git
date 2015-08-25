@@ -1,0 +1,28 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 5
+brush
+	name "InfoCardIconFleetUpkeepHyp"
+	content "Simple"
+	fileName "smallicons"
+	pixelBox [ 203 , 121 , 16 , 16 ]
+brush
+	name "INFOCARDICON_STARBASE_HYP"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 208 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STARBASE_HYP_PSIOPS"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 280 , 116 , 22 , 22 ]
+brush
+	name "InfoCardIconSpaceMineHypExplosive"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 231 , 47 , 22 , 22 ]
+brush
+	name "InfoCardIconSpaceMineHypGravity"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 346 , 185 , 22 , 22 ]

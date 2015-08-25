@@ -1,0 +1,23 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 1
+brush
+	name "HUDICON_FALLEN_MOON"
+	content "States"
+	Disabled
+		fileName "Moons_Buttons_Research_Disabled"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Moons_Buttons_Research_Pressed"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Moons_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Focused
+		fileName "Moons_Buttons_Research_Normal"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Normal
+		fileName "Moons_Buttons_Research_Normal"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+
+

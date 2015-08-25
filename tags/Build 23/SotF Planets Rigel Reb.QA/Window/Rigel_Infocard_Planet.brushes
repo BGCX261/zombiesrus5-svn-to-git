@@ -1,0 +1,100 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 19
+brush
+	name "INFOCARDICON_PLANET_RIGEL_DESERT0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 258 , 79 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_GAS0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 765 , 79 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_GAS1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 258 , 207 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_HALIDE0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 765 , 207 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_HALIDE1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 258 , 335 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_ICE0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 765 , 335 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_ICE1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 258 , 463 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_ICE2"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 765 , 463 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_PLUTONIC0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 258 , 591 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_PLUTONIC1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 765 , 591 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_PURPLE0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 258 , 719 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_RADIOACTIVE0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 765 , 719 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_ROCK0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 258 , 847 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_ROCK1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 765 , 847 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_ROCK2"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 258 , 975 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_ULTRAVIOLET0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 765 , 975 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_ULTRAVIOLET1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 258 , 1103 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_VOLCANIC0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 765 , 1103 , 23 , 28 ]
+brush
+	name "INFOCARDICON_PLANET_RIGEL_VOLCANIC1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 258 , 1231 , 23 , 28 ]
+
+

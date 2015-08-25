@@ -1,0 +1,65 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyTargettedBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffCylonResurrectStrikecraftSpawner"
+targetFilter
+	numOwnerships 1
+	ownership "Friendly"
+	numObjects 1
+	object "Frigate"
+	numSpaces 1
+	space "Normal"
+	numConstraints 1
+	constraint "CanHaveFighters"
+range
+	Level:0 3000.000000
+	Level:1 4000.000000
+	Level:2 5000.000000
+	Level:3 6000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID "EFFECT_INSTANTBUILDFIGHTERS"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 2
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 2.000000
+	Level:2 4.000000
+	Level:3 6.000000
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 120.000000
+	Level:1 110.000000
+	Level:2 100.000000
+	Level:3 90.000000
+cooldownTime
+	Level:0 170.000000
+	Level:1 165.000000
+	Level:2 145.000000
+	Level:3 135.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_CYLON_RESURRECTSTRIKECRAFT_NAME"
+descStringID "IDS_ABILITY_CYLON_RESURRECTSTRIKECRAFT_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_CYLON_RESURRECTSTRIKECRAFT"
+smallHudIcon "HUDICON_ABILITY_CYLON_RESURRECTSTRIKECRAFT"
+infoCardIcon ""

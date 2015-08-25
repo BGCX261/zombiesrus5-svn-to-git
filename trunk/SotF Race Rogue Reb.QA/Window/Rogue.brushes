@@ -1,0 +1,2237 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 124
+brush
+	name "HUDICON_ABILITY_ROGUE_DIEHARD"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_BERZERKCHARGE"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_VIPERSKISS"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_MISSILEBARRAGE"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_FEARLESS"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_BATTLERAGE"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_RAIDPORTS"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_MASTERCOMMANDER"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_LASTMANSTANDING"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_ARMOROFCONTEMPT"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_FLAKBURST"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_RAIDEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_TRUEGRIT"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_MUTINY"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_GAMBLE"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_COLONIZE"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_GORUE_EMBARGO"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_SWIFTATTACK"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_HARPOON"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_GUNSLINGER"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_ASSASSINSTRIKE"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_RAIDRESOURCES"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_RAPIDRELOAD"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_MIGHTYSHOT"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_JADED"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_IONBLAST"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_RESTORESHIELD"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_INTERDICTION"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_IONBARRAGE"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_BASTIONOFWILL"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_WAVEMOTIONGUN"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_STACKMISSILES"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_ROTATINGASTEROIDDEFENSE"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_REFLECTIVESHIELD"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_NOVALITHSHELL"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_ANTIMODULESHELL"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ROGUE_EXPLOSIVESHOT"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_COERCION_BOUNTYMULTIPLIERBUY"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_COERCION_BOUNTYMULTIPLIERCOLLECT"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_COERCION_PIRATERAIDDECREASE"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_EXTORT_CHEAPRESOURCES0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_EXTORT_CHEAPRESOURCES1"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_EXTORT_CHEAPRESOURCES2"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_EXTORT_COSTDECREASECREDITS0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_EXTORT_COSTDECREASECREDITS1"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_EXTORT_COSTDECREASECREDITS2"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_EXTORT_COSTDECREASERESOURCES0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_EXTORT_COSTDECREASERESOURCES1"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_EXTORT_COSTDECREASERESOURCES2"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_EXTORT_CREDITSFROMPURCHASES0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_EXTORT_CREDITSFROMPURCHASES1"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_EXTORT_CREDITSFROMPURCHASES2"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_EXTORT_CREDITSFROMPURCHASES3"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_EXTORT_CREDITSFROMTRADE0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_EXTORT_CREDITSFROMTRADE1"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_EXTORT_CREDITSFROMTRADE2"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_ADAPTIVESMARLINKS"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_GUNNARY_AUTOCANNON0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_GUNNARY_AUTOCANNON1"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_GUNNARY_AUTOCANNON2"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_GUNNARY_BOMBING0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_GUNNARY_BOMBING1"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_GUNNARY_GAUSS0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_GUNNARY_GAUSS1"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_GUNNARY_LASER0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_GUNNARY_LASER1"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_GUNNARY_MISSILE0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_GUNNARY_MISSILE1"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_GUNNARY_MISSILE2"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_GUNNARY_SLOWPOPULATIONGROWTH"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_GUNNARY_WEAPONRANGE0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_GUNNARY_WEAPONRANGE1"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 719 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 719 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 719 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 719 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_HIDEOUT_BLOCKCOLONIZE"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 770 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 770 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 770 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 770 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_HIDEOUT_FACTORY"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_HIDEOUT_HANGARDEFENSEIMPROVEMENT"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_HIDEOUT_IMPROVEDDESTABILIZEPHASEJUMP"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_HIDEOUT_REPAIRPLATFORMIMPROVEMENT"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_HIDEOUT_RESUPPLY"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_HIDEOUT_SELFDESTRUCT"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_HIDEOUT_SHIELDGENERATORIMPROVEMENT"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_HIDEOUT_SPACEMINES"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_HIDEOUT_STARBASEHULL"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_HIDEOUT_TRADEPORT"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_HIDEOUT_WEAPONBANKTARGETS"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_INTIMIDATE_CULTURERATE0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_INTIMIDATE_CULTURERATE1"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_INTIMIDATE_CULTURESPREADDECAY"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_INTIMIDATE_FOREIGNSABOTAGE"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_INTIMIDATE_LOGISTICSLOT"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_INTIMIDATE_MODULEBUILDTIME"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_INTIMIDATE_REBELLION"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 668 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 668 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 668 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 668 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_INTIMIDATE_SHIPBUILD"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_INTIMIDATE_SHIPSLOTINCREASE"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_INTIMIDATE_STRUCTUREPRICEDECREASE"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_MERC_CANNON"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_PLUNDER_CAPITALSHIP_MAXBUYLEVEL0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_PLUNDER_SALVAGEDEBRIS0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_PLUNDER_SALVAGEDEBRIS1"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_PLUNDER_SALVAGEDEBRIS2"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_PLUNDER_SALVAGEEFFICIENCY"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_ARMOR0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_ARMOR1"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_ARMOR2"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_ARMOR3"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_HULL0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_HULL1"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_HULL2"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_HYPERSPACE0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_HYPERSPACE1"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_HYPERSPACE2"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_HYPERSPACE3"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_ICE"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_MANEUVERINGTHRUSTERS"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_SPEEDBOOSTARMOR"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 821 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 821 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 821 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 821 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_STAR"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_UNSTOPPABLEPHASEJUMP"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_VOLCANIC"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 974 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 974 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 186 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 974 , 186 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 974 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_RAID_WORMHOLE"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_COERCION_BOXES"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_COERCION_LOOT"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_COERCION_PIRATEFLAG0"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_COERCION_PIRATEFLAG1"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_COERCION_PIRATEFLAG2"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ROGUE_COERCION_GHOSTPIRATE"
+	content "States"
+	Disabled
+		fileName "Rogue_Buttons_Research_Disabled"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Rogue_Buttons_Research_Pressed"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Rogue_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+	Focused
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+	Normal
+		fileName "Rogue_Buttons_Research_Normal"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+
+

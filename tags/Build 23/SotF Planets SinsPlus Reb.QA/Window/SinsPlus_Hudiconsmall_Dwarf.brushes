@@ -1,0 +1,75 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 14
+brush
+	name "HUDICONSMALL_DWARF_SINSPLUSCITY01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 55 , 79 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_SINSPLUSCITY02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 55 , 207 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_SINSPLUSVOLCANICDARKSIDE"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 55 , 335 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_SINSPLUSTERRANEARTH"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 55 , 463 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_SINSPLUSFOREST"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 55 , 591 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_SINSPLUSFOREST02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 55 , 719 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_SINSPLUSGRASS"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 55 , 847 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_SINSPLUSINDUSTRIAL01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 55 , 975 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_SINSPLUSINDUSTRIAL02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 562 , 79 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_SINSPLUSPARADISE01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 562 , 207 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_SINSPLUSPARADISE02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 562 , 335 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_SINSPLUSPARADISE03"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 562 , 463 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_SINSPLUSRELIC01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 562 , 591 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_SINSPLUSWATER01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 562 , 719 , 23 , 28 ]
+
+

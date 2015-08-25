@@ -1,0 +1,133 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 26
+brush
+	name "MAINVIEWICON_CORVETTE_ROGUEREBEL"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 1 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CORVETTE_ROGUELOYALIST"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 31 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_TITAN_ROGUELOYALIST"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 464 , 94 , 48 , 13 ]
+brush
+	name "MAINVIEWICON_TITAN_ROGUEREBEL"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 406 , 93 , 49 , 35 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_ROGUECOLONY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 1 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_ROGUECARRIER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 61 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_ROGUEDESTROYER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 31 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_ROGUESUPPORT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 121 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_ROGUESIEGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 91 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ROGUEANTIFIGHTER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 91 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ROGUECARRIER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 211 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ROGUECOLONY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 1 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ROGUEHEAVY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 31 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ROGUELIGHT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 241 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ROGUELONGRANGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 271 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ROGUESCOUT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 121 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ROGUESIEGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 61 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ROGUEUTILITY0"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ROGUEUTILITY1"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 361 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ROGUEMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 181 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ROGUESTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 391 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ROGUEANTIMODULE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 421 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADROGUECOMBAT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 181 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADROGUEBOMBER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 151 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_TRADESHIP_ROGUE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 151 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_ROGUEBATTLESHIP"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 301 , 181 , 28 , 28 ]

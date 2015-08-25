@@ -1,0 +1,159 @@
+﻿TXT
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn FALSE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault FALSE
+canBomb FALSE
+typeCount 3
+frigateRoleType "Colony"
+frigateRoleType "StarBaseConstructor"
+frigateRoleType "ResourceCapturer"
+statCountType "FrigateColony"
+mainViewIcon "MAINVIEWICON_FRIGATE_CYLONCOLONY"
+picture "PICTURE_FRIGATE_CYLONCOLONY"
+NameStringID "IDS_FRIGATE_CYLONCOLONY_NAME"
+DescriptionStringID "IDS_FRIGATE_CYLONCOLONY_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
+basePrice
+	credits 425.000000
+	metal 140.000000
+	crystal 50.000000
+slotCount 6.000000
+BuildTime 40.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 20.000000
+MaxHullPoints 2000.000000
+MaxShieldPoints 0.000500
+HullPointRestoreRate 1.000000
+ShieldPointRestoreRate 0.000000
+BaseArmorPoints 0.000000
+maxMitigation 0.600000
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 1
+numRandomDebrisSmall 9
+numSpecificDebris 0
+armorType "Light"
+hudIcon "HUDICON_FRIGATE_CYLONCOLONY"
+smallHudIcon "HUDICONSMALL_FRIGATE_CYLONCOLONY"
+infoCardIcon "INFOCARDICON_FRIGATE_CYLONCOLONY"
+minZoomDistanceMult 2.000000
+NumWeapons 1
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "ANTILIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 40.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 2500.000000
+	PreBuffCooldownTime 8.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.300000
+	TravelSpeed 1000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 1
+		burstDelay 1.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_TechCapitalMissileLight_Muzzle"
+		muzzleSoundMinRespawnTime 0.400000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_TECHCAPITALMISSILELIGHT_MUZZLE"
+			sound "WEAPON_TECHCAPITALMISSILELIGHT_MUZZLE_ALT1"
+		hitEffectName "Weapon_TechCapitalMissileLight_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILELIGHT_HITGENERIC"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILELIGHT_HITGENERIC"
+		missileTravelEffectName "Weapon_TechCapitalMissileLight_Travel"
+		missileStartTurningDistance 250.000000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 6.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 2000.000000
+ShieldMeshName ""
+renderShield TRUE
+maxAccelerationLinear 100.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 1.650000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 500.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 2
+SoundID "CAPITALSHIP_CYLONHYBRID_ONATTACKORDERISSUED_0"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONATTACKORDERISSUED_1"
+NumSoundsFor:ONCREATION 2
+SoundID "CAPITALSHIP_CYLONHYBRID_ONCREATION_0"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONCREATION_0"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "CAPITALSHIP_CYLONHYBRID_ONGENERALORDERISSUED_0"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONGENERALORDERISSUED_1"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONGENERALORDERISSUED_1"
+NumSoundsFor:ONSELECTED 5
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSELECTED_0"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSELECTED_1"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSELECTED_2"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSELECTED_3"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSELECTED_4"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSTARTPHASEJUMP_0"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSTARTPHASEJUMP_1"
+SoundID "CAPITALSHIP_CYLONHYBRID_ONSTARTPHASEJUMP_2"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Frigate_CylonColony"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_FrigateCylonColony"
+ExplosionName "Frigate0"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_CYLONCAPITALSHIP"
+ability:0 "AbilityCylonFrigateColonize"
+ability:1 "AbilityCylonDeployStarBase"
+ability:2 "AbilityCylonCaptureNeutralEntity"
+ability:3 "AbilityCylonRegenerationLight"
+ability:4 "AbilityCylonResurrectionLight"
+MaxAntiMatter 225.000000
+AntiMatterRestoreRate 0.500000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 2
+minShadow 0.200000
+maxShadow 1.200000
+allegianceDecreasePerRoundtrip 0.000000

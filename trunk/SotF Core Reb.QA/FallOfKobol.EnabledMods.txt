@@ -1,0 +1,6 @@
+﻿TXT
+Version 0
+enabledModNameCount 3
+enabledModName "SotF Race Colonial Reb.QA"
+enabledModName "SotF Race Cylon Reb.QA"
+enabledModName "SotF Core Reb.QA"

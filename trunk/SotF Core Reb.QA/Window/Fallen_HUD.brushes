@@ -1,0 +1,827 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 65
+brush
+	name "FallenMainMenuButtonOverlayLarge"
+	content "States"
+	Disabled
+		fileName "Fallen_Menu_Disabled"
+		pixelBox [ 0 , 0 , 256 , 173 ]
+	Pressed
+		fileName "Fallen_Menu_Normal"
+		pixelBox [ 0 , 0 , 256 , 173 ]
+	CursorOver
+		fileName "Fallen_Menu_CursorOver"
+		pixelBox [ 0 , 0 , 256 , 173 ]
+	Focused
+		fileName "Fallen_Menu_Normal"
+		pixelBox [ 0 , 0 , 256 , 173 ]
+	Normal
+		fileName "Fallen_Menu_Normal"
+		pixelBox [ 0 , 0 , 256 , 173 ]
+brush
+	name "BackdropFallenResearchFaction"
+	content "Simple"
+	fileName "BackdropResearchFaction"
+	pixelBox [ 7 , 5 , 690 , 470 ]
+brush
+	name "RebellionResearchOverlayRed"
+	content "Simple"
+	fileName "Animation_PreRec_Red"
+	pixelBox [ 158 , 68 , 74 , 62 ]
+brush
+	name "RebellionResearchOverlayBlue"
+	content "Simple"
+	fileName "Animation_PreRec"
+	pixelBox [ 158 , 68 , 74 , 62 ]
+brush
+	name "ActionGridSlotBackdropNephilim"
+	content "MarginsAndStates"
+	stretchMargins
+		left 5
+		right 8
+		top 4
+		bottom 8
+	contentMargins
+		left 2
+		right 2
+		top 2
+		bottom 2
+	Disabled
+		fileName "Buttons_Backgrounds"
+		pixelBox [ 474 , 584 , 54 , 38 ]
+	Pressed
+		fileName "Buttons_Backgrounds"
+		pixelBox [ 474 , 674 , 54 , 38 ]
+	CursorOver
+		fileName "Buttons_Backgrounds"
+		pixelBox [ 474 , 629 , 54 , 38 ]
+	Focused
+		fileName "Buttons_Backgrounds"
+		pixelBox [ 474 , 539 , 54 , 38 ]
+	Normal
+		fileName "Buttons_Backgrounds"
+		pixelBox [ 474 , 494 , 54 , 38 ]
+brush
+	name "ActionGridSlotBackdropPlague"
+	content "MarginsAndStates"
+	stretchMargins
+		left 5
+		right 8
+		top 4
+		bottom 8
+	contentMargins
+		left 2
+		right 2
+		top 2
+		bottom 2
+	Disabled
+		fileName "Buttons_Backgrounds"
+		pixelBox [ 474 , 584 , 54 , 38 ]
+	Pressed
+		fileName "Buttons_Backgrounds"
+		pixelBox [ 474 , 674 , 54 , 38 ]
+	CursorOver
+		fileName "Buttons_Backgrounds"
+		pixelBox [ 474 , 629 , 54 , 38 ]
+	Focused
+		fileName "Buttons_Backgrounds"
+		pixelBox [ 474 , 539 , 54 , 38 ]
+	Normal
+		fileName "Buttons_Backgrounds"
+		pixelBox [ 474 , 494 , 54 , 38 ]
+brush
+	name "BottomWindowBackdropUnused"
+	content "Simple"
+	fileName "Skin_Tech"
+	pixelBox [ 0 , 384 , 1024 , 128 ]
+brush
+	name "BottomWindowBackdropNephilim"
+	content "Simple"
+	fileName "Skin_Nephilim"
+	pixelBox [ 0 , 384 , 1024 , 128 ]
+brush
+	name "BottomWindowBackdropPlague"
+	content "Simple"
+	fileName "Skin_Plague"
+	pixelBox [ 0 , 384 , 1024 , 128 ]
+brush
+	name "BottomWindowOverlayUnused"
+	content "Simple"
+	fileName "Skin_Tech"
+	pixelBox [ 0 , 255 , 1024 , 128 ]
+brush
+	name "BottomWindowOverlayNephilim"
+	content "Simple"
+	fileName "Skin_Nephilim"
+	pixelBox [ 0 , 255 , 1024 , 128 ]
+brush
+	name "BottomWindowOverlayPlague"
+	content "Simple"
+	fileName "Skin_Plague"
+	pixelBox [ 0 , 255 , 1024 , 128 ]
+brush
+	name "InfoCardAttachedToScreenEdgeBackdropUnused"
+	content "Margins"
+	stretchMargins
+		left 10
+		right 20
+		top 20
+		bottom 20
+	contentMargins
+		left 32
+		right 32
+		top 14
+		bottom 22
+	fileName "BackdropInGame"
+	pixelBox [ 2016 , 11 , 29 , 295 ]
+brush
+	name "InfoCardAttachedToBottomBackdropNephilim"
+	content "Margins"
+	stretchMargins
+		left 0
+		right 0
+		top 20
+		bottom 10
+	contentMargins
+		left 32
+		right 32
+		top 14
+		bottom 14
+	fileName "Skin_Nephilim"
+	pixelBox [ 716 , 225 , 297 , 29 ]
+brush
+	name "InfoCardAttachedToScreenEdgeBackdropNephilim"
+	content "Margins"
+	stretchMargins
+		left 10
+		right 20
+		top 20
+		bottom 20
+	contentMargins
+		left 32
+		right 32
+		top 14
+		bottom 22
+	fileName "BackdropInGame"
+	pixelBox [ 2016 , 11 , 29 , 295 ]
+brush
+	name "InfoCardAttachedToBottomBackdropPlague"
+	content "Margins"
+	stretchMargins
+		left 0
+		right 0
+		top 20
+		bottom 10
+	contentMargins
+		left 32
+		right 32
+		top 14
+		bottom 14
+	fileName "Skin_Plague"
+	pixelBox [ 716 , 225 , 297 , 29 ]
+brush
+	name "InfoCardAttachedToScreenEdgeBackdropPlague"
+	content "Margins"
+	stretchMargins
+		left 10
+		right 20
+		top 20
+		bottom 20
+	contentMargins
+		left 32
+		right 32
+		top 14
+		bottom 22
+	fileName "BackdropInGame"
+	pixelBox [ 2016 , 11 , 29 , 295 ]
+brush
+	name "EmpireWindowFindIconOwnedColonyShipsUnused"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 618 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 618 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 618 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 618 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 618 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedScoutShipsUnused"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 659 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 659 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 659 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 659 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 659 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedCapitalShipsUnused"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 700 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 700 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 700 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 700 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 700 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedStarbasesUnused"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 180 , 331 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 180 , 331 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 180 , 331 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 180 , 331 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 180 , 331 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedEnvoysUnused"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 447 , 185 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 447 , 185 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 447 , 185 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 447 , 185 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 447 , 185 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithResourceAsteroidsUnused"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithFactoriesUnused"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 741 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 741 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 741 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 741 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 741 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithUpgradesUnused"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithCivilianSlotsUnused"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconPlanetsWithArtifactsUnused"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedColonyShipsNephilim"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 85 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 85 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 85 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 85 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 85 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedScoutShipsNephilim"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 126 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 126 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 126 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 126 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 126 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedCapitalShipsNephilim"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 167 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 167 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 167 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 167 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 167 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedStarbasesNephilim"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 92 , 126 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 92 , 126 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 92 , 126 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 92 , 126 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 92 , 126 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedEnvoysNephilim"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 92 , 85 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 92 , 85 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 92 , 85 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 92 , 85 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 92 , 85 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithResourceAsteroidsNephilim"
+	content "States"
+	Disabled
+		fileName "Buttons_Screens_Disabled"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Pressed
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	CursorOver
+		fileName "Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Focused
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Normal
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithFactoriesNephilim"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 208 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 208 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 208 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 208 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 208 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithUpgradesNephilim"
+	content "States"
+	Disabled
+		fileName "Buttons_Screens_Disabled"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Pressed
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	CursorOver
+		fileName "Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Focused
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Normal
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithCivilianSlotsNephilim"
+	content "States"
+	Disabled
+		fileName "Buttons_Screens_Disabled"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Pressed
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	CursorOver
+		fileName "Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Focused
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Normal
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconPlanetsWithArtifactsNephilim"
+	content "States"
+	Disabled
+		fileName "Buttons_Screens_Disabled"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Pressed
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	CursorOver
+		fileName "Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Focused
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Normal
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedColonyShipsPlague"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 250 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 250 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 250 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 250 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 250 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedScoutShipsPlague"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 290 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 290 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 290 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 290 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 290 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedCapitalShipsPlague"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 331 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 331 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 331 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 331 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 331 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedStarbasesPlague"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 92 , 166 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 92 , 166 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 92 , 166 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 92 , 166 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 92 , 166 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedEnvoysPlague"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 92 , 208 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 92 , 208 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 92 , 208 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 92 , 208 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 92 , 208 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithResourceAsteroidsPlague"
+	content "States"
+	Disabled
+		fileName "Buttons_Screens_Disabled"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Pressed
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	CursorOver
+		fileName "Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Focused
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+	Normal
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 454 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithFactoriesPlague"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Screens_Disabled"
+		pixelBox [ 4 , 372 , 65 , 38 ]
+	Pressed
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 372 , 65 , 38 ]
+	CursorOver
+		fileName "Fallen_Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 372 , 65 , 38 ]
+	Focused
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 372 , 65 , 38 ]
+	Normal
+		fileName "Fallen_Buttons_Screens_Normal"
+		pixelBox [ 4 , 372 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithUpgradesPlague"
+	content "States"
+	Disabled
+		fileName "Buttons_Screens_Disabled"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Pressed
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	CursorOver
+		fileName "Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Focused
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+	Normal
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 536 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconOwnedPlanetsWithCivilianSlotsPlague"
+	content "States"
+	Disabled
+		fileName "Buttons_Screens_Disabled"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Pressed
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	CursorOver
+		fileName "Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Focused
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+	Normal
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 495 , 65 , 38 ]
+brush
+	name "EmpireWindowFindIconPlanetsWithArtifactsPlague"
+	content "States"
+	Disabled
+		fileName "Buttons_Screens_Disabled"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Pressed
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	CursorOver
+		fileName "Buttons_Screens_CursorOver"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Focused
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+	Normal
+		fileName "Buttons_Screens_Normal"
+		pixelBox [ 4 , 577 , 65 , 38 ]
+brush
+	name "TopWindowBackdropUnused"
+	content "Simple"
+	fileName "Skin_Nephilim"
+	pixelBox [ 0 , 0 , 1024 , 50 ]
+brush
+	name "TopWindowBackdropNephilim"
+	content "Simple"
+	fileName "Skin_Nephilim"
+	pixelBox [ 0 , 0 , 1024 , 50 ]
+brush
+	name "TopWindowBackdropPlague"
+	content "Simple"
+	fileName "Skin_Plague"
+	pixelBox [ 0 , 0 , 1024 , 50 ]
+brush
+	name "TopWindowOverlayUnused"
+	content "Simple"
+	fileName "Skin_Tech"
+	pixelBox [ 0 , 51 , 1024 , 50 ]
+brush
+	name "TopWindowOverlayNephilim"
+	content "Simple"
+	fileName "Skin_Nephilim"
+	pixelBox [ 0 , 51 , 1024 , 50 ]
+brush
+	name "TopWindowOverlayPlague"
+	content "Simple"
+	fileName "Skin_Plague"
+	pixelBox [ 0 , 51 , 1024 , 50 ]
+brush
+	name "EmpireWindowOptionsWindowBackdropPlague"
+	content "Simple"
+	fileName "Skin_Plague"
+	pixelBox [ 294 , 216 , 228 , 39 ]
+brush
+	name "EmpireWindowOptionsWindowHighResBackdropPlague"
+	content "Simple"
+	fileName "Skin_Plague"
+	pixelBox [ 0 , 216 , 228 , 39 ]
+brush
+	name "TopWindowLeftCapLowResPlague"
+	content "Simple"
+	fileName "Skin_Plague"
+	pixelBox [ 0 , 101 , 300 , 39 ]
+brush
+	name "TopWindowLeftCapHighResPlague"
+	content "Simple"
+	fileName "Skin_Plague"
+	pixelBox [ 0 , 146 , 224 , 39 ]
+brush
+	name "TopWindowRightCapLowResPlague"
+	content "Simple"
+	fileName "Skin_Plague"
+	pixelBox [ 713 , 101 , 310 , 39 ]
+brush
+	name "TopWindowRightCapHighResPlague"
+	content "Simple"
+	fileName "Skin_Plague"
+	pixelBox [ 979 , 146 , 45 , 39 ]
+brush
+	name "EmpireWindowOptionsWindowBackdropNephilim"
+	content "Simple"
+	fileName "Skin_Nephilim"
+	pixelBox [ 294 , 216 , 228 , 39 ]
+brush
+	name "EmpireWindowOptionsWindowHighResBackdropNephilim"
+	content "Simple"
+	fileName "Skin_Nephilim"
+	pixelBox [ 0 , 216 , 228 , 39 ]
+brush
+	name "TopWindowLeftCapLowResNephilim"
+	content "Simple"
+	fileName "Skin_Nephilim"
+	pixelBox [ 0 , 101 , 300 , 39 ]
+brush
+	name "TopWindowLeftCapHighResNephilim"
+	content "Simple"
+	fileName "Skin_Nephilim"
+	pixelBox [ 0 , 146 , 224 , 39 ]
+brush
+	name "TopWindowRightCapLowResNephilim"
+	content "Simple"
+	fileName "Skin_Nephilim"
+	pixelBox [ 713 , 101 , 310 , 39 ]
+brush
+	name "TopWindowRightCapHighResNephilim"
+	content "Simple"
+	fileName "Skin_Nephilim"
+	pixelBox [ 979 , 146 , 45 , 39 ]

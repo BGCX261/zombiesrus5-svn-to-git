@@ -1,0 +1,77 @@
+﻿TXT
+entityType "StarBaseUpgrade"
+stageCount 3
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADE_PLAGUE_CONSUMEPLANET_NAME"
+	descStringID "IDS_STARBASEUPGRADE_PLAGUE_CONSUMEPLANET_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_STARBASEUPGRADE_PLAGUE_CONSUMEPLANET"
+	smallHudIcon "HUDICON_STARBASEUPGRADE_PLAGUE_CONSUMEPLANET"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADE_PLAGUE_CONSUMEPLANET_NAME"
+	descStringID "IDS_STARBASEUPGRADE_PLAGUE_CONSUMEPLANET_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCHSUBJECT_PLAGUE_STARBASEUPGRADEACCESS_CONSUMEPLANET"
+			Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_STARBASEUPGRADE_PLAGUE_CONSUMEPLANET"
+	smallHudIcon "HUDICON_STARBASEUPGRADE_PLAGUE_CONSUMEPLANET"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 150.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 2.500000
+	upgradeProperty
+		propertyType "AbilityBLevel"
+		value 1.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADE_PLAGUE_CONSUMEPLANET_NAME"
+	descStringID "IDS_STARBASEUPGRADE_PLAGUE_CONSUMEPLANET_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_STARBASEUPGRADE_PLAGUE_CONSUMEPLANET"
+	smallHudIcon "HUDICON_STARBASEUPGRADE_PLAGUE_CONSUMEPLANET"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 300.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 3.500000
+	upgradeProperty
+		propertyType "AbilityBLevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+xpModifier 25.000000
+	

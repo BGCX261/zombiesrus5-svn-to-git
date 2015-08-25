@@ -1,0 +1,83 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 16
+brush
+	name "PLANETMODULEPICTURE_HYPORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 512 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_HYPORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 682 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_HYPORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1022 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_HYPORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 172 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_HYPORBITALGAUSSDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 2 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_HYPORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 852 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_HYPORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1192 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_HYPORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1192 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_HYPORBITALPHASEGATE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 682 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_HYPORBITALNANOWEAPONJAMMER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 852 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_HYPORBITALTRADEPORT"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1362 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_HYPORBITALREFINERY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 172 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_HYPORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 342 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_HYPORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 512 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_HYPORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 342 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_HYPORBITALCANNON"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1532 , 314 , 167 , 75 ]

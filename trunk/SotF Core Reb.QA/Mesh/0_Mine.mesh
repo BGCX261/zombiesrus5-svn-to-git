@@ -1,0 +1,171 @@
+TXT
+MeshData
+    maxDiffuseMipLevel 0
+	hasValidTangents TRUE
+	BoundingRadius 3.999998
+	MaxBoundingExtents [ 3.771235 3.999998 3.265985 ]
+	MinBoundingExtents [ -1.885617 -1.333333 -3.265985 ]
+	NumMaterials 1
+	Material
+		DiffuseTextureFileName "Black-da.dds"
+		SelfIlluminationTextureFileName "Black-da.dds"
+		NormalTextureFileName "Black-da.dds"
+		DisplacementTextureFileName ""
+		TeamColorTextureFileName ""
+		Diffuse ffffffff
+		Ambient ffffffff
+		Specular ffffffff
+		Emissive ffffffff
+		Glossiness 50.000000
+	NumPoints 0
+	NumVertices 12
+	Vertex
+		Position [ 3.771235 -1.333331 -0.000000 ]
+		Normal [ 0.471404 0.333333 -0.816497 ]
+		Tangent [ -0.577351 0.816496 0.000000 ]
+		Color 0
+		U0 0.000000
+		V0 0.500000
+		U1 0.000000
+		V1 0.500000
+	Vertex
+		Position [ -0.000001 3.999998 0.000000 ]
+		Normal [ 0.471404 0.333333 -0.816497 ]
+		Tangent [ -0.577351 0.816496 0.000000 ]
+		Color 0
+		U0 0.666667
+		V0 0.500000
+		U1 0.666667
+		V1 0.500000
+	Vertex
+		Position [ -1.885617 -1.333333 -3.265985 ]
+		Normal [ 0.471404 0.333333 -0.816497 ]
+		Tangent [ -0.577351 0.816496 0.000000 ]
+		Color 0
+		U0 1.000000
+		V0 0.000000
+		U1 1.000000
+		V1 0.000000
+	Vertex
+		Position [ -0.000001 3.999998 0.000000 ]
+		Normal [ 0.471404 0.333333 0.816497 ]
+		Tangent [ -0.577351 0.816496 0.000000 ]
+		Color 0
+		U0 0.666667
+		V0 0.500000
+		U1 0.666667
+		V1 0.500000
+	Vertex
+		Position [ 3.771235 -1.333331 -0.000000 ]
+		Normal [ 0.471404 0.333333 0.816497 ]
+		Tangent [ -0.577351 0.816496 0.000000 ]
+		Color 0
+		U0 0.000000
+		V0 0.500000
+		U1 0.000000
+		V1 0.500000
+	Vertex
+		Position [ -1.885617 -1.333333 3.265985 ]
+		Normal [ 0.471404 0.333333 0.816497 ]
+		Tangent [ -0.577351 0.816496 0.000000 ]
+		Color 0
+		U0 1.000000
+		V0 1.000000
+		U1 1.000000
+		V1 1.000000
+	Vertex
+		Position [ -1.885617 -1.333333 -3.265985 ]
+		Normal [ 0.000000 -1.000000 0.000000 ]
+		Tangent [ -1.000000 0.000000 0.000000 ]
+		Color 0
+		U0 1.000000
+		V0 0.000000
+		U1 1.000000
+		V1 0.000000
+	Vertex
+		Position [ -1.885617 -1.333333 3.265985 ]
+		Normal [ 0.000000 -1.000000 0.000000 ]
+		Tangent [ -1.000000 0.000000 0.000000 ]
+		Color 0
+		U0 1.000000
+		V0 1.000000
+		U1 1.000000
+		V1 1.000000
+	Vertex
+		Position [ 3.771235 -1.333331 -0.000000 ]
+		Normal [ 0.000000 -1.000000 0.000000 ]
+		Tangent [ -1.000000 0.000000 0.000000 ]
+		Color 0
+		U0 0.000000
+		V0 0.500000
+		U1 0.000000
+		V1 0.500000
+	Vertex
+		Position [ -1.885617 -1.333333 3.265985 ]
+		Normal [ -0.942809 0.333333 0.000000 ]
+		Tangent [ -0.333333 -0.942809 0.000000 ]
+		Color 0
+		U0 1.000000
+		V0 1.000000
+		U1 1.000000
+		V1 1.000000
+	Vertex
+		Position [ -1.885617 -1.333333 -3.265985 ]
+		Normal [ -0.942809 0.333333 0.000000 ]
+		Tangent [ -0.333333 -0.942809 0.000000 ]
+		Color 0
+		U0 1.000000
+		V0 0.000000
+		U1 1.000000
+		V1 0.000000
+	Vertex
+		Position [ -0.000001 3.999998 0.000000 ]
+		Normal [ -0.942809 0.333333 0.000000 ]
+		Tangent [ -0.333333 -0.942809 0.000000 ]
+		Color 0
+		U0 0.666667
+		V0 0.500000
+		U1 0.666667
+		V1 0.500000
+	NumTriangles 4
+	Triangle
+		iVertex0 0
+		iVertex1 2
+		iVertex2 1
+		iMaterial 0
+	Triangle
+		iVertex0 3
+		iVertex1 5
+		iVertex2 4
+		iMaterial 0
+	Triangle
+		iVertex0 6
+		iVertex1 8
+		iVertex2 7
+		iMaterial 0
+	Triangle
+		iVertex0 9
+		iVertex1 11
+		iVertex2 10
+		iMaterial 0
+	NumCachedVertexIndicesInDirection:UP 0
+	NumCachedVertexIndicesInDirection:DOWN 3
+	Index 7
+	Index 8
+	Index 6
+	NumCachedVertexIndicesInDirection:LEFT 3
+	Index 9
+	Index 11
+	Index 10
+	NumCachedVertexIndicesInDirection:RIGHT 4
+	Index 5
+	Index 1
+	Index 0
+	Index 2
+	NumCachedVertexIndicesInDirection:FRONT 2
+	Index 3
+	Index 5
+	NumCachedVertexIndicesInDirection:BACK 3
+	Index 0
+	Index 1
+	Index 2

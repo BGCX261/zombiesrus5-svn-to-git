@@ -1,0 +1,169 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 12
+brush
+	name "ArtifactPictureResearchPirate"
+	content "States"
+	Disabled
+		fileName "Fallen_Research"
+		pixelBox [ 1249 , 415 , 199 , 100 ]
+	Pressed
+		fileName "Fallen_Research"
+		pixelBox [ 1249 , 312 , 199 , 100 ]
+	CursorOver
+		fileName "Fallen_Research"
+		pixelBox [ 1249 , 312 , 199 , 100 ]
+	Focused
+		fileName "Fallen_Research"
+		pixelBox [ 1249 , 312 , 199 , 100 ]
+	Normal
+		fileName "Fallen_Research"
+		pixelBox [ 1249 , 312 , 199 , 100 ]
+brush
+	name "HUDICONSMALL_RESEARCHSUBJECT_ARTIFACT_PIRATE"
+	content "Simple"
+	fileName "PlanetBonusesDS"
+	pixelBox [ 153 , 123 , 22 , 22 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ARTIFACT_PIRATE"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 3 , 769 , 62 , 48 ]
+brush
+	name "ArtifactPictureOrigin"
+	content "States"
+	Disabled
+		fileName "Fallen_Research"
+		pixelBox [ 1249 , 209 , 199 , 100 ]
+	Pressed
+		fileName "Fallen_Research"
+		pixelBox [ 1249 , 106 , 199 , 100 ]
+	CursorOver
+		fileName "Fallen_Research"
+		pixelBox [ 1249 , 106 , 199 , 100 ]
+	Focused
+		fileName "Fallen_Research"
+		pixelBox [ 1249 , 106 , 199 , 100 ]
+	Normal
+		fileName "Fallen_Research"
+		pixelBox [ 1249 , 106 , 199 , 100 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ARTIFACT_ORIGIN"
+	content "Simple"
+	fileName "Fallen_Research"
+	pixelBox [ 3 , 718 , 62 , 48 ]
+brush
+	name "HUDICONSMALL_RESEARCHSUBJECT_ARTIFACT_ORIGIN"
+	content "Simple"
+	fileName "PlanetBonusesDS"
+	pixelBox [ 153 , 99 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETACCESS_ROCK"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Research_Disabled"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Buttons_Research_Pressed"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Buttons_Research_Normal"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Buttons_Research_Normal"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETACCESS_OCEAN"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Research_Disabled"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Buttons_Research_Pressed"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Buttons_Research_Normal"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Buttons_Research_Normal"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETACCESS_GAS"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Research_Disabled"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Buttons_Research_Pressed"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Buttons_Research_Normal"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Buttons_Research_Normal"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_POPULATIONCAPROCK"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Research_Disabled"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Buttons_Research_Pressed"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Buttons_Research_Normal"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Buttons_Research_Normal"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_POPULATIONCAPFOREST"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Research_Disabled"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Buttons_Research_Pressed"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Buttons_Research_Normal"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Buttons_Research_Normal"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_POPULATIONCAPGAS"
+	content "States"
+	Disabled
+		fileName "Fallen_Buttons_Research_Disabled"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Buttons_Research_Pressed"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Buttons_Research_Normal"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Buttons_Research_Normal"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+
+

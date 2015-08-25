@@ -1,0 +1,20 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 3
+brush
+	name "PICTURE_CAPITALSHIP_ALIENBATTLESHIP"
+	content "Simple"
+	fileName "Artifacts_Unit_Picture"
+	pixelBox [ 2 , 2 , 75 , 167 ]
+brush
+	name "PICTURE_CAPITALSHIP_ALIENCARRIER"
+	content "Simple"
+	fileName "Artifacts_Unit_Picture"
+	pixelBox [ 172 , 2 , 75 , 167 ]
+brush
+	name "PICTURE_STARBASE_ALIENARTIFACT"
+	content "Simple"
+	fileName "Artifacts_Unit_Picture"
+	pixelBox [ 342 , 2 , 75 , 167 ]
+
+

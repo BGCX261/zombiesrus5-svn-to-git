@@ -1,0 +1,31 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 0
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 2
+entityModifier
+	buffEntityModifierType "MaxHullPoints"
+	value
+		Level:0 10
+		Level:1 25
+		Level:2 50
+		Level:3 75.000000
+entityModifier
+	buffEntityModifierType "HullPointRestoreRate"
+	value
+		Level:0 .025
+		Level:1 .050
+		Level:2 .100
+		Level:3 0.150000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "OwnerChanged"

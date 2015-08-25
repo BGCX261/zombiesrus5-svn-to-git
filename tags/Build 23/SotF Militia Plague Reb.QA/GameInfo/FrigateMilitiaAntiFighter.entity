@@ -1,0 +1,230 @@
+﻿TXT
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+typeCount 1
+frigateRoleType "AntiFighter"
+statCountType "FrigateAntiFighter"
+mainViewIcon "MAINVIEWICON_FRIGATE_PLAGUEANTIFIGHTER"
+picture "PICTURE_FRIGATE_PLAGUEANTIFIGHTER"
+NameStringID "IDS_FRIGATE_PLAGUE_ANTIFIGHTER_NAME"
+DescriptionStringID "IDS_FRIGATE_PLAGUE_ANTIFIGHTER_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_ANTIFIGHTER"
+basePrice
+	credits 350.000000
+	metal 35.000000
+	crystal 15.000000
+slotCount 4.000000
+BuildTime 35.000000
+hasLevels TRUE
+ExperiencePointsForDestroying 
+	Level:0 30.000000
+	Level:1 35.000000
+	Level:2 40.000000
+	Level:3 45.000000
+MaxHullPoints 
+	Level:0 775.000000
+	Level:1 825.000000
+	Level:2 875.000000
+	Level:3 925.000000
+MaxShieldPoints 
+	Level:0 250.000000
+	Level:1 300.000000
+	Level:2 350.000000
+	Level:3 400.000000
+HullPointRestoreRate 
+	Level:0 0.800000
+	Level:1 0.900000
+	Level:2 1.000000
+	Level:3 1.100000
+ShieldPointRestoreRate 
+	Level:0 1.800000
+	Level:1 1.900000
+	Level:2 2.000000
+	Level:3 2.100000
+BaseArmorPoints 
+	Level:0 2.500000
+	Level:1 3.000000
+	Level:2 3.500000
+	Level:3 4.000000
+maxMitigation 
+	Level:0 0.600000
+	Level:1 0.600000
+	Level:2 0.600000
+	Level:3 0.600000
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_PLAGUE_FRIGATEACCESS_ANTIFIGHTER"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 4
+numSpecificDebris 0
+armorType "Heavy"
+hudIcon "HUDICON_FRIGATE_PLAGUEANTIFIGHTER"
+smallHudIcon "HUDICONSMALL_FRIGATE_PLAGUEANTIFIGHTER"
+infoCardIcon "INFOCARDICON_FRIGATE_PLAGUEANTIFIGHTER"
+minZoomDistanceMult 1.000000
+NumWeapons 2
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIVERYLIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "DART"
+	DamagePerBank:FRONT 45.500000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 5000.000000
+	PreBuffCooldownTime 5.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.200000
+	TravelSpeed 3600.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 3
+		burstDelay 0.350000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PlagueCapitalBioAcidMedium_Muzzle"
+		muzzleSoundMinRespawnTime 1.000000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_PHASECAPITALPULSEGUNMEDIUM_MUZZLE"
+			sound "WEAPON_PHASECAPITALPULSEGUNMEDIUM_MUZZLE_ALT1"
+		hitEffectName "Weapon_PlagueCapitalBioAcidMedium_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYMEDIUM_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICMEDIUM_HITSHIELDS"
+		projectileTravelEffectName "Weapon_PlagueCapitalBioAcidMedium_Travel"
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "ANTIVERYLIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 0.000000
+	DamagePerBank:BACK 16.500000
+	DamagePerBank:LEFT 16.500000
+	DamagePerBank:RIGHT 16.500000
+	Range 4400.000000
+	PreBuffCooldownTime 6.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.300000
+	TravelSpeed 1600.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PlagueCapitalMissileLight_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_PHASESUPPORTMISSILEMEDIUM_MUZZLE"
+			sound "WEAPON_PHASESUPPORTMISSILEMEDIUM_MUZZLE_ALT1"
+		hitEffectName "Weapon_PlagueCapitalMissileLight_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHASEMISSILELIGHT_HITGENERIC"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHASEMISSILELIGHT_HITGENERIC"
+		missileTravelEffectName "Weapon_PlagueCapitalMissileLight_Travel"
+		missileStartTurningDistance 10.000000
+		missileSlowTurnRate 3.141593
+		missileMaxSlowTurnTime 1.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 1
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures FALSE
+hasWeaponLevels TRUE
+weaponDamageMult
+	Level:0 1.000000
+	Level:1 1.100000
+	Level:2 1.200000
+	Level:3 1.300000
+weaponCooldownMult
+	Level:0 1.000000
+	Level:1 0.970000
+	Level:2 0.940000
+	Level:3 0.910000
+mass 2000.000000
+ShieldMeshName "Shield_FrigatePlagueAntiFighter"
+renderShield TRUE
+maxAccelerationLinear 150.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 3.000000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 700.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 2
+SoundID "FRIGATE_PLAGUEAA_ONATTACKORDERISSUED_0"
+SoundID "FRIGATE_PLAGUEAA_ONATTACKORDERISSUED_1"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_PLAGUEAA_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 2
+SoundID "FRIGATE_PLAGUEAA_ONGENERALORDERISSUED_0"
+SoundID "FRIGATE_PLAGUEAA_ONGENERALORDERISSUED_1"
+NumSoundsFor:ONSELECTED 2
+SoundID "FRIGATE_PLAGUEAA_ONSELECTED_0"
+SoundID "FRIGATE_PLAGUEAA_ONSELECTED_1"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "FRIGATE_PLAGUEAA_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Frigate_PlagueAntiFighter"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_FrigatePlagueAntiFighter"
+ExplosionName "Frigate1"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_PHASECAPITALSHIP"
+ability:0 ""
+ability:1 ""
+ability:2 "AbilityPlagueGrowthStage0"
+ability:3 "AbilityPlagueGrowthStage1"
+ability:4 "AbilityPlagueGrowthStage2"
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 1
+minShadow 0.500000
+maxShadow 1.500000
+allegianceDecreasePerRoundtrip 0.000000

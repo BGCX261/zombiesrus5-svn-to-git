@@ -1,0 +1,6 @@
+﻿TXT
+Version 0
+enabledModNameCount 3
+enabledModName "SotF Race Rogue Reb.QA"
+enabledModName "SotF Race Hypercorp Reb.QA"
+enabledModName "SotF Core Reb.QA"

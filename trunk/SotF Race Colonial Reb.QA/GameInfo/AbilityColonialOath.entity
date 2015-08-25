@@ -1,0 +1,58 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffColonialWorthyCauseSelf"
+targetFilter
+	numOwnerships 1
+	ownership "Allied"
+	numObjects 1
+	object "Planet"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 5000.000000
+	Level:1 5000.000000
+	Level:2 5000.000000
+	Level:3 5000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "WorthyCause"
+	mediumEffectName "WorthyCause"
+	largeEffectName "WOrthyCause"
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithoutBase"
+improveSourceResearchSubject "RESEARCHSUBJECT_COLONIAL_ABILITYACCESS_OATH"
+aiUseTime "NotInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 30.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_COLONIAL_ABILITYACCESS_OATH"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_COLONIAL_OATH_NAME"
+descStringID "IDS_ABILITY_COLONIAL_OATH_DESCRIPTION"
+hudIcon "HUDICON_RESEARCH_COLONIAL_OATH"
+smallHudIcon "HUDICON_RESEARCH_COLONIAL_OATH"
+infoCardIcon ""

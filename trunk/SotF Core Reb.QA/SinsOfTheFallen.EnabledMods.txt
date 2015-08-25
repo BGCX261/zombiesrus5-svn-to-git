@@ -1,0 +1,11 @@
+﻿TXT
+Version 0
+enabledModNameCount 8
+enabledModName "SotF Race Rogue Reb.QA"
+enabledModName "SotF Race Hypercorp Reb.QA"
+enabledModName "SotF Race Plague Reb.QA"
+enabledModName "SotF Race Nephilim Reb.QA"
+enabledModName "SotF Race Advent Reb.QA"
+enabledModName "SotF Race Tec Reb.QA"
+enabledModName "SotF Race Vasari Reb.QA"
+enabledModName "SotF Core Reb.QA"

@@ -1,0 +1,100 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 19
+brush
+	name "PICTURE_GIANT_RIGEL_DESERT0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 340 , 1 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_GAS0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 847 , 1 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_GAS1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 340 , 129 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_HALIDE0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 847 , 129 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_HALIDE1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 340 , 257 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_ICE0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 847 , 257 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_ICE1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 340 , 385 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_ICE2"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 847 , 385 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_PLUTONIC0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 340 , 513 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_PLUTONIC1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 847 , 513 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_PURPLE0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 340 , 641 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_RADIOACTIVE0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 847 , 641 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_ROCK0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 340 , 769 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_ROCK1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 847 , 769 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_ROCK2"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 340 , 897 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_ULTRAVIOLET0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 847 , 897 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_ULTRAVIOLET1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 340 , 1025 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_VOLCANIC0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 847 , 1025 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_RIGEL_VOLCANIC1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 340 , 1153 , 167 , 75 ]
+
+

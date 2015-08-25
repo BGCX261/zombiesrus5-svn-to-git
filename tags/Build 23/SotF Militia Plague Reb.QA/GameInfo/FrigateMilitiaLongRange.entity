@@ -1,0 +1,191 @@
+﻿TXT
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+typeCount 1
+frigateRoleType "Lrm"
+statCountType "FrigateLongRange"
+mainViewIcon "MAINVIEWICON_FRIGATE_PLAGUELONGRANGE"
+picture "PICTURE_FRIGATE_PLAGUELONGRANGE"
+NameStringID "IDS_FRIGATE_PLAGUE_LONGRANGE_NAME"
+DescriptionStringID "IDS_FRIGATE_PLAGUE_LONGRANGE_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_LONGRANGE"
+basePrice
+	credits 250.000000
+	metal 50.000000
+	crystal 30.000000
+slotCount 3.000000
+BuildTime 28.000000
+hasLevels TRUE
+ExperiencePointsForDestroying 
+	Level:0 10.000000
+	Level:1 20.000000
+	Level:2 30.000000
+	Level:3 40.000000
+MaxHullPoints 
+	Level:0 400.000000
+	Level:1 450.000000
+	Level:2 500.000000
+	Level:3 550.000000
+MaxShieldPoints 
+	Level:0 300.000000
+	Level:1 330.000000
+	Level:2 360.000000
+	Level:3 390.000000
+HullPointRestoreRate 
+	Level:0 0.800000
+	Level:1 0.900000
+	Level:2 1.000000
+	Level:3 1.100000
+ShieldPointRestoreRate 
+	Level:0 0.800000
+	Level:1 0.900000
+	Level:2 1.000000
+	Level:3 1.100000
+BaseArmorPoints 
+	Level:0 1.600000
+	Level:1 1.800000
+	Level:2 2.000000
+	Level:3 2.200000
+maxMitigation 
+	Level:0 0.600000
+	Level:1 0.600000
+	Level:2 0.600000
+	Level:3 0.600000
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_PLAGUE_FRIGATEACCESS_LONGRANGE"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 6
+numSpecificDebris 0
+armorType "Light"
+hudIcon "HUDICON_FRIGATE_PLAGUELONGRANGE"
+smallHudIcon "HUDICONSMALL_FRIGATE_PLAGUELONGRANGE"
+infoCardIcon "INFOCARDICON_FRIGATE_PLAGUELONGRANGE"
+minZoomDistanceMult 1.500000
+NumWeapons 1
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "ANTIMEDIUM"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 30.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 7820.000000
+	PreBuffCooldownTime 7.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.080000
+	TravelSpeed 1000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 1
+		burstDelay 0.600000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PlagueCapitalMissileHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE_ALT1"
+		hitEffectName "Weapon_PlagueCapitalMissileHeavy_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_PlagueCapitalMissileHeavy_Travel"
+		missileStartTurningDistance 250.000000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 6.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 2
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels TRUE
+weaponDamageMult
+	Level:0 1.000000
+	Level:1 1.100000
+	Level:2 1.200000
+	Level:3 1.300000
+weaponCooldownMult
+	Level:0 1.000000
+	Level:1 0.970000
+	Level:2 0.940000
+	Level:3 0.910000
+mass 2000.000000
+ShieldMeshName "Shield_FrigatePlagueLongRange"
+renderShield TRUE
+maxAccelerationLinear 150.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 3.300000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 500.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 2
+SoundID "FRIGATE_PLAGUELONGRANGE_ONATTACKORDERISSUED_0"
+SoundID "FRIGATE_PLAGUELONGRANGE_ONATTACKORDERISSUED_1"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_PLAGUELONGRANGE_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 2
+SoundID "FRIGATE_PLAGUELONGRANGE_ONGENERALORDERISSUED_0"
+SoundID "FRIGATE_PLAGUELONGRANGE_ONGENERALORDERISSUED_1"
+NumSoundsFor:ONSELECTED 2
+SoundID "FRIGATE_PLAGUELONGRANGE_ONSELECTED_0"
+SoundID "FRIGATE_PLAGUELONGRANGE_ONSELECTED_1"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "FRIGATE_PLAGUELONGRANGE_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Frigate_PlagueLongRange"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_FrigatePlagueLongRange"
+ExplosionName "Frigate1"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_PHASECAPITALSHIP"
+ability:0 "AbilityPlagueInfectedMissiles"
+ability:1 ""
+ability:2 "AbilityPlagueGrowthStage0"
+ability:3 "AbilityPlagueGrowthStage1"
+ability:4 "AbilityPlagueGrowthStage2"
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 2
+minShadow 0.500000
+maxShadow 1.000000
+allegianceDecreasePerRoundtrip 0.000000

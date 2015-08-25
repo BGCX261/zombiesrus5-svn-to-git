@@ -1,0 +1,25 @@
+﻿TXT
+entityType "CannonShell"
+acceleration 300.000000
+startingSpeed 300.000000
+maxSpeed 12000.000000
+buffToApplyOnImpact "BuffNephilimCannonShell"
+planetImpactEffectName "Ability_OrbitalCannonNephilimSurfaceImpact"
+planetImpactSounds
+	soundCount 1
+	sound "EXPLOSION_CANNONSHELLPSI"
+planetImpactCameraShakeMaxSize 38000.000000
+planetImpactCameraShakeStrength 1.000000
+planetImpactCameraShakeDuration 0.000000
+meshName "CannonShellPsi"
+mainViewIcon "MainViewIconCannonShellNephilim"
+picture "PictureCannonShellNephilim"
+nameStringID "IDS_CANNONSHELL_NEPHILIM_NAME"
+descStringID "IDS_CANNONSHELL_NEPHILIM_DESCRIPTION"
+renderMesh FALSE
+minZoomDistanceMult 4.500000
+hudIcon "HUDIconCannonShellNephilim"
+smallHudIcon "HUDIconSmallCannonShellNephilim"
+infoCardIcon "HUDIconSmallCannonShellNephilim"
+minShadow 0.200000
+maxShadow 0.500000

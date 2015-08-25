@@ -1,0 +1,47 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffColonialTitanSheWontFailUsSelf"
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "Ability_LastStandActivate"
+	mediumEffectName "Ability_LastStandActivate"
+	largeEffectName "Ability_LastStandActivate"
+	soundID "EFFECT_LASTSTAND"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility TRUE
+maxNumLevels 4
+levelSourceType "TitanUpgradeLevel"
+sourcePropertyType "AbilityALevel"
+aiUseTime "OnlyWhenEnemyFleetWillPrevail"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 150.000000
+	Level:1 150.000000
+	Level:2 150.000000
+	Level:3 150.000000
+cooldownTime
+	Level:0 180.000000
+	Level:1 170.000000
+	Level:2 160.000000
+	Level:3 150.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_COLONIAL_TITAN_SHEWONTFAILUS_NAME"
+descStringID "IDS_ABILITY_COLONIAL_TITAN_SHEWONTFAILUS_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_COLONIAL_SHEWONTFAILUS"
+smallHudIcon "HUDICON_ABILITY_COLONIAL_SHEWONTFAILUS"
+infoCardIcon ""

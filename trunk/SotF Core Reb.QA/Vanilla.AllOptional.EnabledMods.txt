@@ -1,0 +1,12 @@
+﻿TXT
+Version 0
+enabledModNameCount 9
+enabledModName "SotF Planets SinsPlus Reb.QA"
+enabledModName "SotF Militia Advent Reb.QA"
+enabledModName "SotF Addon Artifacts Reb.QA"
+enabledModName "SotF Addon Moons Reb.QA"
+enabledModName "SotF Race Advent Reb.QA"
+enabledModName "SotF Race Tec Reb.QA"
+enabledModName "SotF Race Vasari Reb.QA"
+enabledModName "SotF Core Flagship Reb.QA"
+enabledModName "SotF Core Reb.QA"

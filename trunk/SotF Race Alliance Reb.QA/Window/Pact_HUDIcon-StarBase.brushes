@@ -1,0 +1,26 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 2
+brush
+	name "HUDICON_STARBASE_PACT"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 349 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 349 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 224 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 349 , 224 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 349 , 224 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_PACT"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 271 , 91 , 28 , 28 ]

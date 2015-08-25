@@ -1,0 +1,8 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 1
+brush
+	name "RacesPlayerScreenPortraitRelationshipUnderlay"
+	content "Simple"
+	fileName "RelationShipUnderlay"
+	pixelBox [ 0 , 0 , 735 , 702 ]

@@ -1,0 +1,72 @@
+﻿TXT
+entityType "PlanetModuleStandard"
+minZoomDistanceMult 2.000000
+ability:0 ""
+ability:1 "AbilityPlagueModuleGrowthStage0"
+ability:2 "AbilityPlagueModuleGrowthStage1"
+ability:3 "AbilityPlagueModuleGrowthStage2"
+ability:4 "AbilityPlagueModuleGrowthStage3"
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+numRandomDebrisLarge 4
+numRandomDebrisSmall 11
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_PLANETMODULE_PLAGUEORBITALMETALEXTRACTOR"
+smallHudIcon "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALMETALEXTRACTOR"
+infoCardIcon "INFOCARDICON_PLANETMODULE_PLAGUEORBITALMETALEXTRACTOR"
+planetUpgradeSlotType "Civilian"
+planetUpgradeSlotCount 0.000000
+basePrice
+	credits 250.000000
+	metal 0.000000
+	crystal 0.000000
+NameStringID "IDS_PLANETMODULE_PLAGUE_ORBITAL_METALEXTRACTOR_NAME"
+DescriptionStringID "IDS_PLANETMODULE_PLAGUE_ORBITAL_METALEXTRACTOR_DESCRIPTION"
+planetModuleRoleType "METALEXTRACTOR"
+statCountType "ModuleMetalExtractor"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MaxHullPoints 2500.000000
+HullPointRestoreRate 2.000000
+BaseArmorPoints 4.000000
+MaxShieldPoints 50.000000
+ShieldPointRestoreRate 1.000000
+maxShieldMitigation 0.600000
+ExperiencePointsForDestroying 20.000000
+resourceExtractionType "Metal"
+cultureSpreadRate 0.000000
+isAffectedBySimilarModuleCostResearch FALSE
+placementRadius 400.000000
+nearPlacementDistOffset 0.000000
+farPlacementDistOffset 9000.000000
+spawnCount 1
+swapMineType ""
+angularSpeed 0.000000
+rotateSoundName ""
+rotateFacingType "None"
+rotateConstantly FALSE
+ShieldMeshName ""
+renderShield TRUE
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "PLANETMODULE_PHASEORBITALEXTRACTOR_ONSELECTION_0"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "PlanetModule_PlagueOrbitalExtractor"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExplosionName "PlanetModuleSmall"
+mainViewIcon "MAINVIEWICON_PLANETMODULE_PLAGUEORBITALMETALEXTRACTOR"
+picture "PLANETMODULEPICTURE_PLAGUEORBITALMETALEXTRACTOR"
+minShadow 0.500000
+maxShadow 1.500000
+formationRank 3
+baseBuildTime 40.000000
+buildEffectName ""

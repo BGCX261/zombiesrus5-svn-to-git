@@ -1,0 +1,112 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetsInRadiusWithTravel"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffHypRepairPlatform"
+targetFilter
+	numOwnerships 1
+	ownership "Friendly"
+numObjects 6
+	object "CapitalShip"
+	object "Frigate"
+	object "PlanetModule"
+	object "StarBase"
+	object "Corvette"
+	object "Titan"
+	numSpaces 1
+	space "Normal"
+	numConstraints 2
+	constraint "NotSelf"
+	constraint "HasHullDamage"
+range
+	Level:0 3000.000000
+	Level:1 3000.000000
+	Level:2 3000.000000
+	Level:3 3000.000000
+maxTargetCount
+	Level:0 -1.00000
+	Level:1 -1.00000
+	Level:2 -1.00000
+	Level:3 -1.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+travelSpeed 500.000000
+effectStaggerDelay 0.50000
+hasWeaponEffects TRUE
+weaponEffectOriginType "Targetter"
+weaponEffectAttachInfo
+	attachType "Ability"
+	abilityIndex 0
+weaponEffectImpactOffsetType "Center"
+canWeaponEffectHitHull FALSE
+canWeaponEffectHitShields FALSE
+weaponEffectsDef
+	weaponType "Missile"
+	burstCount 1
+	burstDelay 0.000000
+	fireDelay 0.000000
+	muzzleEffectName "CapitalBuff_Null"
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds
+		soundCount 1
+		sound "EFFECT_REPAIRDROIDS"
+	hitEffectName ""
+	hitHullEffectSounds
+		soundCount 1
+		sound ""
+	hitShieldsEffectSounds
+		soundCount 1
+		sound ""
+	missileTravelEffectName "CapitalAbility_RepairDroidsTravel"
+	missileStartTurningDistance 100.000000
+	missileSlowTurnRate 0.608997
+	missileMaxSlowTurnTime 3.000000
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 2.000000
+	Level:2 4.000000
+	Level:3 6.000000
+aiUseTime "OnlyWhenManyTargetsHaveHullDamage"
+onlyAutoCastWhenTotalHullDamageExceedsAmount
+Level:0 250.00000
+Level:1 250.00000
+Level:2 250.00000
+Level:3 250.000000
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 70.000000
+	Level:1 70.000000
+	Level:2 70.000000
+	Level:3 70.000000
+cooldownTime
+	Level:0 35.000000
+	Level:1 35.000000
+	Level:2 35.000000
+	Level:3 35.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_HYP_NANOREPAIR_NAME"
+descStringID "IDS_ABILITY_HYP_NANOREPAIR_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_HYP_NANOREPAIR"
+smallHudIcon "HUDICON_ABILITY_HYP_NANOREPAIR"
+infoCardIcon ""

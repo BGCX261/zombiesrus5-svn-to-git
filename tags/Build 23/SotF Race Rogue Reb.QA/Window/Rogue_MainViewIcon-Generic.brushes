@@ -1,0 +1,18 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 3
+brush
+	name "MainViewIconCannonShellRogue"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 481 , 1 , 28 , 28 ]
+brush
+	name "MainViewIconStarBaseRogue"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 1 , 871 , 39 , 39 ]
+brush
+	name "MainViewIconSpaceMineRogue"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 301 , 1 , 28 , 28 ]

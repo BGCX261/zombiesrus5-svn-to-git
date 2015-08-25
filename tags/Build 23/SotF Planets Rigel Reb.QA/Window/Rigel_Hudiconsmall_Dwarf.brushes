@@ -1,0 +1,100 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 19
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_DESERT0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 55 , 79 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_GAS0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 562 , 79 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_GAS1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 55 , 207 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_HALIDE0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 562 , 207 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_HALIDE1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 55 , 335 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_ICE0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 562 , 335 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_ICE1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 55 , 463 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_ICE2"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 562 , 463 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_PLUTONIC0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 55 , 591 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_PLUTONIC1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 562 , 591 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_PURPLE0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 55 , 719 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_RADIOACTIVE0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 562 , 719 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_ROCK0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 55 , 847 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_ROCK1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 562 , 847 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_ROCK2"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 55 , 975 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_ULTRAVIOLET0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 562 , 975 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_ULTRAVIOLET1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 55 , 1103 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_VOLCANIC0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 562 , 1103 , 23 , 28 ]
+brush
+	name "HUDICONSMALL_DWARF_RIGEL_VOLCANIC1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 55 , 1231 , 23 , 28 ]
+
+

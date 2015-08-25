@@ -1,0 +1,64 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "SpawnShipsAtPlanet"
+instantActionTriggerType "AlwaysPerform"
+spawnShipsLevelCount 1
+spawnShips
+	minFleetPoints 50.000000
+	maxFleetPoints 50.000000
+	requiredShipCount 0
+	randomShipCount 5
+	randomShip
+		type "CAPITALSHIP_CYLONBATTLESHIP"
+		weight 1
+	randomShip
+		type "CAPITALSHIP_CYLONSIEGE"
+		weight 1
+	randomShip
+		type "CAPITALSHIP_CYLONCARRIER"
+		weight 1
+	randomShip
+		type "CAPITALSHIP_CYLONSUPPORT"
+		weight 1
+	randomShip
+		type "CAPITALSHIP_CYLONCOLONY"
+		weight 1
+spawnShipsArrivalDelayTime 7.000000
+spawnShipsHyperspaceSpawnType "FleetBeacon"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithoutBase"
+improveSourceResearchSubject "RESEARCHSUBJECT_ABILITYACCESS_DARKFLEET"
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "ResourcesAndMustHaveCapitalCrew"
+resourceCost
+	credits 2010.000000
+	metal 270.000000
+	crystal 170.000000
+cooldownTime
+	Level:0 300.000000
+	Level:1 300.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ABILITYACCESS_DARKFLEET"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_DARKCAPITALSHIP_NAME"
+descStringID "IDS_ABILITY_DARKCAPITALSHIP_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_DARKCAPITALSHIP"
+smallHudIcon "HUDICON_ABILITY_DARKCAPITALSHIP"
+infoCardIcon ""

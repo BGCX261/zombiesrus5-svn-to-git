@@ -1,0 +1,49 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyOrRemoveBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffPlagueAnimateCorpseSelf"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+toggleStateOnNameStringID "IDS_ABILITY_PLAGUE_ANIMATECORPSEACTIVE_NAME"
+toggleStateOnDescStringID "IDS_ABILITY_PLAGUE_ANIMATECORPSEACTIVE_DESCRIPTION"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 4
+levelSourceType "TitanUpgradeLevel"
+sourcePropertyType "AbilityCLevel"
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "AntimatterExceedsAmount"
+onlyAutoCastWhenTargetAntimatterExceedsAmount
+	Level:0 150.000000
+	Level:1 150.000000
+	Level:2 150.000000
+	Level:3 150.000000
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 20.000000
+	Level:1 20.000000
+	Level:2 20.000000
+	Level:3 20.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_PLAGUE_ANIMATECORPSE_NAME"
+descStringID "IDS_ABILITY_PLAGUE_ANIMATECORPSE_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_PLAGUE_ANIMATECORPSE"
+smallHudIcon "HUDICON_ABILITY_PLAGUE_ANIMATECORPSE"
+infoCardIcon ""

@@ -1,0 +1,75 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 14
+brush
+	name "UNDETECTEDICON_GIANT_SINSPLUSCITY01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 457 , 77 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_SINSPLUSCITY02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 457 , 205 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_SINSPLUSVOLCANICDARKSIDE"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 457 , 333 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_SINSPLUSTERRANEARTH"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 457 , 461 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_SINSPLUSFOREST"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 457 , 589 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_SINSPLUSFOREST02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 457 , 717 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_SINSPLUSGRASS"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 457 , 845 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_SINSPLUSINDUSTRIAL01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 457 , 973 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_SINSPLUSINDUSTRIAL02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 964 , 77 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_SINSPLUSPARADISE01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 964 , 205 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_SINSPLUSPARADISE02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 964 , 333 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_SINSPLUSPARADISE03"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 964 , 461 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_SINSPLUSRELIC01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 964 , 589 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_SINSPLUSWATER01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 964 , 717 , 50 , 50 ]
+
+

@@ -1,0 +1,79 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 15
+brush
+	name "MAINVIEWICON_PLANETMODULE_PACTORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 91 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PACTORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 121 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PACTORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 181 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PACTORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 31 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PACTORBITALGAUSSDEFENSE"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 1 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PACTORBITALSHIELDGENERATOR"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 421 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PACTORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 151 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PACTORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 211 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PACTORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 211 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PACTORBITALTRADEPORT"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 241 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PACTORBITALREFINERY"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 331 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PACTORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 361 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PACTORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 391 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PACTORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 61 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_PACTORBITALCANNON"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 271 , 1 , 28 , 28 ]
+	

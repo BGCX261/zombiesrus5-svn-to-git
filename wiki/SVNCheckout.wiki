@@ -1,0 +1,32 @@
+#summary How to use SVN to checkout mod contents
+#labels Featured
+
+= Introduction =
+
+SVN Checkout Instructions
+
+
+= Details =
+
+svn checkout http://zombiesrus5.googlecode.com/svn/trunk/ 
+
+User name if needed: zombiesrus5-read-only (TortoiseSVN did not require it).
+
+Contains all the current rebellion port for Sins of the Fallen including Fall of Kobol.
+
+Using an SVN client means much smaller downloads as you'll only be getting changes to files.
+
+TortoiseSVN
+
+ # Please download and install TortoiseSVN
+ # Next, navigate to your Mods-Rebellion v1.xXX folder (located in ...Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion)
+ # Right-click the folder and select "SVN Checkout" (NOTE: You will need to repeat this Y times in order to add in all the folders of the mod) 
+ # Set URL of repository: svn://urlhere.com/folder/subfolder and the checkout directory name Sins of a Solar Empire Rebellion\Mods-Rebellion v1.0XX\MOD NAME
+ # Click Ok and let it download. (If the folder is very large:) It is known that at times the download will abort while downloading. If this occurs, run SVN Checkout again, and do not delete the folder you already have, overwrite it instead.
+ # You should now have a full directory with a green checkmark
+ # To update: Just right-click the folders and select "SVN Update".
+
+
+https://dl.dropbox.com/u/5790092/Tutorial/SVN/SVN_Checkout.jpg
+
+https://dl.dropbox.com/u/5790092/Tutorial/SVN/SVN_Checkout_Folder.jpg

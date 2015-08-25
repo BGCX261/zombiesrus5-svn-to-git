@@ -1,0 +1,371 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 32
+brush
+	name "HUDICON_PLANETMODULE_CYLONORBITALFRIGATEFACTORY"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_CYLONORBITALCAPITALSHIPFACTORY"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_CYLONORBITALCULTURECENTER"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_CYLONORBITALHANGARDEFENSE"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_CYLONORBITALMISSILEDEFENSE"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_CYLONORBITALREPAIRPLATFORM"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_CYLONORBITALCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_CYLONORBITALNONCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_CYLONORBITALPHASEGATE"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_CYLONORBITALNANOWEAPONJAMMER"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_CYLONORBITALTRADEPORT"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_CYLONORBITALREFINERY"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_CYLONORBITALMETALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_CYLONORBITALCRYSTALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_CYLONORBITALJUMPBLOCKER"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_CYLONORBITALCANNON"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_CYLONORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 91 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_CYLONORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 121 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_CYLONORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 181 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_CYLONORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 31 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_CYLONORBITALMISSILEDEFENSE"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 1 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_CYLONORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 151 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_CYLONORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 211 , 151 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_CYLONORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 211 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_CYLONORBITALPHASEGATE"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 421 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_CYLONORBITALNANOWEAPONJAMMER"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 451 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_CYLONORBITALTRADEPORT"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 241 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_CYLONORBITALREFINERY"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 331 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_CYLONORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_CYLONORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 391 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_CYLONORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 61 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_CYLONORBITALCANNON"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 271 , 61 , 28 , 28 ]

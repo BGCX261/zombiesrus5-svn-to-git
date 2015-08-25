@@ -1,0 +1,138 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 27
+brush
+	name "MAINVIEWICON_TITAN_HYPLOYALIST"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 463 , 915 , 45 , 25 ]
+brush
+	name "MAINVIEWICON_TITAN_HYPLOYALIST1"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 462 , 947 , 45 , 25 ]
+brush
+	name "MAINVIEWICON_TITAN_HYPREBEL"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 462 , 972 , 45 , 25 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_HYPDESTROYER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 301 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_HYPCOLONY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 1 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_HYPCARRIER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 61 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_HYPBATTLESHIP"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 31 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_HYPSUPPORT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 121 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_HYPSIEGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 91 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_HYPANTIFIGHTER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 91 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_HYPCARRIER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 211 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_HYPCOLONY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 1 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_HYPSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 391 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_HYPHEAVY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 31 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_HYPLIGHT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 241 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_HYPLONGRANGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 271 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_HYPSCOUT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 121 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_HYPSIEGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 61 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_HYPUTILITY0"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_HYPUTILITY1"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 361 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_HYPANTIMODULE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 421 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_HYPMINELAYER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 421 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_HYPMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 181 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADHYPCOMBAT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 181 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADHYPBOMBER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 151 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_TRADESHIP_HYP"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 151 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_REFINERYSHIP_HYP"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 301 , 241 , 28 , 28 ]

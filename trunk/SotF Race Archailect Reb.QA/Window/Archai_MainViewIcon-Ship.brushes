@@ -1,0 +1,118 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 23
+brush
+	name "MAINVIEWICON_CAPITALSHIP_ARCHAICOLONY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 1 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_ARCHAICARRIER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 61 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_ARCHAIBATTLESHIP"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 31 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_ARCHAISUPPORT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 91 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_ARCHAISIEGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 121 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ARCHAIANTIFIGHTER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 91 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ARCHAICARRIER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 211 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ARCHAICOLONY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 1 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ARCHAIHEAVY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 31 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ARCHAILIGHT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 241 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ARCHAILONGRANGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 271 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ARCHAISCOUT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 121 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ARCHAISIEGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 61 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ARCHAISTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 391 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ARCHAIUTILITY0"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ARCHAIUTILITY1"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 361 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ARCHAIMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 181 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ARCHAIANTIMODULE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 421 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADARCHAICOMBAT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 181 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADARCHAIBOMBER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 151 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADARCHAIMINELAYER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 451 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_TRADESHIP_ARCHAI"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 151 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_REFINERYSHIP_ARCHAI"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 301 , 211 , 28 , 28 ]

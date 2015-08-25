@@ -1,0 +1,250 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 49
+brush
+	name "PICTURE_BATTLESTAR_COLONIALGALACTICA"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 2 , 2 , 75 , 167 ]
+brush
+	name "PICTURE_BATTLESTAR_COLONIALTHOR"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 172 , 2 , 75 , 167 ]
+brush
+	name "PICTURE_BATTLESTAR_COLONIALPEGASUS"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 342 , 2 , 75 , 167 ]
+brush
+	name "PICTURE_BATTLESTAR_COLONIALNOVA"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 512 , 2 , 75 , 167 ]
+brush
+	name "PICTURE_BATTLESTAR_COLONIALVALKYRIE"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 682 , 2 , 75 , 167 ]
+brush
+	name "PICTURE_BATTLESTAR_COLONIALFREYJA"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 852 , 2 , 75 , 167 ]
+brush
+	name "PICTURE_BATTLESTAR_COLONIALASGARD"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1022 , 2 , 75 , 167 ]
+brush
+	name "PICTURE_BATTLESTAR_COLONIALFENRIS"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1192 , 2 , 75 , 167 ]
+brush
+	name "PICTURE_BATTLESTAR_COLONIALENTERPRISE"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1362 , 2 , 75 , 167 ]
+brush
+	name "PICTURE_GUNSTAR_COLONIALCYGNUS"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1702 , 2 , 75 , 167 ]
+brush
+	name "PICTURE_GUNSTAR_COLONIALALBERIO"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 172 , 80 , 75 , 167 ]
+brush
+	name "PICTURE_FRIGATE_COLONIALFLATTOP"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 342 , 80 , 75 , 167 ]
+brush
+	name "PICTURE_GUNSTAR_COLONIALTIGER"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 512 , 80 , 75 , 167 ]
+brush
+	name "PICTURE_BATTLESTAR_COLONIALCETUS"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 682 , 80 , 75 , 167 ]
+brush
+	name "PICTURE_BATTLESTAR_COLONIALJUPITER"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 852 , 80 , 75 , 167 ]
+brush
+	name "PICTURE_FRIGATE_COLONIALCLOUD9"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1362 , 80 , 75 , 167 ]
+brush
+	name "PICTURE_STRIKESTAR_COLONIALEURYTION"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1532 , 80 , 75 , 167 ]
+brush
+	name "PICTURE_GUNSTAR_COLONIALDEFENDER"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1702 , 80 , 75 , 167 ]
+brush
+	name "PICTURE_SKIRMISHSTAR_COLONIALVIGILANT"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1872 , 80 , 75 , 167 ]
+brush
+	name "PICTURE_ESCORTSTAR_COLONIALBERZERK"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 2 , 158 , 75 , 167 ]
+brush
+	name "PICTURE_GUNSTAR_COLONIALSENTINAL"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 342 , 158 , 75 , 167 ]
+brush
+	name "PICTURE_FRIGATE_COLONIALSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 512 , 158 , 75 , 167 ]
+brush
+	name "PICTURE_PLANETMODULE_COLONIALORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1022 , 158 , 75 , 167 ]
+brush
+	name "PICTURE_PLANETMODULE_COLONIALORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1192 , 158 , 75 , 167 ]
+brush
+	name "PICTURE_PLANETMODULE_COLONIALORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1362 , 158 , 75 , 167 ]
+brush
+	name "PICTURE_PLANETMODULE_COLONIALORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1532 , 158 , 75 , 167 ]
+brush
+	name "PICTURE_PLANETMODULE_COLONIALORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1702 , 158 , 75 , 167 ]
+brush
+	name "PICTURE_PLANETMODULE_COLONIALORBITALREFINERY"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1872 , 158 , 75 , 167 ]
+brush
+	name "PICTURE_PLANETMODULE_COLONIALORBITALTRADEPORT"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 2 , 233 , 75 , 167 ]
+brush
+	name "PICTURE_PLANETMODULE_COLONIALORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 172 , 236 , 75 , 167 ]
+brush
+	name "PICTURE_STARBASE_COLONIAL"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 342 , 236 , 75 , 167 ]
+brush
+	name "PICTURE_PLANETMODULE_COLONIALORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 512 , 236 , 75 , 167 ]
+brush
+	name "PICTURE_SUPPORTSHIP_COLONIALVIPERMKII"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 682 , 236 , 75 , 167 ]
+brush
+	name "PICTURE_SUPPORTSHIP_COLONIALVIPERMKVII"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 852 , 236 , 75 , 167 ]
+brush
+	name "PICTURE_SUPPORTSHIP_COLONIALVIPERMKI"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1022 , 236 , 75 , 167 ]
+brush
+	name "PICTURE_SUPPORTSHIP_COLONIALRAPTORSCOUT"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1192 , 236 , 75 , 167 ]
+brush
+	name "PICTURE_SUPPORTSHIP_COLONIALRAPTORBOMBER"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1362 , 236 , 75 , 167 ]
+brush
+	name "PICTURE_SUPPORTSHIP_COLONIALSTEALTHBOMBER"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1532 , 236 , 75 , 167 ]
+brush
+	name "PICTURE_PLANETMODULE_COLONIALORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1702 , 236 , 75 , 167 ]
+brush
+	name "PICTURE_PLANETMODULE_COLONIALORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1872 , 236 , 75 , 167 ]
+brush
+	name "PICTURE_PLANETMODULE_COLONIALORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 2 , 236 , 75 , 167 ]
+brush
+	name "PICTURE_PLANETMODULE_COLONIALORBITALDEFENSETURRET"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 172 , 236 , 75 , 167 ]
+brush
+	name "PICTURE_FRIGATE_COLONIALGEMNON"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 342 , 314 , 75 , 167 ]
+brush
+	name "PICTURE_FRIGATE_COLONIALLINER"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 512 , 314 , 75 , 167 ]
+brush
+	name "PICTURE_FRIGATE_COLONIALMOVERS"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 682 , 314 , 75 , 167 ]
+brush
+	name "PICTURE_FRIGATE_COLONIALONE"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 852 , 314 , 75 , 167 ]
+brush
+	name "PICTURE_FRIGATE_COLONIALREFINERYSHIP"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1022 , 314 , 75 , 167 ]
+brush
+	name "PICTURE_CORVETTE_COLONIAL_REBEL"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1192 , 314 , 75 , 167 ]
+brush
+	name "PICTURE_CORVETTE_COLONIAL_LOYALIST"
+	content "Simple"
+	fileName "Colonial_Unit_Picture"
+	pixelBox [ 1362 , 314 , 75 , 167 ]
+
+

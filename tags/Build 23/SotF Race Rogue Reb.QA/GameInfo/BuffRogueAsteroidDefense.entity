@@ -1,0 +1,72 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 2
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName "Buff_EmbargoOnSelf"
+		mediumEffectName "Buff_EmbargoOnSelf"
+		largeEffectName "Buff_EmbargoOnSelf"
+		soundID ""
+instantAction
+	buffInstantActionType "ApplyBuffToTargetsInRadius"
+	instantActionTriggerType "OnBuffFinish"
+	buffType "BuffRogueAsteroidDefenseAOE"
+	targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+		numObjects 4
+		object "CapitalShip"
+		object "Frigate"
+		object "PlanetModule"
+		object "Titan"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	range
+		Level:0 2000.000000
+		Level:1 2500.000000
+		Level:2 3000.000000
+		Level:3 3500.000000
+	maxTargetCount
+		Level:0 -1.000000
+		Level:1 -1.000000
+		Level:2 -1.000000
+		Level:3 -1.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName "TitanAbility_Cherubim_ChasticBurst_Target_Medium"
+		mediumEffectName "TitanAbility_Cherubim_ChasticBurst_Target_Medium"
+		largeEffectName "TitanAbility_Cherubim_ChasticBurst_Target_Large"
+		soundID ""
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "DamageAsDamageTarget"
+	value
+		Level:0 -0.176500
+		Level:1 -0.333300
+		Level:2 -0.538500
+		Level:3 -0.818200
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 30.000000
+		Level:1 35.000000
+		Level:2 40.000000
+		Level:3 45.000000

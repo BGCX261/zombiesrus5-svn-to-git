@@ -1,0 +1,75 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 14
+brush
+	name "INFOCARDICON_PLANET_SINSPLUSCITY01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 258 , 79 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_SINSPLUSCITY02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 258 , 207 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_SINSPLUSVOLCANICDARKSIDE"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 258 , 335 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_SINSPLUSTERRANEARTH"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 258 , 463 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_SINSPLUSFOREST"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 258 , 591 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_SINSPLUSFOREST02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 258 , 719 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_SINSPLUSGRASS"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 258 , 847 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_SINSPLUSINDUSTRIAL01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 258 , 975 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_SINSPLUSINDUSTRIAL02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 765 , 79 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_SINSPLUSPARADISE01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 765 , 207 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_SINSPLUSPARADISE02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 765 , 335 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_SINSPLUSPARADISE03"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 765 , 463 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_SINSPLUSRELIC01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 765 , 591 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_SINSPLUSWATER01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 765 , 719 , 22 , 22 ]
+
+

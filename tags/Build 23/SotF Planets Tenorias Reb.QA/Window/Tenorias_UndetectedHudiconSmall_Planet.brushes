@@ -1,0 +1,80 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 15
+brush
+	name "UNDETECTEDHUDICONSMALL_PLANET_TENORIAS_DESERT_BENDARO"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 10 , 356 , 28 , 28 ]
+brush
+	name "UNDETECTEDHUDICONSMALL_PLANET_TENORIAS_DESERT_CRYOS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 42 , 356 , 28 , 28 ]
+brush
+	name "UNDETECTEDHUDICONSMALL_PLANET_TENORIAS_DUST_A"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 75 , 356 , 28 , 28 ]
+brush
+	name "UNDETECTEDHUDICONSMALL_PLANET_TENORIAS_GAS_FENDAREA"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 108 , 356 , 28 , 28 ]
+brush
+	name "UNDETECTEDHUDICONSMALL_PLANET_TENORIAS_GAS_NEPTUNIAN2"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 140 , 356 , 28 , 28 ]
+brush
+	name "UNDETECTEDHUDICONSMALL_PLANET_TENORIAS_GAS0"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 173 , 356 , 28 , 28 ]
+brush
+	name "UNDETECTEDHUDICONSMALL_PLANET_TENORIAS_GAS1"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 205 , 356 , 28 , 28 ]
+brush
+	name "UNDETECTEDHUDICONSMALL_PLANET_TENORIAS_ICE_JETORION"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 238 , 356 , 28 , 28 ]
+brush
+	name "UNDETECTEDHUDICONSMALL_PLANET_TENORIAS_METAL_PAYNE"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 272 , 356 , 28 , 28 ]
+brush
+	name "UNDETECTEDHUDICONSMALL_PLANET_TENORIAS_TERRAN_LIKE"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 304 , 356 , 28 , 28 ]
+brush
+	name "UNDETECTEDHUDICONSMALL_PLANET_TENORIAS_TERRAN_PORILAD"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 336 , 356 , 28 , 28 ]
+brush
+	name "UNDETECTEDHUDICONSMALL_PLANET_TENORIAS_TERRAN_PORILAD-DA.DDS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 369 , 356 , 28 , 28 ]
+brush
+	name "UNDETECTEDHUDICONSMALL_PLANET_TENORIAS_VOLCANIC_KRAAHKAN"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 401 , 356 , 28 , 28 ]
+brush
+	name "UNDETECTEDHUDICONSMALL_PLANET_TENORIAS_VOLCANIC_PYRUS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 434 , 356 , 28 , 28 ]
+brush
+	name "UNDETECTEDHUDICONSMALL_PLANET_TENORIAS_WATER_AQUAS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 466 , 356 , 28 , 28 ]
+
+

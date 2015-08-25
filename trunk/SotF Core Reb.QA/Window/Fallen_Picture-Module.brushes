@@ -1,0 +1,163 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 32
+brush
+	name "PLANETMODULEPICTURE_PLAGUEORBITALTITANFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1368 , 940 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PIRATEORBITALGAUSSDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 852 , 938 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_NEPHILIMORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 512 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_NEPHILIMORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 682 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_NEPHILIMORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1022 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_NEPHILIMORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 172 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_NEPHILIMORBITALBEAMDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 2 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_NEPHILIMORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 852 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_NEPHILIMORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1192 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_NEPHILIMORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1192 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_NEPHILIMORBITALANTIMATTERRECHARGER"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 682 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_NEPHILIMORBITALREFINERY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1362 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_NEPHILIMORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 342 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_NEPHILIMORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 512 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_NEPHILIMORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 342 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_NEPHILIMORBITALCANNON"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1532 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PLAGUEORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 512 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PLAGUEORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 682 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PLAGUEORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1022 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PLAGUEORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 172 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PLAGUEORBITALMISSILEDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 2 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PLAGUEORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 852 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PLAGUEORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1192 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PLAGUEORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1192 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PLAGUEORBITALPHASEGATE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 682 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PLAGUEORBITALNANOWEAPONJAMMER"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 852 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PLAGUEORBITALTRADEPORT"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1362 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PLAGUEORBITALREFINERY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 172 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PLAGUEORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 342 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PLAGUEORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 512 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PLAGUEORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 342 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PLAGUEORBITALCANNON"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1532 , 314 , 167 , 75 ]

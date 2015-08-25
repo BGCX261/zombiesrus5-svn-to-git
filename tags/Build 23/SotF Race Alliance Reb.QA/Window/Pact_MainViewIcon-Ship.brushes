@@ -1,0 +1,118 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 23
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PACTSIEGE"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 1 , 301 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PACTCOLONY"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 1 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PACTCARRIER"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 61 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PACTBATTLESHIP"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 31 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PACTSUPPORT"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 121 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PACTDESTROYER"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 91 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PACTANTIFIGHTER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 91 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PACTCARRIER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 211 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PACTCOLONY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PACTHEAVY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 31 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PACTLIGHT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 241 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PACTLONGRANGE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 271 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PACTSCOUT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 121 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PACTSIEGE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 61 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PACTUTILITY0"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 331 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PACTUTILITY1"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 361 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PACTMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 181 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PACTSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 391 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PACTANTIMODULE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 421 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADPACTCOMBAT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 181 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADPACTBOMBER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 151 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_TRADESHIP_PACT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 151 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_REFINERYSHIP_PACT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 301 , 181 , 28 , 28 ]

@@ -1,0 +1,62 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyTargettedBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffNephilimMassReferenceSelf"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+numObjects 3
+	object "Frigate"
+	object "CapitalShip"
+	object "Corvette"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 8500.000000
+	Level:1 12000.000000
+	Level:2 0.000000
+	Level:3 -12000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget TRUE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility TRUE
+maxNumLevels 1
+levelSourceType "StarBaseUpgradeLevel"
+sourcePropertyType "AbilityBLevel"
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 150.000000
+	Level:1 150.000000
+	Level:2 0.000000
+	Level:3 -150.000000
+cooldownTime
+	Level:0 180.000000
+	Level:1 150.000000
+	Level:2 0.000000
+	Level:3 -150.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_NEPHILIM_MASSREVERENCE_NAME"
+descStringID "IDS_ABILITY_NEPHILIM_MASSREVERENCE_DESCRIPTION"
+hudIcon "HUDICON_NEPHILIM_ABILITY_MASSREVERENCE"
+smallHudIcon "HUDICON_NEPHILIM_ABILITY_MASSREVERENCE"
+infoCardIcon ""

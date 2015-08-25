@@ -1,0 +1,55 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "CreateSquad"
+instantActionTriggerType "AlwaysPerform"
+squadType "SquadPlagueBomber"
+numSquads
+	Level:0 5.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+expiryTime
+	Level:0 120.000000
+	Level:1 120.000000
+	Level:2 120.000000
+	Level:3 120.000000
+spawnSquadSoundID "EFFECT_DEPLOYCOMBATTURRET"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility TRUE
+maxNumLevels 1
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 5.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 150.000000
+	Level:1 50.000000
+	Level:2 50.000000
+	Level:3 50.000000
+cooldownTime
+	Level:0 120.000000
+	Level:1 120.000000
+	Level:2 120.000000
+	Level:3 120.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_PLAGUE_SPAWNBOMBER_NAME"
+descStringID "IDS_ABILITY_PLAGUE_SPAWNBOMBER_DESCRIPTION"
+hudIcon "HUDICON_PLAGUE_CAPITAL_CARRIER_ABILITY3"
+smallHudIcon "HUDICON_PLAGUE_CAPITAL_CARRIER_ABILITY3"
+infoCardIcon ""

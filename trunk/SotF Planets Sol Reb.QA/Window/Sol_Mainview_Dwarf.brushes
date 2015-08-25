@@ -1,0 +1,85 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 16
+brush
+	name "MAINVIEWICON_DWARF_SOL_TERRAN_EARTH"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 2 , 77 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_DWARF_SOL_PELLUCID_PLUTO"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 2 , 205 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_DWARF_SOL_GAS_SATURN"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 2 , 333 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_DWARF_SOL_GAS_JUPITER1"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 2 , 461 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_DWARF_SOL_GAS_JUPITER2"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 2 , 589 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_DWARF_SOL_ICE01"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 2 , 717 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_DWARF_SOL_TERRAN_EARTH02"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 2 , 845 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_DWARF_SOL_DESERT01"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 2 , 973 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_DWARF_SOL_PRIMORDIAL_VENUS"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 509 , 77 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_DWARF_SOL_METAL_MERCURY"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 509 , 205 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_DWARF_SOL_GAS_URANUS"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 509 , 333 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_DWARF_SOL_GAS_NEPTUNE"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 509 , 461 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_DWARF_SOL_DUST_MARS"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 509 , 589 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_DWARF_SOL_ICE02"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 509 , 717 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_DWARF_SOL_TERRAN01"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 509 , 845 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_DWARF_SOL_TERRAN_EARTH03"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 509 , 973 , 50 , 50 ]
+
+

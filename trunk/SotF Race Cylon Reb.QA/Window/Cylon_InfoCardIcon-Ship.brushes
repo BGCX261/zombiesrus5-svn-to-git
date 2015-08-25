@@ -1,0 +1,123 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 24
+brush
+	name "INFOCARDICON_CAPITALSHIP_CYLONHADES"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 234 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_CYLONCOLONY"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 1 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_CYLONCARRIER"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 47 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_CYLONBATTLESHIP"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 24 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_CYLONSUPPORT"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 93 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_CYLONSIEGE"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 70 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_CYLONANTIFIGHTER"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 70 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_CYLONCARRIER"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 162 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_CYLONCOLONY"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 1 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_CYLONSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 300 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_CYLONHEAVY"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 24 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_CYLONLIGHT"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 185 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_CYLONLONGRANGE"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 208 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_CYLONSCOUT"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 93 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_CYLONSIEGE"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 47 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_CYLONUTILITY0"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 254 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_CYLONUTILITY1"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 277 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_CYLONSPAWN"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 323 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_CYLONMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 139 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TRADESHIP_CYLON"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 116 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_REFINERYSHIP_CYLON"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 231 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADCYLONCOMBAT"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 139 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADCYLONBOMBER"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 116 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_CYLONENVOY"
+	content "Simple"
+	fileName "Cylon_Unit_Infocard"
+	pixelBox [ 231 , 70 , 22 , 22 ]

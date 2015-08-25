@@ -1,0 +1,85 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 16
+brush
+	name "UNDETECTEDICON_PLANET_SOL_TERRAN_EARTH"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 288 , 77 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SOL_PELLUCID_PLUTO"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 288 , 205 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SOL_GAS_SATURN"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 288 , 333 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SOL_GAS_JUPITER1"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 288 , 461 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SOL_GAS_JUPITER2"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 288 , 589 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SOL_ICE01"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 288 , 717 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SOL_TERRAN_EARTH02"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 288 , 845 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SOL_DESERT01"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 288 , 973 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SOL_PRIMORDIAL_VENUS"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 795 , 77 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SOL_METAL_MERCURY"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 795 , 205 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SOL_GAS_URANUS"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 795 , 333 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SOL_GAS_NEPTUNE"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 795 , 461 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SOL_DUST_MARS"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 795 , 589 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SOL_ICE02"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 795 , 717 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SOL_TERRAN01"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 795 , 845 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SOL_TERRAN_EARTH03"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 795 , 973 , 50 , 50 ]
+
+

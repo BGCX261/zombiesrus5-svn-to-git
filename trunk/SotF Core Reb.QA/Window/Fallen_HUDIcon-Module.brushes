@@ -1,0 +1,739 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 64
+brush
+	name "HUDICON_PLANETMODULE_PLAGUETITANFACTORY"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 252 , 434 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 252 , 434 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 252 , 434 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 252 , 434 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 252 , 434 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PLAGUETITANFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 329 , 123 , 28 , 28 ]
+brush
+	name "HUDICON_PLANETMODULE_NEPHILIMORBITALFRIGATEFACTORY"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_NEPHILIMORBITALCAPITALSHIPFACTORY"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_NEPHILIMORBITALCULTURECENTER"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_NEPHILIMORBITALHANGARDEFENSE"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_NEPHILIMORBITALBEAMDEFENSE"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_NEPHILIMORBITALREPAIRPLATFORM"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_NEPHILIMORBITALCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_NEPHILIMORBITALNONCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_NEPHILIMORBITALPOWERRELAY"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_NEPHILIMORBITALANTIMATTERRECHARGER"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_NEPHILIMORBITALREFINERY"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_NEPHILIMORBITALMETALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_NEPHILIMORBITALCRYSTALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_NEPHILIMORBITALJUMPBLOCKER"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_NEPHILIMORBITALCANNON"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PLAGUEORBITALFRIGATEFACTORY"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PLAGUEORBITALCAPITALSHIPFACTORY"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PLAGUEORBITALCULTURECENTER"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PLAGUEORBITALHANGARDEFENSE"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PLAGUEORBITALMISSILEDEFENSE"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PLAGUEORBITALREPAIRPLATFORM"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PLAGUEORBITALCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PLAGUEORBITALNONCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PLAGUEORBITALPHASEGATE"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PLAGUEORBITALNANOWEAPONJAMMER"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PLAGUEORBITALTRADEPORT"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PLAGUEORBITALREFINERY"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PLAGUEORBITALMETALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PLAGUEORBITALCRYSTALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PLAGUEORBITALJUMPBLOCKER"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PLAGUEORBITALCANNON"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_NEPHILIMORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 91 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_NEPHILIMORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 121 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_NEPHILIMORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 181 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_NEPHILIMORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 31 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_NEPHILIMORBITALBEAMDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 1 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_NEPHILIMORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 151 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_NEPHILIMORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 211 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_NEPHILIMORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 211 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_NEPHILIMORBITALPOWERRELAY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 211 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_NEPHILIMORBITALANTIMATTERRECHARGER"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 421 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_NEPHILIMORBITALREFINERY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 241 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_NEPHILIMORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 361 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_NEPHILIMORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 391 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_NEPHILIMORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 61 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_NEPHILIMORBITALCANNON"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 271 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 91 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 121 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 181 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 31 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALMISSILEDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 1 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 151 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 211 , 151 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 211 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALPHASEGATE"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 421 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALNANOWEAPONJAMMER"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 451 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALTRADEPORT"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 241 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALREFINERY"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 331 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 391 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 61 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PLAGUEORBITALCANNON"
+	content "Simple"
+	fileName "Fallen_Unit_Main"
+	pixelBox [ 271 , 61 , 28 , 28 ]

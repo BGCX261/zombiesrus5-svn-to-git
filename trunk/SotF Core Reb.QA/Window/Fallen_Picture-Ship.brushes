@@ -1,0 +1,279 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 55
+brush
+	name "TITANPICTURE_PLAGUE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1199 , 940 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_NEPHILIMCOLONY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 2 , 626 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_NEPHILIMCARRIER"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 342 , 626 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_NEPHILIMBATTLESHIP"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 172 , 626 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_NEPHILIMSUPPORT"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 512 , 626 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_NEPHILIMSIEGE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 682 , 626 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PLAGUECOLONY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 2 , 782 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PLAGUECARRIER"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 342 , 782 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PLAGUEBATTLESHIP"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 172 , 782 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PLAGUESUPPORT"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 682 , 782 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PLAGUESIEGE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 512 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_TRADESHIP_NEPHILIM"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 852 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_TRADESHIP_PLAGUE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 852 , 860 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_NEPHILIMDESTROYER"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1702 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_REFINERYSHIP_PLAGUE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1702 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADNEPHILIMCOMBAT"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1022 , 626 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADNEPHILIMBOMBER"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 852 , 626 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADNEPHILIMMINELAYER"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 852 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADPLAGUECOMBAT"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1022 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADPLAGUEBOMBER"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 852 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_NEPHILIMANTIFIGHTER"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 512 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_NEPHILIMCARRIER"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1192 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_NEPHILIMCOLONY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 2 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_NEPHILIMHEAVY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 172 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_NEPHILIMLIGHT"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1362 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_NEPHILIMLONGRANGE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1532 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_NEPHILIMSCOUT"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 682 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_NEPHILIMSIEGE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 342 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_NEPHILIMSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1532 , 626 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_NEPHILIMUTILITY0"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1702 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_NEPHILIMUTILITY1"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1872 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_NEPHILIMMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1022 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_NEPHILIMANTIMODULE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1702 , 626 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PLAGUEANTIFIGHTER"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 512 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PLAGUECARRIER"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1192 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PLAGUECOLONY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 2 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PLAGUESTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1532 , 781 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PLAGUEHEAVY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 172 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PLAGUELIGHT"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1362 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PLAGUELONGRANGE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1532 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PLAGUESCOUT"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 682 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PLAGUESIEGE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 342 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PLAGUEUTILITY0"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1702 , 392 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PLAGUEUTILITY1"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1872 , 392 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PLAGUESPAWN"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1702 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PLAGUEMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1022 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PIRATEMEDIUM"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 682 , 938 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PIRATEHEAVY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 172 , 938 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PIRATEANTIFIGHTER"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 512 , 938 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PIRATESIEGE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 342 , 938 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PIRATELIGHT"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 2 , 938 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TURRETCOMBAT"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1362 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TURRETSIEGE"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1362 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_NEPHILIMENVOY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1192 , 626 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PLAGUEENVOY"
+	content "Simple"
+	fileName "Fallen_Unit_Picture"
+	pixelBox [ 1192 , 782 , 167 , 75 ]
+	

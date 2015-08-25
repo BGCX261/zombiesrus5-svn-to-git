@@ -1,0 +1,41 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCH_COLONIAL_CULTUREAFTERLIFE"
+smallHudIcon "HUDICON_RESEARCH_COLONIAL_CULTUREAFTERLIFE"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_COLONIAL_CULTUREAFTERLIFE_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_COLONIAL_CULTUREAFTERLIFE_DESCRIPTION"
+researchWindowLocation
+	block 2
+	pos [ 1 , 1 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCHSUBJECT_COLONIAL_PLANETMODULEACCESS_CULTURECENTER"
+			Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 45.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 600.000000
+	metal 50.000000
+	crystal 100.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 1
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 2
+priority 1.000000
+researchBoolModifiers 1
+researchModifier
+	modifierType "ApplyBuffToPlanetAfterColonization"
+	buffToApply "BuffColonialAfterlife"
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

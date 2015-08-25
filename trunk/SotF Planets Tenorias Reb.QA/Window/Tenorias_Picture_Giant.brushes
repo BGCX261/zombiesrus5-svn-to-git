@@ -1,0 +1,75 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 14
+brush
+	name "PICTURE_GIANT_TENORIAS_DESERT_BENDARO"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 340 , 1 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_TENORIAS_DUST_A"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 340 , 129 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_TENORIAS_GAS_NEPTUNIAN2"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 340 , 257 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_TENORIAS_GAS1"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 340 , 385 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_TENORIAS_METAL_PAYNE"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 340 , 513 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_TENORIAS_TERRAN_PORILAD"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 340 , 641 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_TENORIAS_VOLCANIC_PYRUS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 340 , 769 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_TENORIAS_DESERT_CRYOS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 847 , 1 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_TENORIAS_GAS_FENDAREA"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 847 , 129 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_TENORIAS_GAS0"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 847 , 257 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_TENORIAS_ICE_JETORION"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 847 , 385 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_TENORIAS_TERRAN_LIKE"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 847 , 513 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_TENORIAS_VOLCANIC_KRAAHKAN"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 847 , 641 , 167 , 75 ]
+brush
+	name "PICTURE_GIANT_TENORIAS_WATER_AQUAS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 847 , 769 , 167 , 75 ]
+
+

@@ -1,0 +1,25 @@
+﻿TXT
+entityType "CannonShell"
+acceleration 300.000000
+startingSpeed 300.000000
+maxSpeed 12000.000000
+buffToApplyOnImpact "BuffPlagueCannonShell"
+planetImpactEffectName "Ability_OrbitalCannonPlagueSurfaceImpact"
+planetImpactSounds
+	soundCount 1
+	sound "EXPLOSION_CANNONSHELLPHASE"
+planetImpactCameraShakeMaxSize 38000.000000
+planetImpactCameraShakeStrength 1.000000
+planetImpactCameraShakeDuration 0.000000
+meshName "CannonShellPsi"
+mainViewIcon "MainViewIconCannonShellPlague"
+picture "PictureCannonShellPlague"
+nameStringID "IDS_CANNONSHELL_PLAGUE_NAME"
+descStringID "IDS_CANNONSHELL_PLAGUE_DESCRIPTION"
+renderMesh FALSE
+minZoomDistanceMult 4.500000
+hudIcon "HUDIconCannonShellPlague"
+smallHudIcon "HUDIconSmallCannonShellPlague"
+infoCardIcon "HUDIconSmallCannonShellPlague"
+minShadow 0.500000
+maxShadow 0.500000

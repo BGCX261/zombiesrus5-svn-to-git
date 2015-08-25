@@ -1,0 +1,168 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 33
+brush
+	name "INFOCARDICON_PLANETMODULE_PLAGUEORBITALTITANFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 237 , 115 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PIRATEORBITALGAUSSDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 1 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_NEPHILIMORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 70 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_NEPHILIMORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 93 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_NEPHILIMORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 139 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_NEPHILIMORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 24 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_NEPHILIMORBITALBEAMDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 1 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_NEPHILIMORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 116 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_NEPHILIMORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 162 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_NEPHILIMORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 162 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_NEPHILIMORBITALPOWERRELAY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 162 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_NEPHILIMORBITALANTIMATTERRECHARGER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 323 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_NEPHILIMORBITALREFINERY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 185 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_NEPHILIMORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 277 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_NEPHILIMORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 300 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_NEPHILIMORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 47 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_NEPHILIMORBITALCANNON"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 208 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PLAGUEORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 70 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PLAGUEORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 93 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PLAGUEORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 139 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PLAGUEORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 24 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PLAGUEORBITALMISSILEDEFENSE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 1 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PLAGUEORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 116 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PLAGUEORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 162 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PLAGUEORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 162 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PLAGUEORBITALPHASEGATE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 323 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PLAGUEORBITALNANOWEAPONJAMMER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 346 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PLAGUEORBITALTRADEPORT"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 185 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PLAGUEORBITALREFINERY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 254 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PLAGUEORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 277 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PLAGUEORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 300 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PLAGUEORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 47 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_PLAGUEORBITALCANNON"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 208 , 47 , 22 , 22 ]

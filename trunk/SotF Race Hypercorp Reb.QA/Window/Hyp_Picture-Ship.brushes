@@ -1,0 +1,124 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 24
+brush
+	name "CAPITALSHIPPICTURE_HYPCOLONY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 2 , 782 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_HYPCARRIER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 342 , 782 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_HYPBATTLESHIP"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 172 , 782 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_HYPSUPPORT"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 682 , 782 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_HYPSIEGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 512 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_TRADESHIP_HYP"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 852 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_REFINERYSHIP_HYP"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1702 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADHYPCOMBAT"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1022 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADHYPBOMBER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 852 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HYPANTIFIGHTER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 512 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HYPCARRIER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1192 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HYPCOLONY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 2 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HYPSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1532 , 781 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HYPHEAVY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 172 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HYPLIGHT"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1362 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HYPLONGRANGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1532 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HYPSCOUT"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 682 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HYPSIEGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 342 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HYPUTILITY0"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1702 , 392 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HYPUTILITY1"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1872 , 392 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HYPANTIMODULE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1702 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HYPMINELAYER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1702 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HYPMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1022 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HYPENVOY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1192 , 782 , 167 , 75 ]
+	

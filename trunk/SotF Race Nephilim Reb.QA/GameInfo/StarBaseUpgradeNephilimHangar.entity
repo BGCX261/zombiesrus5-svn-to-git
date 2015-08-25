@@ -1,0 +1,84 @@
+﻿TXT
+entityType "StarBaseUpgrade"
+stageCount 4
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADE_NEPHILIM_HANGAR_NAME"
+	descStringID "IDS_STARBASEUPGRADE_NEPHILIM_HANGAR_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_HANGAR0"
+	smallHudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_HANGAR0"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxNumSquads"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADE_NEPHILIM_HANGAR_NAME"
+	descStringID "IDS_STARBASEUPGRADE_NEPHILIM_HANGAR_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_HANGAR0"
+	smallHudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_HANGAR0"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxNumSquads"
+		value 6.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADE_NEPHILIM_HANGAR_NAME"
+	descStringID "IDS_STARBASEUPGRADE_NEPHILIM_HANGAR_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_HANGAR1"
+	smallHudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_HANGAR1"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxNumSquads"
+		value 10.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADE_NEPHILIM_HANGAR_NAME"
+	descStringID "IDS_STARBASEUPGRADE_NEPHILIM_HANGAR_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_HANGAR2"
+	smallHudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_HANGAR2"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxNumSquads"
+		value 14.000000
+	upgradeBoolPropertyCount 0
+xpModifier 25.00000

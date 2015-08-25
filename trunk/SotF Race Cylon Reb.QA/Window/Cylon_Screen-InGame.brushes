@@ -1,0 +1,469 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 52
+brush
+	name "ResearchScreenTabButtonCombatCylon"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 782 , 85 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 268 , 782 , 85 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 782 , 85 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 268 , 782 , 85 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 268 , 782 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonDefenseCylon"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens2_Disabled"
+		pixelBox [ 4 , 249 , 85 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 249 , 85 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens2_CursorOver"
+		pixelBox [ 4 , 249 , 85 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 249 , 85 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 4 , 249 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonNonCombatCylon"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens_Disabled"
+		pixelBox [ 268 , 823 , 85 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 268 , 823 , 85 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens_CursorOver"
+		pixelBox [ 268 , 823 , 85 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 268 , 823 , 85 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 268 , 823 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonDiplomacyCylon"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens2_Disabled"
+		pixelBox [ 530 , 44 , 85 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 530 , 44 , 85 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens2_CursorOver"
+		pixelBox [ 530 , 44 , 85 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 530 , 44 , 85 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens2_Normal"
+		pixelBox [ 530 , 44 , 85 , 38 ]
+brush
+	name "ResearchScreenTabButtonFleetCylon"
+	content "States"
+	Disabled
+		fileName "BSG_Buttons_Screens_Disabled"
+		pixelBox [ 92 , 413 , 85 , 38 ]
+	Pressed
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 92 , 413 , 85 , 38 ]
+	CursorOver
+		fileName "BSG_Buttons_Screens_CursorOver"
+		pixelBox [ 92 , 413 , 85 , 38 ]
+	Focused
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 92 , 413 , 85 , 38 ]
+	Normal
+		fileName "BSG_Buttons_Screens_Normal"
+		pixelBox [ 92 , 413 , 85 , 38 ]
+brush
+	name "ResearchScreenBlockBackdropCombat0Cylon"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 901 , 815 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockBackdropCombat1Cylon"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 901 , 838 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockBackdropCombat2Cylon"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 901 , 861 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockBackdropDefense0Cylon"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 901 , 953 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockBackdropNonCombat0Cylon"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 901 , 884 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockBackdropNonCombat1Cylon"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 901 , 907 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockBackdropNonCombat2Cylon"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 901 , 930 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockTierIndicatorCombat0Cylon"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 924 , 815 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockTierIndicatorCombat1Cylon"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 924 , 838 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockTierIndicatorCombat2Cylon"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 924 , 861 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockTierIndicatorDefense0Cylon"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 924 , 953 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockTierIndicatorNonCombat0Cylon"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 924 , 884 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockTierIndicatorNonCombat1Cylon"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 924 , 907 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockTierIndicatorNonCombat2Cylon"
+	content "Margins"
+	stretchMargins
+		left 18
+		right 1
+		top 18
+		bottom 1
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "Interface0"
+	pixelBox [ 924 , 930 , 20 , 20 ]
+brush
+	name "ResearchScreenBlockBackdropArtifact0Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 471 , 0 , 776 , 631 ]
+brush
+	name "ResearchScreenBlockBackdropFleet0Cylon"
+	content "Simple"
+	fileName "BSG_BackdropInGame"
+	pixelBox [ 1068 , 510 , 784 , 308 ]
+brush
+	name "ResearchScreenBlockBackdropFleet1Cylon"
+	content "Simple"
+	fileName "BSG_BackdropInGame"
+	pixelBox [ 1068 , 510 , 784 , 308 ]
+brush
+	name "ResearchScreenBlockPictureDiplomacyCylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 784 , 833 , 153 , 172 ]
+brush
+	name "ResearchScreenBlockPictureCombat0Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 315 , 3 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureCombat1Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 315 , 135 , 153 , 81 ]
+brush
+	name "ResearchScreenBlockPictureCombat2Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 315 , 219 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureDefense0Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 1094 , 636 , 153 , 172 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat0Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 315 , 351 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat1Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 315 , 615 , 153 , 81 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat2Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 315 , 483 , 153 , 129 ]
+brush
+	name "ResearchScreenBlockPictureNonCombat2CylonRebel"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 159 , 348 , 153 , 129 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture0Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture1Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 1417 , 1628 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture2Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 1215 , 1628 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture3Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 1013 , 1628 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture4Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 811 , 1628 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture5Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 609 , 1628 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture6Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 407 , 1628 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture7Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 205 , 1628 , 199 , 148 ]
+brush
+	name "ResearchScreenCapitalShipSlotLevelPicture8Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 3 , 1628 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture0Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture1Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 1417 , 1779 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture2Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 1215 , 1779 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture3Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 1013 , 1779 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture4Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 811 , 1779 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture5Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 609 , 1779 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture6Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 407 , 1779 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture7Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 205 , 1779 , 199 , 148 ]
+brush
+	name "ResearchScreenShipSlotLevelPicture8Cylon"
+	content "Simple"
+	fileName "BSG_Research"
+	pixelBox [ 3 , 1779 , 199 , 148 ]
+brush
+	name "HUDIconOverlayPlanetBuildShipNotEnoughShipSlotsCylon"
+	content "Simple"
+	fileName "Interface0"
+	pixelBox [ 914 , 314 , 50 , 36 ]
+brush
+	name "HUDIconOverlayPlanetBuildShipNotEnoughCapitalShipSlotsCylon"
+	content "Simple"
+	fileName "Interface0"
+	pixelBox [ 863 , 388 , 50 , 36 ]
+brush
+	name "InfoCardIconFleetUpkeepCylon"
+	content "Simple"
+	fileName "smallicons"
+	pixelBox [ 167 , 121 , 16 , 16 ]
+	

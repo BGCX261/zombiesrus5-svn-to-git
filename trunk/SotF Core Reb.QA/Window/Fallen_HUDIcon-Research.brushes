@@ -1,0 +1,579 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 32
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSNEPHILIM0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 960 , 822 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 960 , 822 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 960 , 822 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 960 , 822 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 960 , 822 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSNEPHILIM1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 896 , 822 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 896 , 822 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 896 , 822 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 896 , 822 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 896 , 822 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSNEPHILIM2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 832 , 822 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 832 , 822 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 832 , 822 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 832 , 822 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 832 , 822 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSNEPHILIM3"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 768 , 822 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 768 , 822 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 768 , 822 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 768 , 822 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 768 , 822 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSNEPHILIM4"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 704 , 822 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 704 , 822 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 704 , 822 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 704 , 822 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 704 , 822 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSNEPHILIM5"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 640 , 822 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 640 , 822 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 640 , 822 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 640 , 822 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 640 , 822 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSNEPHILIM6"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 576 , 822 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 576 , 822 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 576 , 822 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 576 , 822 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 576 , 822 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSNEPHILIM7"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 512 , 822 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 512 , 822 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 512 , 822 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 512 , 822 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 512 , 822 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSPLAGUE0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 960 , 924 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 960 , 924 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 960 , 924 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 960 , 924 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 960 , 924 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSPLAGUE1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 896 , 924 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 896 , 924 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 896 , 924 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 896 , 924 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 896 , 924 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSPLAGUE2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 832 , 924 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 832 , 924 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 832 , 924 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 832 , 924 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 832 , 924 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSPLAGUE3"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 768 , 924 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 768 , 924 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 768 , 924 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 768 , 924 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 768 , 924 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSPLAGUE4"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 704 , 924 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 704 , 924 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 704 , 924 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 704 , 924 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 704 , 924 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSPLAGUE5"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 640 , 924 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 640 , 924 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 640 , 924 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 640 , 924 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 640 , 924 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSPLAGUE6"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 576 , 924 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 576 , 924 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 576 , 924 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 576 , 924 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 576 , 924 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSPLAGUE7"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 512 , 924 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 512 , 924 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 512 , 924 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 512 , 924 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 512 , 924 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSNEPHILIM0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 960 , 873 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 960 , 873 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 960 , 873 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 960 , 873 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 960 , 873 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSNEPHILIM1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 896 , 873 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 896 , 873 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 896 , 873 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 896 , 873 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 896 , 873 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSNEPHILIM2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 832 , 873 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 832 , 873 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 832 , 873 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 832 , 873 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 832 , 873 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSNEPHILIM3"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 768 , 873 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 768 , 873 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 768 , 873 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 768 , 873 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 768 , 873 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSNEPHILIM4"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 704 , 873 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 704 , 873 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 704 , 873 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 704 , 873 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 704 , 873 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSNEPHILIM5"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 640 , 873 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 640 , 873 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 640 , 873 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 640 , 873 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 640 , 873 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSNEPHILIM6"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 576 , 873 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 576 , 873 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 576 , 873 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 576 , 873 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 576 , 873 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSNEPHILIM7"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 512 , 873 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 512 , 873 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 512 , 873 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 512 , 873 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 512 , 873 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSPLAGUE0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 960 , 975 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 960 , 975 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 960 , 975 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 960 , 975 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 960 , 975 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSPLAGUE1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 896 , 975 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 896 , 975 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 896 , 975 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 896 , 975 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 896 , 975 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSPLAGUE2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 832 , 975 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 832 , 975 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 832 , 975 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 832 , 975 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 832 , 975 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSPLAGUE3"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 768 , 975 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 768 , 975 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 768 , 975 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 768 , 975 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 768 , 975 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSPLAGUE4"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 704 , 975 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 704 , 975 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 704 , 975 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 704 , 975 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 704 , 975 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSPLAGUE5"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 640 , 975 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 640 , 975 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 640 , 975 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 640 , 975 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 640 , 975 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSPLAGUE6"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 576 , 975 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 576 , 975 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 576 , 975 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 576 , 975 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 576 , 975 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSPLAGUE7"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 512 , 975 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 512 , 975 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 512 , 975 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 512 , 975 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 512 , 975 , 63 , 48 ]

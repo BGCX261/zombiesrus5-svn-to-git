@@ -1,0 +1,84 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 16
+brush
+	name "MAINVIEWICON_PLANETMODULE_ROGUEORBITALTITANFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 61 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ROGUEORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 91 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ROGUEORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 121 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ROGUEORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 181 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ROGUEORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 31 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ROGUEORBITALGAUSSDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 1 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ROGUEORBITALSHIELDGENERATOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 421 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ROGUEORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 151 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ROGUEORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 211 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ROGUEORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 211 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ROGUEORBITALTRADEPORT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 241 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ROGUEORBITALREFINERY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ROGUEORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 361 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ROGUEORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 391 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ROGUEORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 61 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ROGUEORBITALCANNON"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 271 , 1 , 28 , 28 ]
+	

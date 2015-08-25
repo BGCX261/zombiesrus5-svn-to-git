@@ -1,0 +1,23 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 4
+brush
+	name "PictureCannonShellCylon"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 1702 , 314 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASECYLON"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 1362 , 392 , 167 , 75 ]
+brush
+	name "PictureSpaceMineCylonExplosive"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 2 , 392 , 167 , 75 ]
+brush
+	name "PictureSpaceMineCylonGravity"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 1022 , 392 , 167 , 75 ]

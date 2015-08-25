@@ -1,0 +1,39 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_HYP_LOYALIST_IMPROVEDUPKEEP"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_HYP_LOYALIST_IMPROVEDUPKEEP"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_HYP_LOYALIST_IMPROVEDUPKEEP_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_HYP_LOYALIST_IMPROVEDUPKEEP_DESCRIPTION"
+researchWindowLocation
+	block 2
+	pos [ 6 , 4 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 105.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1600.000000
+	metal 300.000000
+	crystal 475.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 6
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 2
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 1
+researchModifier
+	modifierType "IncomePercLost"
+	baseValue 0.000000
+	perLevelValue -0.075000
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlayBlue"
+dlcId 204880

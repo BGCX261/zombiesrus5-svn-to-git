@@ -1,0 +1,42 @@
+﻿TXT
+entityType "Squad"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+hudIcon "HUDICON_SQUADNEPHILIMCOMBAT"
+smallHudIcon "HUDICONSMALL_SQUADNEPHILIMCOMBAT"
+infoCardIcon "INFOCARDICON_SQUADNEPHILIMCOMBAT"
+fighterEntityDef "FighterNephilimCombat"
+fighterIllusionEntityDef "FighterNephilimCombat"
+scuttleTime 12.000000
+fighterConstructionTime 26.400000
+decayWithoutOwnerRate 0.010000
+baseMaxNumFighters 4
+role "Combat"
+statCountType "SquadCombat"
+mainViewIcon "MAINVIEWICON_SQUADNEPHILIMCOMBAT"
+picture "PICTURE_SQUADNEPHILIMCOMBAT"
+launchIcon "HUDICONLAUNCH_SQUADNEPHILIMCOMBAT"
+dockIcon "HUDICONDOCK_SQUADNEPHILIMCOMBAT"
+nameStringID "IDS_SQUAD_NEPHILIM_COMBAT_NAME"
+descriptionStringID "IDS_SQUAD_NEPHILIM_COMBAT_DESCRIPTION"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+NumSoundsFor:ONATTACKORDERISSUED 1
+SoundID "SQUAD_PSIFIGHTER_ONATTACKORDERISSUED"
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 1
+SoundID "SQUAD_PSIFIGHTER_ONGENERALORDERISSUED"
+NumSoundsFor:ONSELECTED 1
+SoundID "SQUAD_PSIFIGHTER_ONSELECTED"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+minShadow 0.200000
+maxShadow 0.000000
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

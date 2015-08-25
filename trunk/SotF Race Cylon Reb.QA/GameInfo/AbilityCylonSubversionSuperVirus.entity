@@ -1,0 +1,62 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffCylonSubversionSupervirus"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 1
+	object "Frigate"
+	numSpaces 1
+	space "Normal"
+	numConstraints 2
+	constraint "IsControllable"
+	constraint "NotFlagship"
+range
+	Level:0 6000.000000
+	Level:1 7500.000000
+	Level:2 6000.000000
+	Level:3 6000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "Ability_DominationActivate"
+	mediumEffectName "Ability_DominationActivate"
+	largeEffectName "Ability_DominationActivate"
+	soundID "EFFECT_CYLON_VIRUS"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility TRUE
+maxNumLevels 2
+levelSourceType "ResearchWithoutBase"
+improveSourceResearchSubject "RESEARCHSUBJECT_CYLON_HANDOFGOD_SUBVERSIONSUPERVIRUS"
+aiUseTime "OnlyWhenEnemyFleetWillPrevail"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 150.000000
+	Level:1 112.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 300.000000
+	Level:1 300.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_CYLON_SUBVERSIONSUPERVIRUS_NAME"
+descStringID "IDS_ABILITY_CYLON_SUBVERSIONSUPERVIRUS_DESCRIPTION"
+hudIcon "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_SUBVERSIONSUPERVIRUS"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_CYLON_HANDOFGOD_SUBVERSIONSUPERVIRUS"
+infoCardIcon ""

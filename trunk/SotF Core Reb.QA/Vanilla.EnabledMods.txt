@@ -1,0 +1,7 @@
+﻿TXT
+Version 0
+enabledModNameCount 4
+enabledModName "SotF Race Advent Reb.QA"
+enabledModName "SotF Race Tec Reb.QA"
+enabledModName "SotF Race Vasari Reb.QA"
+enabledModName "SotF Core Reb.QA"

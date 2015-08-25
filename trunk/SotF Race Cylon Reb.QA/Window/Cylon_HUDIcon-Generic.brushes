@@ -1,0 +1,82 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 8
+brush
+	name "HUDIconCannonShellCylon"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+brush
+	name "HUDIconSmallCannonShellCylon"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 481 , 61 , 28 , 28 ]
+brush
+	name "HUDIconSpaceMineCylonExplosive"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+brush
+	name "HUDIconSpaceMineCylonGravity"
+	content "States"
+	Disabled
+		fileName "Cylon_Unit_Hud_Disabled"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Cylon_Unit_Hud_Pressed"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Cylon_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+	Focused
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+	Normal
+		fileName "Cylon_Unit_Hud_Normal"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+brush
+	name "HUDIconSmallSpaceMineCylonExplosive"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 301 , 61 , 28 , 28 ]
+brush
+	name "HUDIconSmallSpaceMineCylonGravity"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 451 , 241 , 28 , 28 ]
+brush
+	name "HUDIconOverlayPlanetBuildShipNotEnoughShipSlotsCylon"
+	content "Simple"
+	fileName "Interface0"
+	pixelBox [ 965 , 351 , 50 , 36 ]
+brush
+	name "HUDIconOverlayPlanetBuildShipNotEnoughCapitalShipSlotsCylon"
+	content "Simple"
+	fileName "Interface0"
+	pixelBox [ 965 , 388 , 50 , 36 ]

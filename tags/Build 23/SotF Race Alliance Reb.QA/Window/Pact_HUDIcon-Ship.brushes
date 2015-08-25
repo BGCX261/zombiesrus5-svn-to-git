@@ -1,0 +1,637 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 54
+brush
+	name "HUDICON_CAPITALSHIP_PACTDESTROYER"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 6 , 434 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 6 , 434 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 434 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 6 , 434 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 6 , 434 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_PACTCOLONY"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 6 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 6 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 224 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 6 , 224 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 6 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_PACTCARRIER"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 104 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 104 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 224 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 104 , 224 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 104 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_PACTBATTLESHIP"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 55 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 55 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 224 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 55 , 224 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 55 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_PACTSUPPORT"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_PACTSIEGE"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 153 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 153 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 224 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 153 , 224 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 153 , 224 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_PACTCOLONY"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 1 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_PACTCARRIER"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 61 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_PACTBATTLESHIP"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 31 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_PACTSUPPORT"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 121 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_PACTDESTROYER"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 91 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_PACTSIEGE"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 1 , 301 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_PACTANTIFIGHTER"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PACTANTIMODULE"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 153 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 153 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 469 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 153 , 469 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 153 , 469 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PACTCARRIER"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 349 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 349 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 329 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 349 , 329 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 349 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PACTCOLONY"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 6 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 6 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 329 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 6 , 329 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 6 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PACTHEAVY"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 55 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 55 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 329 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 55 , 329 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 55 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PACTLIGHT"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 398 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 398 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 329 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 398 , 329 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 398 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PACTLONGRANGE"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PACTSCOUT"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 202 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 202 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 329 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 202 , 329 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 202 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PACTSIEGE"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 104 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 104 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 329 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 104 , 329 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 104 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PACTUTILITY0"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 55 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 55 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 14 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 55 , 14 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 55 , 14 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PACTUTILITY1"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 104 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 104 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 14 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 104 , 14 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 104 , 14 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PACTMODULECONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PACTSTARBASECONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PACTANTIFIGHTER"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 91 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PACTANTIMODULE"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 421 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PACTCARRIER"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 211 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PACTCOLONY"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 1 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PACTHEAVY"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 31 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PACTLIGHT"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 241 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PACTLONGRANGE"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 271 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PACTSCOUT"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 121 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PACTSIEGE"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 61 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PACTUTILITY0"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 331 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PACTUTILITY1"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 361 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PACTMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 181 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PACTSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 391 , 181 , 28 , 28 ]
+brush
+	name "HUDICON_SQUADPACTCOMBAT"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 300 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 300 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 224 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 300 , 224 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 300 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADPACTBOMBER"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 251 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 251 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 224 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 251 , 224 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 251 , 224 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADPACTCOMBAT"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled"
+		pixelBox [ 260 , 31 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed"
+		pixelBox [ 260 , 31 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver"
+		pixelBox [ 260 , 31 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 260 , 31 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 260 , 31 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADPACTBOMBER"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled"
+		pixelBox [ 260 , 68 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed"
+		pixelBox [ 260 , 68 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver"
+		pixelBox [ 260 , 68 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 260 , 68 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 260 , 68 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADPACTCOMBAT"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADPACTBOMBER"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_SQUADPACTCOMBAT"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 181 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUADPACTBOMBER"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 151 , 91 , 28 , 28 ]
+brush
+	name "HUDICON_TRADESHIP_PACT"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_TRADESHIP_PACT"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 151 , 181 , 28 , 28 ]
+brush
+	name "HUDICON_REFINERYSHIP_PACT"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_REFINERYSHIP_PACT"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 301 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_REFINERYSHIP_RACE2"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 301 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_REFINERYSHIP_RACE3"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 301 , 241 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_PACTENVOY"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 300 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 300 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 469 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 300 , 469 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 300 , 469 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PACTENVOY"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 361 , 91 , 28 , 28 ]

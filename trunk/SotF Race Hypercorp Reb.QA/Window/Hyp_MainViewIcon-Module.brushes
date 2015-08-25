@@ -1,0 +1,89 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 17
+brush
+	name "MAINVIEWICON_PLANETMODULE_HYPORBITALTITANFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 305 , 121 , 41 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_HYPORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 91 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_HYPORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 121 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_HYPORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 181 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_HYPORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 31 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_HYPORBITALGAUSSDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 1 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_HYPORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 151 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_HYPORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 211 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_HYPORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 211 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_HYPORBITALPHASEGATE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 421 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_HYPORBITALNANOWEAPONJAMMER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 451 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_HYPORBITALTRADEPORT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 241 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_HYPORBITALREFINERY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_HYPORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_HYPORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 391 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_HYPORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 61 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_HYPORBITALCANNON"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 271 , 61 , 28 , 28 ]
+	

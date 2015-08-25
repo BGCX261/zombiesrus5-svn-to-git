@@ -1,0 +1,100 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 19
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_DESERT0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 171 , 77 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_GAS0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 678 , 77 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_GAS1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 171 , 205 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_HALIDE0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 678 , 205 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_HALIDE1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 171 , 333 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_ICE0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 678 , 333 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_ICE1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 171 , 461 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_ICE2"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 678 , 461 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_PLUTONIC0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 171 , 589 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_PLUTONIC1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 678 , 589 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_PURPLE0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 171 , 717 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_RADIOACTIVE0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 678 , 717 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_ROCK0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 171 , 845 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_ROCK1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 678 , 845 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_ROCK2"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 171 , 973 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_ULTRAVIOLET0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 678 , 973 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_ULTRAVIOLET1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 171 , 1101 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_VOLCANIC0"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 678 , 1101 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_RIGEL_VOLCANIC1"
+	content "Simple"
+	fileName "Rigel_Icons_Planets"
+	pixelBox [ 171 , 1229 , 50 , 50 ]
+
+

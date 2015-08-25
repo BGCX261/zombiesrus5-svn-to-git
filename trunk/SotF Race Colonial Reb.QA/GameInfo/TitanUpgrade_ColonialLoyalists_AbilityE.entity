@@ -1,0 +1,48 @@
+﻿TXT
+entityType "TitanUpgrade"
+stageCount 3
+stage
+	nameStringID "IDS_ABILITY_COLONIAL_TITAN_FLEETCIC_NAME"
+	descStringID "IDS_ABILITY_COLONIAL_TITAN_FLEETCIC_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement -1
+	hudIcon "HUDICON_ABILITY_COLONIAL_FLEETCIC"
+	smallHudIcon "HUDICON_ABILITY_COLONIAL_FLEETCIC"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_ABILITY_COLONIAL_TITAN_FLEETCIC_NAME"
+	descStringID "IDS_ABILITY_COLONIAL_TITAN_FLEETCIC_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 5
+	hudIcon "HUDICON_ABILITY_COLONIAL_FLEETCIC"
+	smallHudIcon "HUDICON_ABILITY_COLONIAL_FLEETCIC"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityELevel"
+		value 1.000000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_ABILITY_COLONIAL_TITAN_FLEETCIC_NAME"
+	descStringID "IDS_ABILITY_COLONIAL_TITAN_FLEETCIC_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 7
+	hudIcon "HUDICON_ABILITY_COLONIAL_FLEETCIC"
+	smallHudIcon "HUDICON_ABILITY_COLONIAL_FLEETCIC"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityELevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0

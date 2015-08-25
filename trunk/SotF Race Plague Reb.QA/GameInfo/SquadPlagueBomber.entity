@@ -1,0 +1,42 @@
+﻿TXT
+entityType "Squad"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+hudIcon "HUDICON_SQUADPLAGUEBOMBER"
+smallHudIcon "HUDICONSMALL_SQUADPLAGUEBOMBER"
+infoCardIcon "INFOCARDICON_SQUADPLAGUEBOMBER"
+fighterEntityDef "FighterPlagueBomber"
+fighterIllusionEntityDef "FighterPlagueBomber"
+scuttleTime 9.000000
+fighterConstructionTime 19.799999
+decayWithoutOwnerRate 0.010000
+baseMaxNumFighters 7
+role "Bomber"
+statCountType "SquadBomber"
+mainViewIcon "MAINVIEWICON_SQUADPLAGUEBOMBER"
+picture "PICTURE_SQUADPLAGUEBOMBER"
+launchIcon "HUDICONLAUNCH_SQUADPLAGUEBOMBER"
+dockIcon "HUDICONDOCK_SQUADPLAGUEBOMBER"
+nameStringID "IDS_SQUAD_PLAGUE_BOMBER_NAME"
+descriptionStringID "IDS_SQUAD_PLAGUE_BOMBER_DESCRIPTION"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+NumSoundsFor:ONATTACKORDERISSUED 1
+SoundID "SQUAD_PLAGUEBOMBER_ONATTACKORDERISSUED_0"
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 1
+SoundID "SQUAD_PLAGUEBOMBER_ONGENERALORDERISSUED_0"
+NumSoundsFor:ONSELECTED 1
+SoundID "SQUAD_PLAGUEBOMBER_ONSELECTED_0"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+minShadow 0.500000
+maxShadow 0.000000
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

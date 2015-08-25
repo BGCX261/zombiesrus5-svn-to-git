@@ -1,0 +1,250 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 49
+brush
+	name "INFOCARDICON_BATTLESTAR_COLONIALGALACTICA"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 1 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_BATTLESTAR_COLONIALTHOR"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 24 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_BATTLESTAR_COLONIALPEGASUS"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 47 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_BATTLESTAR_COLONIALNOVA"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 70 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_BATTLESTAR_COLONIALVALKYRIE"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 93 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_BATTLESTAR_COLONIALFREYJA"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 116 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_BATTLESTAR_COLONIALASGARD"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 139 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_BATTLESTAR_COLONIALFENRIS"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 162 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_BATTLESTAR_COLONIALENTERPRISE"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 185 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_GUNSTAR_COLONIALCYGNUS"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 1 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_GUNSTAR_COLONIALALBERIO"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 70 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_COLONIALFLATTOP"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 93 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_GUNSTAR_COLONIALTIGER"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 116 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_BATTLESTAR_COLONIALCETUS"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 139 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_BATTLESTAR_COLONIALJUPITER"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 162 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_COLONIALCLOUD9"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 1 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STRIKESTAR_COLONIALEURYTION"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 24 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_GUNSTAR_COLONIALDEFENDER"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 47 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SKIRMISHSTAR_COLONIALVIGILANT"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 70 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_ESCORTSTAR_COLONIALBERZERK"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 93 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_GUNSTAR_COLONIALSENTINAL"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 139 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_COLONIALSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 162 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_COLONIALORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 1 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_COLONIALORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 24 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_COLONIALORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 47 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_COLONIALORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 70 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_COLONIALORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 93 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_COLONIALORBITALREFINERY"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 116 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_COLONIALORBITALTRADEPORT"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 139 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_COLONIALORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 162 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STARBASE_COLONIAL"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 185 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_COLONIALORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 208 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SUPPORTSHIP_COLONIALVIPERMKII"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 1 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SUPPORTSHIP_COLONIALVIPERMKVII"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 24 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SUPPORTSHIP_COLONIALVIPERMKI"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 47 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SUPPORTSHIP_COLONIALRAPTORSCOUT"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 70 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SUPPORTSHIP_COLONIALRAPTORBOMBER"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 93 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SUPPORTSHIP_COLONIALSTEALTHBOMBER"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 116 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_COLONIALORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 139 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_COLONIALORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 162 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_COLONIALORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 185 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_COLONIALORBITALDEFENSETURRET"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 208 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_COLONIALGEMNON"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 1 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_COLONIALLINER"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 24 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_COLONIALMOVERS"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 47 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_COLONIALONE"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 70 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_COLONIALREFINERYSHIP"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 93 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CORVETTE_COLONIAL_REBEL"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 116 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CORVETTE_COLONIAL_LOYALIST"
+	content "Simple"
+	fileName "Colonial_Unit_Infocard"
+	pixelBox [ 139 , 116 , 22 , 22 ]
+
+

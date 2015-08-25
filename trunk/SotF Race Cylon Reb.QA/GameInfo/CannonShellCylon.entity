@@ -1,0 +1,25 @@
+﻿TXT
+entityType "CannonShell"
+acceleration 400.000000
+startingSpeed 400.000000
+maxSpeed 10000.000000
+buffToApplyOnImpact "BuffCylonCannonShellSpawn"
+planetImpactEffectName "Ability_OrbitalCannonPhaseSurfaceImpact"
+planetImpactSounds
+	soundCount 1
+	sound "EXPLOSION_CANNONSHELLTECH"
+planetImpactCameraShakeMaxSize 38000.000000
+planetImpactCameraShakeStrength 1.000000
+planetImpactCameraShakeDuration 0.000000
+meshName "CannonShellPhase"
+mainViewIcon "MainViewIconCannonShellCylon"
+picture "PictureCannonShellCylon"
+nameStringID "IDS_CANNONSHELLCYLON_NAME"
+descStringID "IDS_CANNONSHELLCYLON_DESC"
+renderMesh TRUE
+minZoomDistanceMult 4.500000
+hudIcon "HUDIconCannonShellCylon"
+smallHudIcon "HUDIconSmallCannonShellCylon"
+infoCardIcon "HUDIconSmallCannonShellCylon"
+minShadow 0.500000
+maxShadow 0.500000

@@ -1,0 +1,104 @@
+﻿TXT
+entityType "StarBaseUpgrade"
+stageCount 4
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADE_NEPHILIM_WEAPONS0_NAME"
+	descStringID "IDS_STARBASEUPGRADE_NEPHILIM_WEAPONS0_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_WEAPONS0"
+	smallHudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_WEAPONS0"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADE_NEPHILIM_WEAPONS1_NAME"
+	descStringID "IDS_STARBASEUPGRADE_NEPHILIM_WEAPONS1_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_WEAPONS0"
+	smallHudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_WEAPONS0"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponUpgradeLevel"
+		value 1.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADE_NEPHILIM_WEAPONS1_NAME"
+	descStringID "IDS_STARBASEUPGRADE_NEPHILIM_WEAPONS1_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_WEAPONS1"
+	smallHudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_WEAPONS1"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponUpgradeLevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADE_NEPHILIM_WEAPONS1_NAME"
+	descStringID "IDS_STARBASEUPGRADE_NEPHILIM_WEAPONS1_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCHSUBJECT_RESEARCHACCESS_NEPHILIM5"
+			Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_WEAPONS1"
+	smallHudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_WEAPONS1"
+	infoCardIcon ""
+	upgradePropertyCount 7
+	upgradeProperty
+		propertyType "WeaponUpgradeLevel"
+		value 2.000000
+	upgradeProperty
+		propertyType "Population"
+		value 50.000000
+	upgradeProperty
+		propertyType "BaseTradeIncomeRate"
+		value 0.75000
+	upgradeProperty
+		propertyType "CultureSpreadRate"
+		value 1.750000
+	upgradeProperty
+		propertyType "EnemyCultureRepelRate"
+		value 0.500000
+	upgradeProperty
+		propertyType "AbilityALevel"
+		value 1.000000
+	upgradeProperty
+		propertyType "AbilityBLevel"
+		value 1.000000
+	upgradeBoolPropertyCount 2
+	upgradeBoolProperty "CanPreventEnemyColonize"
+	upgradeBoolProperty "CanPreventPlanetLossByBombing"
+xpModifier 25.00000

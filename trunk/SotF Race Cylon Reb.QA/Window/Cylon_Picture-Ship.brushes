@@ -1,0 +1,124 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 24
+brush
+	name "CAPITALSHIPPICTURE_CYLONCOLONY"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 2 , 782 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_CYLONCARRIER"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 342 , 782 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_CYLONBATTLESHIP"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 172 , 782 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_CYLONSUPPORT"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 682 , 782 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_CYLONSIEGE"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 512 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_TRADESHIP_CYLON"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 852 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_REFINERYSHIP_CYLON"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 1702 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADCYLONCOMBAT"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 1022 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADCYLONBOMBER"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 852 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CYLONANTIFIGHTER"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 512 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CYLONCARRIER"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 1192 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CYLONCOLONY"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 2 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CYLONSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 1532 , 781 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CYLONHEAVY"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 172 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CYLONLIGHT"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 1362 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CYLONLONGRANGE"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 1532 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CYLONSCOUT"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 682 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CYLONSIEGE"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 342 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CYLONUTILITY0"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 1702 , 392 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CYLONUTILITY1"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 1872 , 392 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CYLONSPAWN"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 1702 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CYLONMINELAYER"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 1702 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CYLONMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 1022 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CYLONENVOY"
+	content "Simple"
+	fileName "Cylon_Unit_Picture"
+	pixelBox [ 1192 , 782 , 167 , 75 ]
+	

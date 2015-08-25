@@ -1,0 +1,83 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 16
+brush
+	name "MainViewIconFleetCylon0"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 331 , 661 , 32 , 31 ]
+brush
+	name "MainViewIconFleetCylon1"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 331 , 694 , 32 , 31 ]
+brush
+	name "MainViewIconFleetCylon2"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 331 , 727 , 32 , 31 ]
+brush
+	name "MainViewIconFleetCylon3"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 331 , 760 , 32 , 31 ]
+brush
+	name "MainViewIconFleetCylon4"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 331 , 793 , 32 , 31 ]
+brush
+	name "MainViewIconFleetCylon5"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 331 , 826 , 32 , 31 ]
+brush
+	name "MainViewIconFleetCylon6"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 331 , 859 , 32 , 31 ]
+brush
+	name "MainViewIconFleetCylon7"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 331 , 892 , 32 , 31 ]
+brush
+	name "MainViewIconFleetCylon8"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 331 , 925 , 32 , 31 ]
+brush
+	name "MainViewIconFleetCylon9"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 331 , 958 , 32 , 31 ]
+brush
+	name "MainViewIconCannonShellCylon"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 481 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_TITAN_CYLONREBEL"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 1 , 871 , 39 , 39 ]
+brush
+	name "MAINVIEWICON_TITAN_CYLONLOYALIST"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 42 , 871 , 39 , 39 ]
+brush
+	name "MainViewIconStarBaseCylon"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 83 , 871 , 39 , 39 ]
+brush
+	name "MainViewIconSpaceMineCylonExplosive"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 301 , 61 , 28 , 28 ]
+brush
+	name "MainViewIconSpaceMineCylonGravity"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 451 , 241 , 28 , 28 ]

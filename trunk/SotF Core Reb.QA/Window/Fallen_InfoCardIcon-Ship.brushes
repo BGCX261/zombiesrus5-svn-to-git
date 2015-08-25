@@ -1,0 +1,308 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 61
+brush
+	name "INFOCARDICON_FRIGATE_PLAGUEENVOY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 232 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_NEPHILIMENVOY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 253 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TITAN_PLAGUE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 259 , 115 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PHASEDESTROYER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 24 , 231 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PSIDESTROYER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 70 , 231 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_TECHDESTROYER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 47 , 231 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_NEPHILIMCOLONY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 1 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_NEPHILIMCARRIER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 47 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_NEPHILIMBATTLESHIP"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 24 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_NEPHILIMSUPPORT"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 70 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_NEPHILIMSIEGE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 93 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PLAGUECOLONY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 1 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PLAGUECARRIER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 47 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PLAGUEBATTLESHIP"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 24 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PLAGUESUPPORT"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 93 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PLAGUESIEGE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 70 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_NEPHILIMANTIFIGHTER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 70 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_NEPHILIMANTIMODULE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 323 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_NEPHILIMCARRIER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 162 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_NEPHILIMCOLONY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 1 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_NEPHILIMHEAVY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 24 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_NEPHILIMLIGHT"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 185 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_NEPHILIMLONGRANGE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 208 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_NEPHILIMSCOUT"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 93 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_NEPHILIMSIEGE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 47 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_NEPHILIMSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 300 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_NEPHILIMUTILITY0"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 254 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_NEPHILIMUTILITY1"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 277 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_NEPHILIMMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 139 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PLAGUEANTIFIGHTER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 70 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PLAGUECARRIER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 162 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PLAGUECOLONY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 1 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PLAGUESTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 300 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PLAGUEHEAVY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 24 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PLAGUELIGHT"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 185 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PLAGUELONGRANGE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 208 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PLAGUESCOUT"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 93 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PLAGUESIEGE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 47 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PLAGUEUTILITY0"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 254 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PLAGUEUTILITY1"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 277 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PLAGUESPAWN"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 323 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PLAGUEMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 139 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PIRATEMEDIUM"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 93 , 231 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PIRATEHEAVY"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 24 , 231 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PIRATEANTIFIGHTER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 70 , 231 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PIRATESIEGE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 47 , 231 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PIRATELIGHT"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 1 , 231 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TURRETCOMBAT"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 185 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TURRETSIEGE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 185 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TRADESHIP_NEPHILIM"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 116 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TRADESHIP_PLAGUE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 116 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_NEPHILIMDESTROYER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 231 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_REFINERYSHIP_PLAGUE"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 231 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADNEPHILIMCOMBAT"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 139 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADNEPHILIMBOMBER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 116 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADNEPHILIMMINELAYER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 346 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADPLAGUECOMBAT"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 139 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADPLAGUEBOMBER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 116 , 116 , 22 , 22 ]
+brush
+	name "CAPITALSHIPPICTURE_PHASEDESTROYER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 116 , 116 , 22 , 22 ]
+brush
+	name "CAPITALSHIPPICTURE_PSIDESTROYER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 254 , 70 , 22 , 22 ]
+brush
+	name "CAPITALSHIPPICTURE_TECHDESTROYER"
+	content "Simple"
+	fileName "Fallen_Unit_Infocard"
+	pixelBox [ 231 , 70 , 22 , 22 ]

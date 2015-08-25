@@ -1,0 +1,18 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 3
+brush
+	name "MainViewIconCannonShellPact"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 481 , 1 , 28 , 28 ]
+brush
+	name "MainViewIconStarBasePact"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 1 , 871 , 39 , 39 ]
+brush
+	name "MainViewIconSpaceMinePact"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 301 , 1 , 28 , 28 ]

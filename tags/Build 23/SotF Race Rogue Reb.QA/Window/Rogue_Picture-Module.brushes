@@ -1,0 +1,78 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 15
+brush
+	name "PLANETMODULEPICTURE_ROGUEORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 512 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ROGUEORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 682 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ROGUEORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1022 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ROGUEORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 172 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ROGUEORBITALGAUSSDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 2 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ROGUEORBITALSHIELDGENERATOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 682 , 80 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ROGUEORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 852 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ROGUEORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1192 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ROGUEORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1192 , 80 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ROGUEORBITALTRADEPORT"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1362 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ROGUEORBITALREFINERY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 172 , 85 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ROGUEORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 342 , 80 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ROGUEORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 512 , 80 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ROGUEORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 342 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ROGUEORBITALCANNON"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1532 , 2 , 167 , 75 ]

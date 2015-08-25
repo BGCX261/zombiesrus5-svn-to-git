@@ -1,0 +1,277 @@
+﻿TXT
+entityType "CapitalShip"
+ability:0 "AbilityPlagueRazePlanet"
+ability:1 "AbilityPlagueInfectionBurst"
+ability:2 "AbilityPlagueDisruptiveStrikes"
+ability:3 "AbilityPlagueVolatileInfection"
+ability:4 "AbilityPlagueCapitalGrowthStage"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb TRUE
+hasBombingLevels FALSE
+baseDamage 50.000000
+basePopulationKilled 2.500000
+bombingFreqTime 10.000000
+baseRange 5000.000000
+bombTransitTime 4.000000
+bombEffectCount 2
+bombEffectAngleVariance 2.500000
+bombEffectsDef
+	weaponType "Projectile"
+	burstCount 1
+	burstDelay 0.000000
+	fireDelay 0.000000
+	muzzleEffectName "Weapon_PlaguePlanetBombing_Muzzle"
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds
+		soundCount 1
+		sound ""
+	hitEffectName "Weapon_PlaguePlanetBombing_Hit"
+	hitHullEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	hitShieldsEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	projectileTravelEffectName "Weapon_PlaguePlanetBombing_Travel"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_PLAGUESIEGE"
+basePrice
+	credits 3000.000000
+	metal 400.000000
+	crystal 250.000000
+slotCount 50.000000
+BuildTime 75.000000
+MaxHullPoints
+	StartValue 2110.000000
+	ValueIncreasePerLevel 135.000000
+MaxShieldPoints
+	StartValue 1250.000000
+	ValueIncreasePerLevel 85.000000
+HullPointRestoreRate
+	StartValue 1.500000
+	ValueIncreasePerLevel 0.100000
+ShieldPointRestoreRate
+	StartValue 3.000000
+	ValueIncreasePerLevel 0.200000
+ArmorPointsFromExperience
+	StartValue 4.000000
+	ValueIncreasePerLevel 0.395000
+maxMitigation
+	StartValue 0.650000
+	ValueIncreasePerLevel 0.011110
+MaxAntiMatter
+	StartValue 225.000000
+	ValueIncreasePerLevel 30.000000
+AntiMatterRestoreRate
+	StartValue 0.900000
+	ValueIncreasePerLevel 0.090000
+CultureProtectRate
+	StartValue 0.300000
+	ValueIncreasePerLevel 0.050000
+NameStringID "IDS_CAPITALSHIP_PLAGUE_SIEGE_NAME"
+DescriptionStringID "IDS_CAPITALSHIP_PLAGUE_SIEGE_DESCRIPTION"
+picture "CAPITALSHIPPICTURE_PLAGUESIEGE"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+roleType "Invalid"
+statCountType "CapitalShipUtility0"
+numRandomDebrisLarge 5
+numRandomDebrisSmall 18
+numSpecificDebris 0
+armorType "CapitalShip"
+hudIcon "HUDICON_CAPITALSHIP_PLAGUESIEGE"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_PLAGUESIEGE"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_PLAGUESIEGE"
+minZoomDistanceMult 0.750000
+NumWeapons 3
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "PLANETBOMBARDMENT"
+	DamagePerBank:FRONT 168.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 5000.000000
+	PreBuffCooldownTime 7.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.000000
+	TravelSpeed 3600.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.500000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PlagueCapitalBileHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_PLAGUECAPITALBILEHEAVY_MUZZLE"
+		hitEffectName "Weapon_PlagueCapitalBileHeavy_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_PlagueCapitalBileHeavy_Travel"
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "OVERTIME"
+		DamageType "ENERGY"
+		WeaponClassType "PLASMA"
+	DamagePerBank:FRONT 95.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 5000.000000
+	PreBuffCooldownTime 5.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.400000
+	TravelSpeed 2000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.600000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PlagueCapitalBioPlasmaHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_PLAGUECAPITALPLASMAHEAVY_MUZZLE"
+			sound "WEAPON_PLAGUECAPITALPLASMAHEAVY_MUZZLE_ALT1"
+			sound "WEAPON_PLAGUECAPITALPLASMAHEAVY_MUZZLE_ALT2"
+		hitEffectName "Weapon_PlagueCapitalBioPlasmaHeavy_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_PlagueCapitalBioPlasmaHeavy_Travel"
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 121.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 51.000000
+	DamagePerBank:RIGHT 51.000000
+	Range 5500.000000
+	PreBuffCooldownTime 7.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.080000
+	TravelSpeed 1000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 2
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PlagueCapitalMissileHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_PLAGUECAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_PLAGUECAPITALMISSILEHEAVY_MUZZLE_ALT1"
+		hitEffectName "Weapon_PlagueCapitalMissileHeavy_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_PlagueCapitalMissileHeavy_Travel"
+		missileStartTurningDistance 100.000000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 3.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures FALSE
+mass 10000.000000
+ShieldMeshName "Shield_PlagueSiege"
+renderShield TRUE
+maxAccelerationLinear 100.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 1.000000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 525.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 "SquadPlagueCombat"
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 "SquadPlagueBomber"
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumSoundsFor:ONATTACKORDERISSUED 2
+SoundID "CAPITALSHIP_PLAGUESIEGE_ONATTACKORDERISSUED_0"
+SoundID "CAPITALSHIP_PLAGUESIEGE_ONATTACKORDERISSUED_1"
+NumSoundsFor:ONCREATION 1
+SoundID "CAPITALSHIP_PLAGUESIEGE_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 2
+SoundID "CAPITALSHIP_PLAGUESIEGE_ONGENERALORDERISSUED_0"
+SoundID "CAPITALSHIP_PLAGUESIEGE_ONGENERALORDERISSUED_1"
+NumSoundsFor:ONSELECTED 2
+SoundID "CAPITALSHIP_PLAGUESIEGE_ONSELECTED_0"
+SoundID "CAPITALSHIP_PLAGUESIEGE_ONSELECTED_1"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "CAPITALSHIP_PLAGUE_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "CapitalShip_PlagueSiege"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_PlagueSiege"
+ExplosionName "CapitalShip0"
+CommandPoints
+	StartValue 0.500000
+	ValueIncreasePerLevel 0.100000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.030000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.050000
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_PHASECAPITALSHIP"
+formationRank 1
+minShadow 0.550000
+maxShadow 1.000000

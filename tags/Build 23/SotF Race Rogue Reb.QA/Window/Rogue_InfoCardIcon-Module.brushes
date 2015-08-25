@@ -1,0 +1,83 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 16
+brush
+	name "INFOCARDICON_PLANETMODULE_ROGUEORBITALTITANFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 47 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ROGUEORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 70 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ROGUEORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 93 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ROGUEORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 139 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ROGUEORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 24 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ROGUEORBITALGAUSSDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 1 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ROGUEORBITALSHIELDGENERATOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 323 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ROGUEORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 116 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ROGUEORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 162 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ROGUEORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 162 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ROGUEORBITALTRADEPORT"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 185 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ROGUEORBITALREFINERY"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 254 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ROGUEORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 277 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ROGUEORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 300 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ROGUEORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 47 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ROGUEORBITALCANNON"
+	content "Simple"
+	fileName "Transhuman_Unit_Infocard"
+	pixelBox [ 208 , 1 , 22 , 22 ]

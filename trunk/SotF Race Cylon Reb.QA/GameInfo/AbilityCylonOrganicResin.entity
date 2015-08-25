@@ -1,0 +1,45 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffCylonOrganicResinSelf"
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "MutualThreat"
+	mediumEffectName "MutualThreat"
+	largeEffectName "MutualThreat"
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithoutBase"
+improveSourceResearchSubject "RESEARCHSUBJECT_CYLON_ABILITYACCESS_ORGANICRESIN"
+aiUseTime "OnlyWhenOrbitingEnemyOrAlliedPlanet"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 160.000000
+	Level:1 160.000000
+	Level:2 160.000000
+	Level:3 160.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_CYLON_ABILITYACCESS_ORGANICRESIN"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_CYLON_THEPLAN_ORGANICRESIN_NAME"
+descStringID "IDS_ABILITY_CYLON_THEPLAN_ORGANICRESIN_DESCRIPTION"
+hudIcon "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_ORGANICRESIN"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_CYLON_THEPLAN_ORGANICRESIN"
+infoCardIcon ""

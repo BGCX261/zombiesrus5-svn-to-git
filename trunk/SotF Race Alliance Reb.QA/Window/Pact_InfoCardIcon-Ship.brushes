@@ -1,0 +1,123 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 24
+brush
+	name "INFOCARDICON_CAPITALSHIP_PACTSIEGE"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 1 , 231 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PACTCOLONY"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 1 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PACTCARRIER"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 47 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PACTBATTLESHIP"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 24 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PACTSUPPORT"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 93 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PACTDESTROYER"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 70 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PACTANTIFIGHTER"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 70 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PACTANTIMODULE"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 323 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PACTCARRIER"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 162 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PACTCOLONY"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 1 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PACTHEAVY"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 24 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PACTLIGHT"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 185 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PACTLONGRANGE"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 208 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PACTSCOUT"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 93 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PACTSIEGE"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 47 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PACTUTILITY0"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 254 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PACTUTILITY1"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 277 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PACTMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 139 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PACTSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 300 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TRADESHIP_PACT"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 116 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_REFINERYSHIP_PACT"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 231 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADPACTCOMBAT"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 139 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADPACTBOMBER"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 116 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PACTENVOY"
+	content "Simple"
+	fileName "Pact_Unit_Infocard"
+	pixelBox [ 277 , 70 , 22 , 22 ]

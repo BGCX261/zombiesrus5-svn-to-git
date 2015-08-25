@@ -1,0 +1,84 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 16
+brush
+	name "MAINVIEWICON_PLANETMODULE_CYLONORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 91 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_CYLONORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 121 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_CYLONORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 181 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_CYLONORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 31 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_CYLONORBITALMISSILEDEFENSE"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 1 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_CYLONORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 151 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_CYLONORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 211 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_CYLONORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 211 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_CYLONORBITALPHASEGATE"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 421 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_CYLONORBITALNANOWEAPONJAMMER"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 451 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_CYLONORBITALTRADEPORT"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 241 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_CYLONORBITALREFINERY"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 331 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_CYLONORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_CYLONORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 391 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_CYLONORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 61 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_CYLONORBITALCANNON"
+	content "Simple"
+	fileName "Cylon_Unit_Main"
+	pixelBox [ 271 , 61 , 28 , 28 ]
+	

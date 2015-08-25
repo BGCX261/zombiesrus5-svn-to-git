@@ -1,0 +1,76 @@
+﻿TXT
+entityType "StarBaseUpgrade"
+stageCount 3
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADE_NEPHILIM_CULTURE0_NAME"
+	descStringID "IDS_STARBASEUPGRADE_NEPHILIM_CULTURE0_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_CULTURE0"
+	smallHudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_CULTURE0"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADE_NEPHILIM_CULTURE0_NAME"
+	descStringID "IDS_STARBASEUPGRADE_NEPHILIM_CULTURE0_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCHSUBJECT_NEPHILIM_STARBASEUPGRADEACCESS_CULTURE"
+			Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_CULTURE0"
+	smallHudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_CULTURE0"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "BaseTradeIncomeRate"
+		value 0.75000
+	upgradeProperty
+		propertyType "CultureSpreadRate"
+		value 1.750000
+	upgradeProperty
+		propertyType "EnemyCultureRepelRate"
+		value 0.500000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADE_NEPHILIM_CULTURE1_NAME"
+	descStringID "IDS_STARBASEUPGRADE_NEPHILIM_CULTURE1_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_CULTURE1"
+	smallHudIcon "HUDICON_STARBASEUPGRADE_NEPHILIM_CULTURE1"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "BaseTradeIncomeRate"
+		value 1.250000
+	upgradeProperty
+		propertyType "CultureSpreadRate"
+		value 3.500000
+	upgradeProperty
+		propertyType "EnemyCultureRepelRate"
+		value 1.000000
+	upgradeBoolPropertyCount 0
+xpModifier 25.00000

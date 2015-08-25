@@ -1,0 +1,55 @@
+TXT
+backdrop "MainMenuScreenBackdrop"
+logoIconRefArea [298, 495, 414 , 187]
+logoIcon "MainMenuScreenLogo"
+titleRefArea [402, 118,  220, 46 ]
+titleStringId "IDSMainMenuScreenTitle"
+titleFont "TabbedScreenTitle"
+titleOverlayRefArea [304, 84,  414 , 90 ]
+titleOverlay "MainMenuScreenTitleOverlay"
+hasUpdateButton FALSE
+singlePlayerButton
+	area [477, 180,  256 , 173 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 200
+	textOffsetFromLeft 60
+	underlay "FallenMainMenuButtonOverlayLarge"
+	overlay "FallenMainMenuButtonOverlayLarge"			
+	icon "MainMenuScreenSinglePlayerButton"
+	text "IDS_EMPTY_STRING"
+multiPlayerButton
+	area [477, 357,  256 , 173 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 200
+	textOffsetFromLeft 60
+	underlay "FallenMainMenuButtonOverlayLarge"
+	overlay "FallenMainMenuButtonOverlayLarge"		
+	icon "MainMenuScreenMultiPlayerButton"
+	text "IDS_EMPTY_STRING"	
+icoButton
+	area [743, 180,  256 , 173 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 200
+	textOffsetFromLeft 60
+	underlay "FallenMainMenuButtonOverlayLarge"
+	overlay "FallenMainMenuButtonOverlayLarge"		
+	icon "MainMenuScreenIcoButton"
+	text "IDS_EMPTY_STRING"	
+optionsButton
+	area [743, 357,  256 , 173 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 200
+	textOffsetFromLeft 60
+	underlay "FallenMainMenuButtonOverlayLarge"
+	overlay "FallenMainMenuButtonOverlayLarge"		
+	icon "MainMenuScreenOptionsButton"
+	text "IDS_EMPTY_STRING"
+quitButton
+	area [605, 532,  256 , 173 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 200r
+	textOffsetFromLeft 60
+	underlay "FallenMainMenuButtonOverlayLarge"
+	overlay "FallenMainMenuButtonOverlayLarge"			
+	icon "MainMenuScreenQuitButton"
+	text "IDS_EMPTY_STRING"

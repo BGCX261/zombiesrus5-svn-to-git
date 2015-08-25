@@ -1,0 +1,9 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 1
+brush
+	name "LoadScreenCharacterColonial"
+	content "Simple"
+	fileName "Startup_Loadscreen_cylon"
+	pixelBox [ 500 , 0 , 441 , 749 ]
+

@@ -1,0 +1,118 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 23
+brush
+	name "CAPITALSHIPPICTURE_PACTCOLONY"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 2 , 470 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PACTCARRIER"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 342 , 470 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PACTBATTLESHIP"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 172 , 470 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PACTSUPPORT"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 682 , 470 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PACTSIEGE"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 512 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_TRADESHIP_PACT"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 852 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_REFINERYSHIP_PACT"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 1702 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADPACTCOMBAT"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 1022 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADPACTBOMBER"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 852 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PACTANTIFIGHTER"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 512 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PACTCARRIER"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 1192 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PACTCOLONY"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 2 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PACTHEAVY"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 172 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PACTLIGHT"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 1362 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PACTLONGRANGE"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 1532 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PACTSCOUT"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 682 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PACTSIEGE"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 342 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PACTUTILITY0"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 1702 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PACTUTILITY1"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 1872 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PACTMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 1022 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PACTSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 1532 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PACTANTIMODULE"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 1702 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PACTENVOY"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 1872 , 470 , 167 , 75 ]

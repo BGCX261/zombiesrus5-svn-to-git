@@ -1,0 +1,18 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 3
+brush
+	name "PictureCannonShellPact"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 1702 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASEPACT"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 1362 , 80 , 167 , 75 ]
+brush
+	name "PictureSpaceMinePact"
+	content "Simple"
+	fileName "Pact_Unit_Picture"
+	pixelBox [ 2 , 80 , 167 , 75 ]

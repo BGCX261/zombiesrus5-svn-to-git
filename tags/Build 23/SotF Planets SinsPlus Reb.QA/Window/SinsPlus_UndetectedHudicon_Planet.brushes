@@ -1,0 +1,75 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 14
+brush
+	name "UNDETECTEDICON_PLANET_SINSPLUSCITY01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 288 , 77 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SINSPLUSCITY02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 288 , 205 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SINSPLUSVOLCANICDARKSIDE"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 288 , 333 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SINSPLUSTERRANEARTH"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 288 , 461 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SINSPLUSFOREST"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 288 , 589 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SINSPLUSFOREST02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 288 , 717 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SINSPLUSGRASS"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 288 , 845 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SINSPLUSINDUSTRIAL01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 288 , 973 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SINSPLUSINDUSTRIAL02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 795 , 77 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SINSPLUSPARADISE01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 795 , 205 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SINSPLUSPARADISE02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 795 , 333 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SINSPLUSPARADISE03"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 795 , 461 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SINSPLUSRELIC01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 795 , 589 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_PLANET_SINSPLUSWATER01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 795 , 717 , 50 , 50 ]
+
+

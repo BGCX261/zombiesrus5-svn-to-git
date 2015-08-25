@@ -1,0 +1,309 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 17
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSPACT0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 960 , 720 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 960 , 720 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 960 , 720 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 960 , 720 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 960 , 720 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSPACT1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 896 , 720 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 896 , 720 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 896 , 720 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 896 , 720 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 896 , 720 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSPACT2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 832 , 720 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 832 , 720 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 832 , 720 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 832 , 720 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 832 , 720 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSPACT3"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 768 , 720 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 768 , 720 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 768 , 720 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 768 , 720 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 768 , 720 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSPACT4"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 704 , 720 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 704 , 720 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 704 , 720 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 704 , 720 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 704 , 720 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSPACT5"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 640 , 720 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 640 , 720 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 640 , 720 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 640 , 720 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 640 , 720 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSPACT6"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 576 , 720 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 576 , 720 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 576 , 720 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 576 , 720 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 576 , 720 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSPACT7"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 512 , 720 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 512 , 720 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 512 , 720 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 512 , 720 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 512 , 720 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXCAPITALSHIPSRACE20"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 960 , 822 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 960 , 822 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 960 , 822 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 960 , 822 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 960 , 822 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSPACT0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 960 , 771 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 960 , 771 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 960 , 771 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 960 , 771 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 960 , 771 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSPACT1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 896 , 771 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 896 , 771 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 896 , 771 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 896 , 771 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 896 , 771 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSPACT2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 832 , 771 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 832 , 771 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 832 , 771 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 832 , 771 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 832 , 771 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSPACT3"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 768 , 771 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 768 , 771 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 768 , 771 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 768 , 771 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 768 , 771 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSPACT4"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 704 , 771 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 704 , 771 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 704 , 771 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 704 , 771 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 704 , 771 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSPACT5"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 640 , 771 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 640 , 771 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 640 , 771 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 640 , 771 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 640 , 771 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSPACT6"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 576 , 771 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 576 , 771 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 576 , 771 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 576 , 771 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 576 , 771 , 63 , 48 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_MAXSHIPSLOTSPACT7"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 512 , 771 , 63 , 48 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 512 , 771 , 63 , 48 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 512 , 771 , 63 , 48 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 512 , 771 , 63 , 48 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 512 , 771 , 63 , 48 ]

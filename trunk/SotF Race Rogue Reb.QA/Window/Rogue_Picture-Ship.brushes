@@ -1,0 +1,123 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 24
+brush
+	name "CAPITALSHIPPICTURE_ROGUECOLONY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 2 , 470 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_ROGUECARRIER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 342 , 470 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_ROGUEBATTLESHIP"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 172 , 470 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_ROGUEDESTROYER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 172 , 470 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_ROGUESUPPORT"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 682 , 470 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_ROGUESIEGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 512 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_TRADESHIP_ROGUE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 852 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_REFINERYSHIP_ROGUE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1702 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADROGUECOMBAT"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1022 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADROGUEBOMBER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 852 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ROGUEANTIFIGHTER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 512 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ROGUECARRIER"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1192 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ROGUECOLONY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 2 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ROGUEHEAVY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 172 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ROGUELIGHT"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1362 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ROGUELONGRANGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1532 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ROGUESCOUT"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 682 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ROGUESIEGE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 342 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ROGUEUTILITY0"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1702 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ROGUEUTILITY1"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1872 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ROGUEMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1022 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ROGUESTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1532 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ROGUEANTIMODULE"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1702 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ROGUEENVOY"
+	content "Simple"
+	fileName "Transhuman_Unit_Picture"
+	pixelBox [ 1872 , 470 , 167 , 75 ]

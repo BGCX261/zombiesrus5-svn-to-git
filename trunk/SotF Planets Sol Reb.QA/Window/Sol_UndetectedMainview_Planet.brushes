@@ -1,0 +1,95 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 18
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_TERRAN_EARTH"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 1 , 238 , 50 , 50 ]
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_PRIMORDIAL_VENUS"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 52 , 238 , 50 , 50 ]
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_PELLUCID_PLUTO"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 103 , 238 , 50 , 50 ]
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_METAL_MERCURY"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 154 , 238 , 50 , 50 ]
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_GAS_URANUS"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 205 , 238 , 50 , 50 ]
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_GAS_SATURN"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 256 , 238 , 50 , 50 ]
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_GAS_NEPTUNE"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 307 , 238 , 50 , 50 ]
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_GAS_JUPITER1"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 358 , 238 , 50 , 50 ]
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_GAS_JUPITER2"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 409 , 238 , 50 , 50 ]
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_DUST_MARS"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 460 , 238 , 50 , 50 ]
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_ICE01"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 511 , 238 , 50 , 50 ]
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_ICE02"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 562 , 238 , 50 , 50 ]
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_TERRAN_EARTH02"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 613 , 238 , 50 , 50 ]
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_TERRAN01"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 664 , 238 , 50 , 50 ]
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_TERRAN02"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 715 , 238 , 50 , 50 ]
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_TERRAN_EARTH03"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 766 , 238 , 50 , 50 ]
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_DESERT01"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 817 , 238 , 50 , 50 ]
+brush
+	name "UNDETECTEDMAINVIEWICON_PLANET_SOL_DUST_MARS02"
+	content "Simple"
+	fileName "Sol_Icons_Planets"
+	pixelBox [ 868 , 238 , 50 , 50 ]
+
+

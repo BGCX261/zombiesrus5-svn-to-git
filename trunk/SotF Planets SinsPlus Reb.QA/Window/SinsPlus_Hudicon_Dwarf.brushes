@@ -1,0 +1,75 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 14
+brush
+	name "HUDICON_DWARF_SINSPLUSCITY01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 2 , 77 , 50 , 50 ]
+brush
+	name "HUDICON_DWARF_SINSPLUSCITY02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 2 , 205 , 50 , 50 ]
+brush
+	name "HUDICON_DWARF_SINSPLUSVOLCANICDARKSIDE"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 2 , 333 , 50 , 50 ]
+brush
+	name "HUDICON_DWARF_SINSPLUSTERRANEARTH"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 2 , 461 , 50 , 50 ]
+brush
+	name "HUDICON_DWARF_SINSPLUSFOREST"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 2 , 589 , 50 , 50 ]
+brush
+	name "HUDICON_DWARF_SINSPLUSFOREST02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 2 , 717 , 50 , 50 ]
+brush
+	name "HUDICON_DWARF_SINSPLUSGRASS"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 2 , 845 , 50 , 50 ]
+brush
+	name "HUDICON_DWARF_SINSPLUSINDUSTRIAL01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 2 , 973 , 50 , 50 ]
+brush
+	name "HUDICON_DWARF_SINSPLUSINDUSTRIAL02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 509 , 77 , 50 , 50 ]
+brush
+	name "HUDICON_DWARF_SINSPLUSPARADISE01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 509 , 205 , 50 , 50 ]
+brush
+	name "HUDICON_DWARF_SINSPLUSPARADISE02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 509 , 333 , 50 , 50 ]
+brush
+	name "HUDICON_DWARF_SINSPLUSPARADISE03"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 509 , 461 , 50 , 50 ]
+brush
+	name "HUDICON_DWARF_SINSPLUSRELIC01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 509 , 589 , 50 , 50 ]
+brush
+	name "HUDICON_DWARF_SINSPLUSWATER01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 509 , 717 , 50 , 50 ]
+
+

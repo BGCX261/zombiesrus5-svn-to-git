@@ -1,0 +1,75 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 14
+brush
+	name "UNDETECTEDICON_GIANT_TENORIAS_DESERT_BENDARO"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 457 , 77 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_TENORIAS_DUST_A"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 457 , 205 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_TENORIAS_GAS_NEPTUNIAN2"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 457 , 333 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_TENORIAS_GAS1"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 457 , 461 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_TENORIAS_METAL_PAYNE"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 457 , 589 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_TENORIAS_TERRAN_PORILAD"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 457 , 717 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_TENORIAS_VOLCANIC_PYRUS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 457 , 845 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_TENORIAS_DESERT_CRYOS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 964 , 77 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_TENORIAS_GAS_FENDAREA"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 964 , 205 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_TENORIAS_GAS0"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 964 , 333 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_TENORIAS_ICE_JETORION"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 964 , 461 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_TENORIAS_TERRAN_LIKE"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 964 , 589 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_TENORIAS_VOLCANIC_KRAAHKAN"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 964 , 717 , 50 , 50 ]
+brush
+	name "UNDETECTEDICON_GIANT_TENORIAS_WATER_AQUAS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 964 , 845 , 50 , 50 ]
+
+

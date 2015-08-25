@@ -1,0 +1,348 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 30
+brush
+	name "HUDICON_PLANETMODULE_PACTORBITALFRIGATEFACTORY"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 153 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 153 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 119 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 153 , 119 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 153 , 119 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PACTORBITALCAPITALSHIPFACTORY"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PACTORBITALCULTURECENTER"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 300 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 300 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 119 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 300 , 119 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 300 , 119 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PACTORBITALHANGARDEFENSE"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 55 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 55 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 119 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 55 , 119 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 55 , 119 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PACTORBITALGAUSSDEFENSE"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 6 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 6 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 119 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 6 , 119 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 6 , 119 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PACTORBITALSHIELDGENERATOR"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 251 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 251 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 14 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 251 , 14 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 251 , 14 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PACTORBITALREPAIRPLATFORM"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 251 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 251 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 119 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 251 , 119 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 251 , 119 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PACTORBITALCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 349 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 349 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 14 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 349 , 14 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 349 , 14 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PACTORBITALNONCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PACTORBITALTRADEPORT"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PACTORBITALREFINERY"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 202 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 202 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 14 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 202 , 14 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 202 , 14 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PACTORBITALMETALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 398 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 398 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 14 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 398 , 14 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 398 , 14 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PACTORBITALCRYSTALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PACTORBITALJUMPBLOCKER"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_PACTORBITALCANNON"
+	content "States"
+	Disabled
+		fileName "Pact_Unit_Hud_Disabled"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Pact_Unit_Hud_Pressed"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Pact_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+	Focused
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+	Normal
+		fileName "Pact_Unit_Hud_Normal"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PACTORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 91 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PACTORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 121 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PACTORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 181 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PACTORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 31 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PACTORBITALGAUSSDEFENSE"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 1 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PACTORBITALSHIELDGENERATOR"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 421 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PACTORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 151 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PACTORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 211 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PACTORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 211 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PACTORBITALTRADEPORT"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 241 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PACTORBITALREFINERY"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 331 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PACTORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 361 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PACTORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 391 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PACTORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 61 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PACTORBITALCANNON"
+	content "Simple"
+	fileName "Pact_Unit_Main"
+	pixelBox [ 271 , 1 , 28 , 28 ]

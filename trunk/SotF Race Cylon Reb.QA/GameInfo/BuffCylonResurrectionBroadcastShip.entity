@@ -1,0 +1,93 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 5
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnCondition"
+	instantActionConditionType "IfOwnerHasBuff"
+	conditionBuffType "BuffCylonResurrectionHeavy"
+	conditionBuffShortName "IDS_FRIGATE_CYLONHEAVY_NAME"
+	buffType "BuffCylonResurrectHeavyOnDeath"
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnCondition"
+	instantActionConditionType "IfOwnerHasBuff"
+	conditionBuffType "BuffCylonResurrectionLight"
+	conditionBuffShortName "IDS_FRIGATE_CYLONLONGRANGE_NAME"
+	buffType "BuffCylonResurrectLightOnDeath"
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnCondition"
+	instantActionConditionType "IfOwnerHasBuff"
+	conditionBuffType "BuffCylonResurrectionBasestar"
+	conditionBuffShortName "IDS_CAPITALSHIP_CYLONBATTLESHIP_NAME"
+	buffType "BuffCylonResurrectBasestarOnDeath"
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnCondition"
+	instantActionConditionType "IfOwnerHasBuff"
+	conditionBuffType "BuffCylonResurrectionWorldstar"
+	conditionBuffShortName "IDS_CAPITALSHIP_CYLONCARRIER_NAME"
+	buffType "BuffCylonResurrectWorldstarOnDeath"
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnCondition"
+	instantActionConditionType "IfOwnerHasBuff"
+	conditionBuffType "BuffCylonResurrectionBoardingstar"
+	conditionBuffShortName "IDS_FRIGATE_CYLONSIEGE_NAME"
+	buffType "BuffCylonResurrectBoardingstarOnDeath"
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 3
+finishCondition
+	finishConditionType "ExitHyperspace"
+finishCondition
+	finishConditionType "OwnerChanged"
+finishCondition
+	finishConditionType "LastSpawnerNoLongerHasBuff"
+	buffTypeToQuery "BuffCylonResurrectionShip"
+	

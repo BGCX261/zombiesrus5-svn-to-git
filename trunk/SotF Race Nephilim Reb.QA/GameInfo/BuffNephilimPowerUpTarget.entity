@@ -1,0 +1,40 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable TRUE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "RemoveBuffOfType"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	buffTypeToRemove "BuffNephilimPowerDownTarget"
+numPeriodicActions 0
+numOverTimeActions 1
+overTimeAction
+	buffOverTimeActionType "RestoreShields"
+	shieldRestoreRate
+		Level:0 4.000000
+		Level:1 4.000000
+		Level:2 4.000000
+		Level:3 4.000000
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "MaxShieldPoints"
+	value
+		Level:0 750.000000
+		Level:1 750.000000
+		Level:2 850.000000
+		Level:3 950.000000
+numEntityBoolModifiers 1
+	entityBoolModifier "ImmuneToNonUltimateDisable"
+numFinishConditions 2
+finishCondition
+	finishConditionType "FirstSpawnerNoLongerHasBuff"
+	buffTypeToQuery "BuffNephilimPowerUpSelf"
+finishCondition
+	finishConditionType "OwnerChanged"

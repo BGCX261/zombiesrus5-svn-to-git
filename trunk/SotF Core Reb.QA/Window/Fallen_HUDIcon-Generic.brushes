@@ -1,0 +1,138 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 14
+brush
+	name "HUDIconCannonShellNephilim"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 447 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 447 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 259 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 447 , 259 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 447 , 259 , 47 , 33 ]
+brush
+	name "HUDIconCannonShellPlague"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+brush
+	name "HUDIconSmallCannonShellNephilim"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 481 , 31 , 28 , 28 ]
+brush
+	name "HUDIconSmallCannonShellPlague"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 481 , 61 , 28 , 28 ]
+brush
+	name "HUDIconSpaceMineNephilim"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+brush
+	name "HUDIconSpaceMinePlagueExplosive"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+brush
+	name "HUDIconSpaceMinePlagueGravity"
+	content "States"
+	Disabled
+		fileName "Fallen_Unit_Hud_Disabled"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Fallen_Unit_Hud_Pressed"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Fallen_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+	Focused
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+	Normal
+		fileName "Fallen_Unit_Hud_Normal"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+brush
+	name "HUDIconSmallSpaceMineNephilim"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 301 , 31 , 28 , 28 ]
+brush
+	name "HUDIconSmallSpaceMinePlagueExplosive"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 301 , 61 , 28 , 28 ]
+brush
+	name "HUDIconSmallSpaceMinePlagueGravity"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 451 , 241 , 28 , 28 ]
+brush
+	name "HUDIconOverlayPlanetBuildShipNotEnoughShipSlotsNephilim"
+	content "Simple"
+	fileName "Interface0"
+	pixelBox [ 914 , 351 , 50 , 36 ]
+brush
+	name "HUDIconOverlayPlanetBuildShipNotEnoughCapitalShipSlotsNephilim"
+	content "Simple"
+	fileName "Interface0"
+	pixelBox [ 914 , 388 , 50 , 36 ]
+brush
+	name "HUDIconOverlayPlanetBuildShipNotEnoughShipSlotsPlague"
+	content "Simple"
+	fileName "Interface0"
+	pixelBox [ 965 , 351 , 50 , 36 ]
+brush
+	name "HUDIconOverlayPlanetBuildShipNotEnoughCapitalShipSlotsPlague"
+	content "Simple"
+	fileName "Interface0"
+	pixelBox [ 965 , 388 , 50 , 36 ]

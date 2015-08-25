@@ -1,0 +1,51 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffColonialRapidManufacturingSpawner"
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID "EFFECT_INSTANTBUILDFIGHTERS"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility TRUE
+maxNumLevels 4
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 2.000000
+	Level:2 4.000000
+	Level:3 6.000000
+aiUseTime "OnlyWhenEnemyFleetWillPrevail"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 80.000000
+	Level:1 100.000000
+	Level:2 120.000000
+	Level:3 140.000000
+cooldownTime
+	Level:0 60.000000
+	Level:1 120.000000
+	Level:2 180.000000
+	Level:3 240.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_COLONIAL_RAPIDMANUFACTURING_NAME"
+descStringID "IDS_ABILITY_COLONIAL_RAPIDMANUFACTURING_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_COLONIAL_RAPIDMANUFACTURING"
+smallHudIcon "HUDICON_ABILITY_COLONIAL_RAPIDMANUFACTURING"
+infoCardIcon ""

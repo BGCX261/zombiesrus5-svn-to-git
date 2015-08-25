@@ -1,0 +1,75 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 14
+brush
+	name "PICTURE_PLANET_SINSPLUSCITY01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 171 , 1 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_SINSPLUSCITY02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 171 , 129 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_SINSPLUSVOLCANICDARKSIDE"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 171 , 257 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_SINSPLUSTERRANEARTH"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 171 , 385 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_SINSPLUSFOREST"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 171 , 513 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_SINSPLUSFOREST02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 171 , 641 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_SINSPLUSGRASS"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 171 , 769 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_SINSPLUSINDUSTRIAL01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 171 , 897 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_SINSPLUSINDUSTRIAL02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 678 , 1 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_SINSPLUSPARADISE01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 678 , 129 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_SINSPLUSPARADISE02"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 678 , 257 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_SINSPLUSPARADISE03"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 678 , 385 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_SINSPLUSRELIC01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 678 , 513 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_SINSPLUSWATER01"
+	content "Simple"
+	fileName "SinsPlus_Icons_Planets"
+	pixelBox [ 678 , 641 , 167 , 75 ]
+
+

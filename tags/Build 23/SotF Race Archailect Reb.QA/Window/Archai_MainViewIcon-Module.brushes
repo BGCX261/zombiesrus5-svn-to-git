@@ -1,0 +1,79 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 15
+brush
+	name "MAINVIEWICON_PLANETMODULE_ARCHAIORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 91 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ARCHAIORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 121 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ARCHAIORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 181 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ARCHAIORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 31 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ARCHAIORBITALBEAMDEFENSE"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 1 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ARCHAIORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 151 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ARCHAIORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 211 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ARCHAIORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 211 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ARCHAIORBITALANTIMATTERRECHARGER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 421 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ARCHAIORBITALTRADEPORT"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 241 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ARCHAIORBITALREFINERY"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 331 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ARCHAIORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 361 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ARCHAIORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 391 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ARCHAIORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 61 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ARCHAIORBITALCANNON"
+	content "Simple"
+	fileName "Transhuman_Unit_Main"
+	pixelBox [ 271 , 31 , 28 , 28 ]
+	

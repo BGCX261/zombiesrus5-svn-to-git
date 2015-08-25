@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SotF Core Reb.QA</name>
+	<comment></comment>
+	<projects>
+		<project>Rebellion Reference</project>
+		<project>SotF Addon Artifacts Reb.QA</project>
+		<project>SotF Addon Moons Reb.QA</project>
+		<project>SotF Core Flagship Reb.QA</project>
+		<project>SotF Race Advent Reb.QA</project>
+		<project>SotF Race Alliance Reb.QA</project>
+		<project>SotF Race Archailect Reb.QA</project>
+		<project>SotF Race Colonial Reb.QA</project>
+		<project>SotF Race Cylon Reb.QA</project>
+		<project>SotF Race Hypercorp Reb.QA</project>
+		<project>SotF Race Nephilim Reb.QA</project>
+		<project>SotF Race Plague Reb.QA</project>
+		<project>SotF Race Rogue Reb.QA</project>
+		<project>SotF Race Tec Reb.QA</project>
+		<project>SotF Race Vasari Reb.QA</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.zombiesrus5.plugin.sose.entityBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.zombiesrus5.plugin.sose.entityNature</nature>
+	</natures>
+</projectDescription>

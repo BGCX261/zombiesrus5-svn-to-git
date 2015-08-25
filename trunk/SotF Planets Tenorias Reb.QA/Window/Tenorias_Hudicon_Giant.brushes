@@ -1,0 +1,75 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 14
+brush
+	name "HUDICON_GIANT_TENORIAS_DESERT_BENDARO"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 340 , 77 , 50 , 50 ]
+brush
+	name "HUDICON_GIANT_TENORIAS_DUST_A"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 340 , 205 , 50 , 50 ]
+brush
+	name "HUDICON_GIANT_TENORIAS_GAS_NEPTUNIAN2"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 340 , 333 , 50 , 50 ]
+brush
+	name "HUDICON_GIANT_TENORIAS_GAS1"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 340 , 461 , 50 , 50 ]
+brush
+	name "HUDICON_GIANT_TENORIAS_METAL_PAYNE"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 340 , 589 , 50 , 50 ]
+brush
+	name "HUDICON_GIANT_TENORIAS_TERRAN_PORILAD"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 340 , 717 , 50 , 50 ]
+brush
+	name "HUDICON_GIANT_TENORIAS_VOLCANIC_PYRUS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 340 , 845 , 50 , 50 ]
+brush
+	name "HUDICON_GIANT_TENORIAS_DESERT_CRYOS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 847 , 77 , 50 , 50 ]
+brush
+	name "HUDICON_GIANT_TENORIAS_GAS_FENDAREA"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 847 , 205 , 50 , 50 ]
+brush
+	name "HUDICON_GIANT_TENORIAS_GAS0"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 847 , 333 , 50 , 50 ]
+brush
+	name "HUDICON_GIANT_TENORIAS_ICE_JETORION"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 847 , 461 , 50 , 50 ]
+brush
+	name "HUDICON_GIANT_TENORIAS_TERRAN_LIKE"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 847 , 589 , 50 , 50 ]
+brush
+	name "HUDICON_GIANT_TENORIAS_VOLCANIC_KRAAHKAN"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 847 , 717 , 50 , 50 ]
+brush
+	name "HUDICON_GIANT_TENORIAS_WATER_AQUAS"
+	content "Simple"
+	fileName "Tenorias_Icons_Planets"
+	pixelBox [ 847 , 845 , 50 , 50 ]
+
+
